@@ -22,7 +22,7 @@ export default function WeatherPanel() {
           </button>
         ))}
       </div>
-      <div className="grid gap-6 lg:grid-cols-2">
+      <div className="grid min-w-0 grid-cols-1 gap-6 lg:grid-cols-2">
         {PLACES.map((p) => <LiveWeather key={p.id} place={p} units={mode === "local" ? undefined : mode} />)}
       </div>
     </div>

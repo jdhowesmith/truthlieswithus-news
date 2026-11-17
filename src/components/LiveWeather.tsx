@@ -39,7 +39,7 @@ export default function LiveWeather({ place, units: forced }: { place: Place; un
   const w = units === "metric" ? "km/h" : "mph";
   const p = units === "metric" ? "mm" : "in";
   return (
-    <section aria-labelledby={`wx-${place.id}`} className="rounded-sm border border-neutral-200 dark:border-neutral-800">
+    <section aria-labelledby={`wx-${place.id}`} className="min-w-0 overflow-hidden rounded-sm border border-neutral-200 dark:border-neutral-800">
       <div className="border-b border-neutral-200 bg-neutral-50 px-4 py-3 dark:border-neutral-800 dark:bg-neutral-900">
         <h2 id={`wx-${place.id}`} className="font-serif text-2xl font-bold text-neutral-950 dark:text-white">{place.name}</h2>
         <p className="text-sm text-neutral-600 dark:text-neutral-400">{place.region} · live forecast</p>

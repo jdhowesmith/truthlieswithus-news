@@ -9,8 +9,8 @@ export const SECTIONS: Section[] = [
   { slug: "world", name: "World", blurb: "Major international stories." },
   { slug: "business", name: "Business & Money", short: "Business", blurb: "Rates, housing, banking and your wallet." },
   { slug: "weather-alerts", name: "Weather & Alerts", short: "Weather", blurb: "Forecasts, advisories and emergency alerts for the Shuswap and Fort Myers Beach." },
-  { slug: "sports", name: "Sports", blurb: "Oilers hockey and more." },
-  { slug: "culture", name: "Culture & Obituaries", short: "Culture", blurb: "Music, entertainment and lives remembered." },
+  { slug: "sports", name: "Sports", blurb: "Last night's NFL and NHL scores, the big stories and the facts that slipped through." },
+  { slug: "culture", name: "Culture & Obituaries", short: "Culture", blurb: "Streaming, music, entertainment and lives remembered." },
 ];
 
 export function getSection(slug: string) {
