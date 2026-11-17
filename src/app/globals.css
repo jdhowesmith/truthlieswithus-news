@@ -1,0 +1,41 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme inline {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-serif), Georgia, "Times New Roman", serif;
+  --color-brand: #b4141e;
+  --color-brand-dark: #8f0f17;
+  --color-ink: #121417;
+  --color-paper: #ffffff;
+  --color-muted: #5b6270;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: 7rem;
+}
+
+body {
+  font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }
+
+.article-body p:first-of-type::first-letter {
+  float: left;
+  font-family: var(--font-serif), Georgia, serif;
+  font-size: 3.4em;
+  line-height: 0.9;
+  padding: 0.08em 0.1em 0 0;
+  font-weight: 700;
+}
+
+:focus-visible {
+  outline: 3px solid #b4141e;
+  outline-offset: 2px;
+}
