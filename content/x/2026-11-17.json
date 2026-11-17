@@ -1,0 +1,1089 @@
+{
+  "date": "2026-11-17",
+  "title": "Today on X",
+  "account": "truthlieswithus",
+  "windowLabel": "6:40 a.m. Monday, Nov. 16 to 6:41 a.m. Tuesday, Nov. 17, B.C. time",
+  "checked": "2026-11-17T10:52-07:00",
+  "checkedLabel": "10:52 a.m. B.C. time, Tuesday, Nov. 17, 2026",
+  "method": "Built from the News & Events brief’s X summary, then checked against the original posts via X. Counts are from that check and may have changed. The home timeline covered 1,656 posts (replies excluded). NHL trade items in the brief came from a separate public search, not from accounts we follow, and are omitted here.",
+  "followingTotal": 505,
+  "timelinePosts": 1656,
+  "trendsNote": "X’s worldwide list often reflects the most active regions at this hour, which is why it may look different from the Canada and U.S. lists.",
+  "trends": {
+    "canada": [
+      {
+        "name": "Bond",
+        "url": "https://x.com/search?q=Bond"
+      },
+      {
+        "name": "Robert Pattinson",
+        "url": "https://x.com/search?q=Robert%20Pattinson"
+      },
+      {
+        "name": "China",
+        "url": "https://x.com/search?q=China"
+      },
+      {
+        "name": "#TheGameAwards",
+        "url": "https://x.com/search?q=%23TheGameAwards"
+      },
+      {
+        "name": "GOTY",
+        "url": "https://x.com/search?q=GOTY"
+      },
+      {
+        "name": "Grammy",
+        "url": "https://x.com/search?q=Grammy"
+      },
+      {
+        "name": "Chargers",
+        "url": "https://x.com/search?q=Chargers"
+      },
+      {
+        "name": "Daniel Craig",
+        "url": "https://x.com/search?q=Daniel%20Craig"
+      },
+      {
+        "name": "Ravens",
+        "url": "https://x.com/search?q=Ravens"
+      },
+      {
+        "name": "GTA 6",
+        "url": "https://x.com/search?q=GTA%206"
+      }
+    ],
+    "us": [
+      {
+        "name": "GOTY",
+        "url": "https://x.com/search?q=GOTY"
+      },
+      {
+        "name": "GTA 6",
+        "url": "https://x.com/search?q=GTA%206"
+      },
+      {
+        "name": "#TheGameAwards",
+        "url": "https://x.com/search?q=%23TheGameAwards"
+      },
+      {
+        "name": "Dustin May",
+        "url": "https://x.com/search?q=Dustin%20May"
+      },
+      {
+        "name": "NSA Net",
+        "url": "https://x.com/search?q=NSA%20Net"
+      },
+      {
+        "name": "Game of the Year",
+        "url": "https://x.com/search?q=Game%20of%20the%20Year"
+      },
+      {
+        "name": "The NSA",
+        "url": "https://x.com/search?q=The%20NSA"
+      },
+      {
+        "name": "Geoff",
+        "url": "https://x.com/search?q=Geoff"
+      },
+      {
+        "name": "GTA VI",
+        "url": "https://x.com/search?q=GTA%20VI"
+      },
+      {
+        "name": "Crimson Desert",
+        "url": "https://x.com/search?q=Crimson%20Desert"
+      }
+    ],
+    "worldwide": [
+      {
+        "name": "森保監督",
+        "url": "https://x.com/search?q=%E6%A3%AE%E4%BF%9D%E7%9B%A3%E7%9D%A3"
+      },
+      {
+        "name": "GOTY",
+        "url": "https://x.com/search?q=GOTY"
+      },
+      {
+        "name": "#サッカー日本代表",
+        "url": "https://x.com/search?q=%23%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8"
+      },
+      {
+        "name": "#TheGameAwards",
+        "url": "https://x.com/search?q=%23TheGameAwards"
+      },
+      {
+        "name": "パラグアイ",
+        "url": "https://x.com/search?q=%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4"
+      },
+      {
+        "name": "森保さん",
+        "url": "https://x.com/search?q=%E6%A3%AE%E4%BF%9D%E3%81%95%E3%82%93"
+      },
+      {
+        "name": "GTA 6",
+        "url": "https://x.com/search?q=GTA%206"
+      },
+      {
+        "name": "#夜の音",
+        "url": "https://x.com/search?q=%23%E5%A4%9C%E3%81%AE%E9%9F%B3"
+      },
+      {
+        "name": "#HappySakuyaDay",
+        "url": "https://x.com/search?q=%23HappySakuyaDay"
+      },
+      {
+        "name": "#Derdimizİstanbul",
+        "url": "https://x.com/search?q=%23Derdimiz%C4%B0stanbul"
+      }
+    ]
+  },
+  "themes": [
+    {
+      "id": "bank-outages",
+      "title": "Bank and airline outages, and a cyber-attack claim the banks have not backed",
+      "summary": "Accounts on the feed circulated reports of Monday outages at major U.S. banks and a separate system outage at United Airlines. Those disruptions were real: a technical problem at JPMorgan Chase delayed online banking and some transactions involving Chase at other banks, and service was restored by evening; United said a system outage delayed departures for a few hours. Several widely shared posts, including one from @GenFlynn, suggested the outages were “probably a cyber attack.” Chase has said a software bug caused its outage and that it was not a cyberattack. No major outlet has reported that the bank and airline incidents were connected or were a cyberattack.",
+      "whyItMatters": "A real outage can still be wrapped in a claim that goes further than the evidence. Readers who bank or fly need the confirmed disruption, not the unverified explanation.",
+      "flags": [
+        {
+          "label": "Confirmed",
+          "kind": "confirmed",
+          "note": "The bank and United outages were real and are documented in official and wire reporting."
+        },
+        {
+          "label": "Disputed",
+          "kind": "disputed",
+          "note": "The cyber-attack claim is not supported. Chase attributed its outage to a software bug.",
+          "source": {
+            "title": "AP",
+            "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
+          }
+        }
+      ],
+      "related": [
+        {
+          "title": "Chase and other big U.S. banks recover after Monday outages",
+          "slug": "us-bank-outages-chase"
+        }
+      ],
+      "posts": [
+        {
+          "id": "2122398967292199282",
+          "username": "nicksortor",
+          "name": "Nick Sortor",
+          "url": "https://x.com/nicksortor/status/2122398967292199282",
+          "excerpt": "🚨 UPDATE: Outage reports for American banks CONTINUE to surge, now including Chase, Bank of America, US Bank, Wells Fargo, JPMorgan, and Truist There's also…",
+          "createdAt": "2026-11-16T18:38:40.000Z",
+          "likes": 7876,
+          "reposts": 2581,
+          "replies": 515,
+          "quotes": 223,
+          "engagement": 11195
+        },
+        {
+          "id": "2122451974775853373",
+          "username": "nicksortor",
+          "name": "Nick Sortor",
+          "url": "https://x.com/nicksortor/status/2122451974775853373",
+          "excerpt": "🚨 BREAKING: United Airlines is reporting a \"WIDESPREAD SYSTEM OUTAGE\" \"Our teams are working hard to get things back up and running as soon as possible.\" This…",
+          "createdAt": "2026-11-16T22:09:18.000Z",
+          "likes": 9089,
+          "reposts": 2529,
+          "replies": 389,
+          "quotes": 199,
+          "engagement": 12206
+        },
+        {
+          "id": "2122473405740134609",
+          "username": "GenFlynn",
+          "name": "General Mike Flynn",
+          "url": "https://x.com/GenFlynn/status/2122473405740134609",
+          "excerpt": "Breaking: When it looks like a duck, quacks like a duck, and walks like a duck, it’s probably a cyber attack. There have simply been far too many electronic…",
+          "createdAt": "2026-11-16T23:34:28.000Z",
+          "likes": 13714,
+          "reposts": 2872,
+          "replies": 903,
+          "quotes": 159,
+          "engagement": 17648
+        },
+        {
+          "id": "2122409096758563038",
+          "username": "bennyjohnson",
+          "name": "Benny Johnson",
+          "url": "https://x.com/bennyjohnson/status/2122409096758563038",
+          "excerpt": "In just the past week we’ve seen: -Microsoft outages -FAA air traffic outages -Workday outages -Major U.S. bank outages What is going on?",
+          "createdAt": "2026-11-16T19:18:55.000Z",
+          "likes": 12490,
+          "reposts": 1461,
+          "replies": 3514,
+          "quotes": 222,
+          "engagement": 17687
+        }
+      ]
+    },
+    {
+      "id": "starlink-faa",
+      "title": "Elon Musk says the FAA turned down free Starlink terminals",
+      "summary": "@elonmusk wrote that “Free Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were.” The offer and Transportation Secretary Sean Duffy’s reply are Musk’s own account. Neither Duffy nor the Department of Transportation has confirmed that exchange in reporting we checked. Coverage of the Nov. 13 FAA ground stop has described a router installation that flooded an older network with data; it is not clear Starlink would have prevented that problem.",
+      "whyItMatters": "This was one of the most-shared posts in the feed. It is presented here as Musk’s claim, not as a confirmed decision by the FAA.",
+      "flags": [
+        {
+          "label": "Unverified",
+          "kind": "unverified",
+          "note": "The offer and Duffy’s answer have not been independently confirmed by Duffy or DOT.",
+          "source": {
+            "title": "Teslarati on the FAA ground stop",
+            "url": "https://www.teslarati.com/faa-turned-down-free-starlink-offer-before-nationwide-ground-stop-elon-musk-says/"
+          }
+        }
+      ],
+      "related": [],
+      "posts": [
+        {
+          "id": "2122446366354096479",
+          "username": "elonmusk",
+          "name": "Elon Musk",
+          "url": "https://x.com/elonmusk/status/2122446366354096479",
+          "excerpt": "As I was saying … Free Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were.",
+          "createdAt": "2026-11-16T21:47:01.000Z",
+          "likes": 85919,
+          "reposts": 10467,
+          "replies": 3174,
+          "quotes": 778,
+          "engagement": 100338
+        }
+      ]
+    },
+    {
+      "id": "dirty-bomb-af1",
+      "title": "A “dirty bomb” threat and a change of presidential aircraft were linked in the feed",
+      "summary": "@JesseBWatters asked whether a “dirty bomb” threat in Washington explained airline problems, bank outages and a diversion of Air Force One, writing that the government was “telling us EVERYTHING is fine.” Two of those items have some basis in reporting, but not as one event. CNN, cited by other outlets, reported that U.S. intelligence indicates Iran is developing plans that could include a dirty bomb in Washington; the White House has said there are no credible threats to the homeland right now. Separately, the Washington Post reported that President Trump flew to Asia on a less secure plane, and ABC reported that intelligence officials had judged a threat to him not credible before that switch. No outlet we checked has tied the plane change, or Monday’s bank and airline outages, to a dirty-bomb plot.",
+      "whyItMatters": "Packaging several disruptions as one plot is how a feed can outrun the reporting. The pieces are being checked as separate stories.",
+      "flags": [
+        {
+          "label": "Partly confirmed",
+          "kind": "partial",
+          "note": "Reporting exists on an Iran dirty-bomb concern and, separately, on a change of presidential aircraft."
+        },
+        {
+          "label": "Disputed",
+          "kind": "disputed",
+          "note": "No outlet we checked has connected the plane change or Monday’s outages to a dirty-bomb threat.",
+          "source": {
+            "title": "Washington Post on the aircraft change",
+            "url": "https://www.washingtonpost.com/politics/2026/11/16/trump-takes-less-secure-plane-china/"
+          }
+        }
+      ],
+      "related": [
+        {
+          "title": "Iran fires drones at a U.S. radar site in Bahrain",
+          "slug": "iran-drones-bahrain-hormuz"
+        }
+      ],
+      "posts": [
+        {
+          "id": "2122503096450302300",
+          "username": "JesseBWatters",
+          "name": "Jesse Watters",
+          "url": "https://x.com/JesseBWatters/status/2122503096450302300",
+          "excerpt": "What the HECK is GOING ON? Airline Problems. Online Bank OUTAGES. Boats CRASHING. Air Force One just got DIVERTED. A \"DIRTY BOMB\" THREAT IN DC? Government is…",
+          "createdAt": "2026-11-17T01:32:27.000Z",
+          "likes": 14763,
+          "reposts": 3111,
+          "replies": 1147,
+          "quotes": 219,
+          "engagement": 19240
+        }
+      ]
+    },
+    {
+      "id": "obituaries",
+      "title": "Freeman Johnson, 106, and Pizza Hut co-founder Dan Carney, 95",
+      "summary": "Two death notices spread widely. @StevenErtelt and @DailyLoud reported that Freeman Johnson, described as the oldest known Pearl Harbor survivor, had died at 106. AP, USA Today and the Guardian report that Johnson died at his home in Centerville, Massachusetts. He was a 21-year-old sailor aboard the USS St. Louis on Dec. 7, 1941. @DailyLoud also reported that Pizza Hut co-founder Dan Carney had died at 95. That is confirmed: he died Nov. 13 in Wichita, Kansas. He and his brother Frank opened the first Pizza Hut there in 1958 with $600 borrowed from their mother.",
+      "whyItMatters": "These were among the most-engaged news posts in the feed, and both check out against independent obituaries.",
+      "flags": [
+        {
+          "label": "Confirmed",
+          "kind": "confirmed",
+          "note": "Both deaths are confirmed by wire and local reporting.",
+          "source": {
+            "title": "AP on Freeman Johnson",
+            "url": "https://apnews.com/article/freeman-johnson-dies-pearl-harbor-survivor-4b54100cfdfefc2506fa5e9a50cc1a47"
+          }
+        }
+      ],
+      "related": [],
+      "posts": [
+        {
+          "id": "2122428116782227914",
+          "username": "StevenErtelt",
+          "name": "Steven Ertelt",
+          "url": "https://x.com/StevenErtelt/status/2122428116782227914",
+          "excerpt": "BREAKING: Freeman Johnson, the oldest known Pearl Harbor survivor, has passed away at 106.",
+          "createdAt": "2026-11-16T20:34:30.000Z",
+          "likes": 40356,
+          "reposts": 5714,
+          "replies": 1634,
+          "quotes": 408,
+          "engagement": 48112
+        },
+        {
+          "id": "2122488891097944434",
+          "username": "DailyLoud",
+          "name": "Daily Loud",
+          "url": "https://x.com/DailyLoud/status/2122488891097944434",
+          "excerpt": "Freeman Johnson, believed to be the OLDEST surviving Pearl Harbor veteran, has died at 106 years old 🙏🕊️ Johnson was a 21-year-old Navy sailor aboard the USS…",
+          "createdAt": "2026-11-17T00:36:00.000Z",
+          "likes": 2281,
+          "reposts": 144,
+          "replies": 25,
+          "quotes": 3,
+          "engagement": 2453
+        },
+        {
+          "id": "2122615185571541060",
+          "username": "DailyLoud",
+          "name": "Daily Loud",
+          "url": "https://x.com/DailyLoud/status/2122615185571541060",
+          "excerpt": "SAD NEWS: Pizza Hut co-founder Dan Carney has died at 95-years-old. 🙏 Carney and his brother Frank launched Pizza Hut in Wichita, Kansas, in 1958 after…",
+          "createdAt": "2026-11-17T08:57:51.000Z",
+          "likes": 3437,
+          "reposts": 294,
+          "replies": 65,
+          "quotes": 17,
+          "engagement": 3813
+        }
+      ]
+    },
+    {
+      "id": "okeefe-court",
+      "title": "James O’Keefe’s first court appearance in Minneapolis",
+      "summary": "@JamesOKeefeIII said sheriff’s deputies had to escort him past a “mob” outside a Minneapolis courthouse and later wrote that there was “no police presence outside.” The court date is confirmed: O’Keefe and Cam Higby made their first appearance Monday on felony identity-theft and unlawful-voting charges tied to Aug. 11 primary videos in which they falsely told election judges they were registered voters. They were released without bail, did not enter pleas, and are due back Jan. 13. MPR News described groups of supporters and opponents outside, including “a small handful of protesters,” and did not report assaults. The “mob” and assault claims have not been independently confirmed.",
+      "whyItMatters": "The charges and the appearance are on the record. The street scene he described is his account, and local reporting describes a smaller protest than “mob” suggests.",
+      "flags": [
+        {
+          "label": "Confirmed",
+          "kind": "confirmed",
+          "note": "The Monday court appearance and the charges are confirmed by MPR News and Courthouse News.",
+          "source": {
+            "title": "MPR News",
+            "url": "https://www.mprnews.org/story/2026/11/16/james-okeefe-cameron-higby-appear-in-court-on-identity-theft-voting-charges"
+          }
+        },
+        {
+          "label": "Unverified",
+          "kind": "unverified",
+          "note": "The “mob” and assault claims were not corroborated in local reporting we checked."
+        }
+      ],
+      "related": [],
+      "posts": [
+        {
+          "id": "2122454279222931506",
+          "username": "JamesOKeefeIII",
+          "name": "James O'Keefe",
+          "url": "https://x.com/JamesOKeefeIII/status/2122454279222931506",
+          "excerpt": "Due to the mob outside the courthouse sheriffs had to escort us through the skyway with my defense lawyer @CWMadel and First Amendment litigator…",
+          "createdAt": "2026-11-16T22:18:28.000Z",
+          "likes": 25727,
+          "reposts": 7040,
+          "replies": 598,
+          "quotes": 95,
+          "engagement": 33460
+        },
+        {
+          "id": "2122495027649581271",
+          "username": "JamesOKeefeIII",
+          "name": "James O'Keefe",
+          "url": "https://x.com/JamesOKeefeIII/status/2122495027649581271",
+          "excerpt": "It was shocking to me how there was no police presence outside the courthouse in Minneapolis today. It is unconscionable and a danger to the witnesses walking…",
+          "createdAt": "2026-11-17T01:00:23.000Z",
+          "likes": 23300,
+          "reposts": 6865,
+          "replies": 661,
+          "quotes": 100,
+          "engagement": 30926
+        }
+      ]
+    },
+    {
+      "id": "carney-xi",
+      "title": "Andy Lee on Carney’s China trip, a 2023 Barton payment, and Telesat’s debt",
+      "summary": "@RealAndyLeeShow posted several Canada items. A video clip had Prime Minister Mark Carney, before meeting Xi Jinping, saying that if Canada’s auto plants cannot be fully used in a North American market because of U.S. trade actions, Canada would look at other options, including Chinese investment, with a condition of real Canadian manufacturing — a comment confirmed by AP and the Guardian. She later quoted Carney after the Shenzhen meeting; the meeting’s results are confirmed: China expanded tariff relief to about C$400 million of Canadian exports, and Canada extended exemptions on 32 Chinese steel and aluminum items. A separate post asked about a $148,059 payment to “Dominic Stephen Barton” listed in the 2023 Public Accounts under Global Affairs Canada’s “Other Services.” The listing is on the record; what the payment was for has not been publicly explained. Barton, now chair of the Invest in Canada Hub, was scheduled to appear by video Tuesday at the Commons trade committee. Another post quoted older discussion of Telesat debt coming due; on Nov. 16 Telesat said it had reached a standstill with lenders to its GEO unit until Jan. 18, 2027.",
+      "whyItMatters": "These posts are among the few Canada-policy threads in a feed that is otherwise heavily U.S.-focused, and they overlap with reporting we published on the Carney–Xi meeting.",
+      "flags": [
+        {
+          "label": "Confirmed",
+          "kind": "confirmed",
+          "note": "Carney’s auto-investment comments and the Shenzhen meeting results are confirmed by official and wire reporting.",
+          "source": {
+            "title": "Prime Minister’s Office",
+            "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/17/prime-minister-carney-advances-canadas-strategic-partnership-china"
+          }
+        },
+        {
+          "label": "Unverified",
+          "kind": "unverified",
+          "note": "The 2023 Barton payment appears in the Public Accounts; its purpose has not been publicly explained."
+        }
+      ],
+      "related": [
+        {
+          "title": "Carney and Xi cut tariffs on $400 million of Canadian pork and seafood",
+          "slug": "carney-xi-tariff-relief"
+        }
+      ],
+      "posts": [
+        {
+          "id": "2122344402462859645",
+          "username": "RealAndyLeeShow",
+          "name": "Andy Lee",
+          "url": "https://x.com/RealAndyLeeShow/status/2122344402462859645",
+          "excerpt": "Mark Carney is asked about the possibility of expanding foreign investment in the auto sector ahead of his meeting with Xi Jinping: “If they’re not fully…",
+          "createdAt": "2026-11-16T15:01:51.000Z",
+          "likes": 284,
+          "reposts": 108,
+          "replies": 113,
+          "quotes": 8,
+          "engagement": 513
+        },
+        {
+          "id": "2122345949397979459",
+          "username": "RealAndyLeeShow",
+          "name": "Andy Lee",
+          "url": "https://x.com/RealAndyLeeShow/status/2122345949397979459",
+          "excerpt": "Can we ask what this payment to Dominic Barton was for?",
+          "createdAt": "2026-11-16T15:08:00.000Z",
+          "likes": 1439,
+          "reposts": 692,
+          "replies": 30,
+          "quotes": 21,
+          "engagement": 2182
+        },
+        {
+          "id": "2122347099048284545",
+          "username": "RealAndyLeeShow",
+          "name": "Andy Lee",
+          "url": "https://x.com/RealAndyLeeShow/status/2122347099048284545",
+          "excerpt": "Over two years ago now",
+          "createdAt": "2026-11-16T15:12:34.000Z",
+          "likes": 1904,
+          "reposts": 884,
+          "replies": 70,
+          "quotes": 22,
+          "engagement": 2880
+        },
+        {
+          "id": "2122595929404624961",
+          "username": "RealAndyLeeShow",
+          "name": "Andy Lee",
+          "url": "https://x.com/RealAndyLeeShow/status/2122595929404624961",
+          "excerpt": "Please Did you cook this up at Asian Davos?",
+          "createdAt": "2026-11-17T07:41:20.000Z",
+          "likes": 277,
+          "reposts": 104,
+          "replies": 5,
+          "quotes": 3,
+          "engagement": 389
+        }
+      ]
+    },
+    {
+      "id": "beyonce-grammys",
+      "title": "Beyoncé becomes the first artist with 100 Grammy nominations",
+      "summary": "@DailyLoud wrote that Beyoncé “has officially made GRAMMY HISTORY, becoming the first artist ever to reach 100 career Grammy nominations.” That is confirmed by Billboard and Grammy.com. Her 100th nomination is Best R&B Solo Performance for “Morning Dew (Donk)” at the 2027 Grammys. Grammy talk also showed up on X’s Canada trending list this morning, alongside The Game Awards.",
+      "whyItMatters": "It is a clean, checkable milestone, and it is one of the few entertainment stories that cut through a news-heavy feed.",
+      "flags": [
+        {
+          "label": "Confirmed",
+          "kind": "confirmed",
+          "note": "Billboard and Grammy.com both report the 100-nomination mark.",
+          "source": {
+            "title": "Grammy.com",
+            "url": "https://www.grammy.com/news/who-has-the-most-grammy-nominations-at-the-2027-grammys/"
+          }
+        }
+      ],
+      "related": [],
+      "posts": [
+        {
+          "id": "2122342929779830992",
+          "username": "DailyLoud",
+          "name": "Daily Loud",
+          "url": "https://x.com/DailyLoud/status/2122342929779830992",
+          "excerpt": "Beyoncé has officially made GRAMMY HISTORY, becoming the first artist ever to reach 100 career Grammy nominations 🎉🏆",
+          "createdAt": "2026-11-16T14:56:00.000Z",
+          "likes": 9822,
+          "reposts": 627,
+          "replies": 116,
+          "quotes": 31,
+          "engagement": 10596
+        }
+      ]
+    },
+    {
+      "id": "older-stories",
+      "title": "Older stories recirculated as if they had just happened",
+      "summary": "Three high-engagement posts in the 24-hour window were about events from mid-October or earlier this month. @libsoftiktok wrote that Pastor Steve Maile, “arrested in the UK after publicly criticizing Islam, just had his charges DROPPED.” Police did close the case, but he was never charged: the case was closed with “no further action” on Oct. 27 because the evidence did not meet the bar for charges. A second @libsoftiktok post said Dara O’Connor “was just sentenced to 24 months” for trying to burn down a possible ICE warehouse in Missouri. The sentence is real — 24 months in federal prison and two years of supervised release after a guilty plea to having two unregistered destructive devices — but it was handed down on Oct. 28. @TrumpDailyPosts wrote that “President Trump was cleared of any criminal activities in relation to Epstein” after a 15-month congressional investigation, and that “lamestream media just glossed over” it. The Republican-majority House Oversight report, released Nov. 10, did say it found no documents implicating Trump in criminal activity and that witnesses told the committee that, to their knowledge, he was not involved. Most of the report is about failures in the federal investigations. Whether news outlets “glossed over” it is the poster’s opinion.",
+      "whyItMatters": "A “BREAKING” label or the word “just” can make a weeks-old case look like today’s news. The underlying records are real; the timing and, in the Maile post, the wording are not.",
+      "flags": [
+        {
+          "label": "Older story",
+          "kind": "older",
+          "note": "The Maile case was closed Oct. 27, the O’Connor sentence was Oct. 28, and the Oversight report was released Nov. 10."
+        },
+        {
+          "label": "Disputed",
+          "kind": "disputed",
+          "note": "Maile was investigated for months but was never charged; “charges dropped” overstates the record.",
+          "source": {
+            "title": "Daily Mail on the Maile case",
+            "url": "https://www.dailymail.co.uk/news/article-16296063/Police-drop-case-Christian-pastor-arrested-criticising-Islam-Watford.html"
+          }
+        }
+      ],
+      "related": [],
+      "posts": [
+        {
+          "id": "2122416715522838744",
+          "username": "libsoftiktok",
+          "name": "Libs of TikTok",
+          "url": "https://x.com/libsoftiktok/status/2122416715522838744",
+          "excerpt": "BREAKING: Steve Maile, the Christian pastor ARRESTED in the UK after publicly criticizing Islam, just had his charges DROPPED. Insane that he was arrested for…",
+          "createdAt": "2026-11-16T19:49:12.000Z",
+          "likes": 35361,
+          "reposts": 7699,
+          "replies": 696,
+          "quotes": 176,
+          "engagement": 43932
+        },
+        {
+          "id": "2122365967082643523",
+          "username": "libsoftiktok",
+          "name": "Libs of TikTok",
+          "url": "https://x.com/libsoftiktok/status/2122365967082643523",
+          "excerpt": "Remember the woman who tried burning down a warehouse in Missouri because it was potentially turning into an ICE facility? Dara O’Connor, 30, was just…",
+          "createdAt": "2026-11-16T16:27:32.000Z",
+          "likes": 27243,
+          "reposts": 5574,
+          "replies": 999,
+          "quotes": 208,
+          "engagement": 34024
+        },
+        {
+          "id": "2122386969523269803",
+          "username": "TrumpDailyPosts",
+          "name": "Commentary Trump Daily Posts",
+          "url": "https://x.com/TrumpDailyPosts/status/2122386969523269803",
+          "excerpt": "Did anyone notice how the lamestream media just glossed over the news that President Trump was cleared of any criminal activities in relation to Epstein and…",
+          "createdAt": "2026-11-16T17:51:00.000Z",
+          "likes": 12075,
+          "reposts": 3902,
+          "replies": 254,
+          "quotes": 66,
+          "engagement": 16297
+        }
+      ]
+    }
+  ],
+  "mostEngaged": [
+    {
+      "id": "2122406902827245831",
+      "username": "elonmusk",
+      "name": "Elon Musk",
+      "url": "https://x.com/elonmusk/status/2122406902827245831",
+      "excerpt": "We’ve come a long way",
+      "createdAt": "2026-11-16T19:10:12.000Z",
+      "likes": 96666,
+      "reposts": 6776,
+      "replies": 2261,
+      "quotes": 304,
+      "engagement": 106007
+    },
+    {
+      "id": "2122446366354096479",
+      "username": "elonmusk",
+      "name": "Elon Musk",
+      "url": "https://x.com/elonmusk/status/2122446366354096479",
+      "excerpt": "As I was saying … Free Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were.",
+      "createdAt": "2026-11-16T21:47:01.000Z",
+      "likes": 85919,
+      "reposts": 10467,
+      "replies": 3174,
+      "quotes": 778,
+      "engagement": 100338
+    },
+    {
+      "id": "2122413673058800026",
+      "username": "nickshirleyy",
+      "name": "Nick shirley",
+      "url": "https://x.com/nickshirleyy/status/2122413673058800026",
+      "excerpt": "Super important read and watch. In NYC Mamdani has dismantled the SRG, the SRG helped with counterterrorism enforcement and protest response. Now NYC will have…",
+      "createdAt": "2026-11-16T19:37:06.000Z",
+      "likes": 62863,
+      "reposts": 15597,
+      "replies": 3165,
+      "quotes": 754,
+      "engagement": 82379
+    },
+    {
+      "id": "2122428116782227914",
+      "username": "StevenErtelt",
+      "name": "Steven Ertelt",
+      "url": "https://x.com/StevenErtelt/status/2122428116782227914",
+      "excerpt": "BREAKING: Freeman Johnson, the oldest known Pearl Harbor survivor, has passed away at 106.",
+      "createdAt": "2026-11-16T20:34:30.000Z",
+      "likes": 40356,
+      "reposts": 5714,
+      "replies": 1634,
+      "quotes": 408,
+      "engagement": 48112
+    },
+    {
+      "id": "2122416715522838744",
+      "username": "libsoftiktok",
+      "name": "Libs of TikTok",
+      "url": "https://x.com/libsoftiktok/status/2122416715522838744",
+      "excerpt": "BREAKING: Steve Maile, the Christian pastor ARRESTED in the UK after publicly criticizing Islam, just had his charges DROPPED. Insane that he was arrested for…",
+      "createdAt": "2026-11-16T19:49:12.000Z",
+      "likes": 35361,
+      "reposts": 7699,
+      "replies": 696,
+      "quotes": 176,
+      "engagement": 43932
+    },
+    {
+      "id": "2122363737076011382",
+      "username": "ksorbs",
+      "name": "Kevin Sorbo",
+      "url": "https://x.com/ksorbs/status/2122363737076011382",
+      "excerpt": "Shhhhh. He is speaking the truth. Be very careful.",
+      "createdAt": "2026-11-16T16:18:41.000Z",
+      "likes": 31861,
+      "reposts": 8374,
+      "replies": 573,
+      "quotes": 115,
+      "engagement": 40923
+    },
+    {
+      "id": "2122372701561966866",
+      "username": "ScottPresler",
+      "name": "ThePersistence",
+      "url": "https://x.com/ScottPresler/status/2122372701561966866",
+      "excerpt": "A lot of America’s problems stem from the lack of action from the United States Senate. Part of the reason why Republicans lost overwhelmingly in November 2026…",
+      "createdAt": "2026-11-16T16:54:18.000Z",
+      "likes": 30874,
+      "reposts": 5806,
+      "replies": 1683,
+      "quotes": 274,
+      "engagement": 38637
+    },
+    {
+      "id": "2122345701854064903",
+      "username": "RapidResponse47",
+      "name": "Rapid Response 47",
+      "url": "https://x.com/RapidResponse47/status/2122345701854064903",
+      "excerpt": "\"Are you worried about Iranian drones targeting you personally?\" @POTUS: \"I'm worried about you — because if they get me, you're gone, too!\" 🤣",
+      "createdAt": "2026-11-16T15:07:01.000Z",
+      "likes": 32259,
+      "reposts": 4292,
+      "replies": 819,
+      "quotes": 631,
+      "engagement": 38001
+    },
+    {
+      "id": "2122365967082643523",
+      "username": "libsoftiktok",
+      "name": "Libs of TikTok",
+      "url": "https://x.com/libsoftiktok/status/2122365967082643523",
+      "excerpt": "Remember the woman who tried burning down a warehouse in Missouri because it was potentially turning into an ICE facility? Dara O’Connor, 30, was just…",
+      "createdAt": "2026-11-16T16:27:32.000Z",
+      "likes": 27243,
+      "reposts": 5574,
+      "replies": 999,
+      "quotes": 208,
+      "engagement": 34024
+    },
+    {
+      "id": "2122454279222931506",
+      "username": "JamesOKeefeIII",
+      "name": "James O'Keefe",
+      "url": "https://x.com/JamesOKeefeIII/status/2122454279222931506",
+      "excerpt": "Due to the mob outside the courthouse sheriffs had to escort us through the skyway with my defense lawyer @CWMadel and First Amendment litigator…",
+      "createdAt": "2026-11-16T22:18:28.000Z",
+      "likes": 25727,
+      "reposts": 7040,
+      "replies": 598,
+      "quotes": 95,
+      "engagement": 33460
+    }
+  ],
+  "mostEngagedNote": "Ranked by likes, reposts, replies and quotes, using counts checked this morning. We list at most two posts per account so one person does not fill the board.",
+  "following": {
+    "total": 505,
+    "categories": [
+      {
+        "id": "news",
+        "name": "News",
+        "count": 54,
+        "accounts": [
+          {
+            "username": "DailyLoud",
+            "name": "Daily Loud"
+          },
+          {
+            "username": "wikileaks",
+            "name": "WikiLeaks"
+          },
+          {
+            "username": "Snowden",
+            "name": "Edward Snowden"
+          },
+          {
+            "username": "IngrahamAngle",
+            "name": "Laura Ingraham"
+          },
+          {
+            "username": "JamesOKeefeIII",
+            "name": "James O'Keefe"
+          },
+          {
+            "username": "BreitbartNews",
+            "name": "Breitbart News"
+          },
+          {
+            "username": "LauraLoomer",
+            "name": "Laura Loomer"
+          },
+          {
+            "username": "MrAndyNgo",
+            "name": "Andy Ngo"
+          }
+        ]
+      },
+      {
+        "id": "politics",
+        "name": "Politics & government",
+        "count": 63,
+        "accounts": [
+          {
+            "username": "realDonaldTrump",
+            "name": "Donald J. Trump"
+          },
+          {
+            "username": "POTUS45",
+            "name": "President Trump 45 Archived"
+          },
+          {
+            "username": "WhiteHouse45",
+            "name": "The White House 45 Archived"
+          },
+          {
+            "username": "DonaldJTrumpJr",
+            "name": "Donald Trump Jr."
+          },
+          {
+            "username": "FLOTUS45",
+            "name": "Melania Trump 45 Archived"
+          },
+          {
+            "username": "IvankaTrump",
+            "name": "Ivanka Trump"
+          },
+          {
+            "username": "tedcruz",
+            "name": "Ted Cruz"
+          },
+          {
+            "username": "Jim_Jordan",
+            "name": "Rep. Jim Jordan"
+          }
+        ]
+      },
+      {
+        "id": "canada",
+        "name": "Canada",
+        "count": 20,
+        "accounts": [
+          {
+            "username": "CanadianPM",
+            "name": "Prime Minister of Canada"
+          },
+          {
+            "username": "RebelNewsOnline",
+            "name": "Rebel News"
+          },
+          {
+            "username": "ezralevant",
+            "name": "Ezra Levant 🍁🚛"
+          },
+          {
+            "username": "junonewscom",
+            "name": "Juno News"
+          },
+          {
+            "username": "SheilaGunnReid",
+            "name": "Sheila Gunn Reid"
+          },
+          {
+            "username": "RealAndyLeeShow",
+            "name": "Andy Lee"
+          },
+          {
+            "username": "ThevoiceAlexa",
+            "name": "Alexandra Lavoie"
+          },
+          {
+            "username": "LeslynLewis",
+            "name": "Dr. Leslyn Lewis"
+          }
+        ]
+      },
+      {
+        "id": "sports",
+        "name": "Sports",
+        "count": 15,
+        "accounts": [
+          {
+            "username": "SHAQ",
+            "name": "SHAQ"
+          },
+          {
+            "username": "TheNotoriousMMA",
+            "name": "Conor McGregor"
+          },
+          {
+            "username": "TomBrady",
+            "name": "Tom Brady"
+          },
+          {
+            "username": "DjokerNole",
+            "name": "Novak Djokovic"
+          },
+          {
+            "username": "TigerWoods",
+            "name": "Tiger Woods"
+          },
+          {
+            "username": "MikeTyson",
+            "name": "Mike Tyson"
+          },
+          {
+            "username": "DanicaPatrick",
+            "name": "Danica Patrick"
+          },
+          {
+            "username": "SStricklandMMA",
+            "name": "Sean Strickland"
+          }
+        ]
+      },
+      {
+        "id": "commentary",
+        "name": "Commentary",
+        "count": 72,
+        "accounts": [
+          {
+            "username": "charliekirk11",
+            "name": "Charlie Kirk"
+          },
+          {
+            "username": "libsoftiktok",
+            "name": "Libs of TikTok"
+          },
+          {
+            "username": "bennyjohnson",
+            "name": "Benny Johnson"
+          },
+          {
+            "username": "catturd2",
+            "name": "Catturd ™"
+          },
+          {
+            "username": "JesseBWatters",
+            "name": "Jesse Watters"
+          },
+          {
+            "username": "ClownWorld",
+            "name": "Clown World ™ 🤡"
+          },
+          {
+            "username": "greggutfeld",
+            "name": "GregGutfeld"
+          },
+          {
+            "username": "TrumpDailyPosts",
+            "name": "Commentary Trump Daily Posts"
+          }
+        ]
+      },
+      {
+        "id": "entertainment",
+        "name": "Entertainment & culture",
+        "count": 26,
+        "accounts": [
+          {
+            "username": "MrBeast",
+            "name": "MrBeast"
+          },
+          {
+            "username": "NICKIMINAJ",
+            "name": "Nicki Minaj"
+          },
+          {
+            "username": "joerogan",
+            "name": "Joe Rogan"
+          },
+          {
+            "username": "rickygervais",
+            "name": "Ricky Gervais"
+          },
+          {
+            "username": "jk_rowling",
+            "name": "J.K. Rowling"
+          },
+          {
+            "username": "50cent",
+            "name": "50cent"
+          },
+          {
+            "username": "rustyrockets",
+            "name": "Russell Brand"
+          },
+          {
+            "username": "RealJamesWoods",
+            "name": "James Woods"
+          }
+        ]
+      },
+      {
+        "id": "business",
+        "name": "Business & markets",
+        "count": 8,
+        "accounts": [
+          {
+            "username": "cvpayne",
+            "name": "Charles V Payne"
+          },
+          {
+            "username": "KimStrassel",
+            "name": "Kimberley Strassel"
+          },
+          {
+            "username": "RogerBernards",
+            "name": "🇺🇸Roger Bernards🍊"
+          },
+          {
+            "username": "MelissaLMRogers",
+            "name": "Melissa 🇨🇦"
+          },
+          {
+            "username": "nunchuk_io",
+            "name": "nunchuk_io"
+          },
+          {
+            "username": "newton_crypto",
+            "name": "Newton"
+          },
+          {
+            "username": "ErosVilleneuve",
+            "name": "TheRealDavid"
+          },
+          {
+            "username": "Caro_line1112",
+            "name": "Caroline 🇪🇺"
+          }
+        ]
+      },
+      {
+        "id": "tech",
+        "name": "Science & tech",
+        "count": 3,
+        "accounts": [
+          {
+            "username": "elonmusk",
+            "name": "Elon Musk"
+          },
+          {
+            "username": "neuralink",
+            "name": "Neuralink"
+          },
+          {
+            "username": "CommunityNotes",
+            "name": "Community Notes"
+          }
+        ]
+      },
+      {
+        "id": "local",
+        "name": "Local, weather & travel",
+        "count": 6,
+        "accounts": [
+          {
+            "username": "DriveBC",
+            "name": "DriveBC"
+          },
+          {
+            "username": "EmergencyInfoBC",
+            "name": "EmergencyInfoBC"
+          },
+          {
+            "username": "tropicalupdate",
+            "name": "Mike's Weather Page"
+          },
+          {
+            "username": "AimRoads",
+            "name": "AIMRoads"
+          },
+          {
+            "username": "ppcnos",
+            "name": "Peoples Party of Canada North Okanagan Shuswap"
+          },
+          {
+            "username": "Shuswapland",
+            "name": "David L. Williams"
+          }
+        ]
+      },
+      {
+        "id": "other",
+        "name": "People & other accounts",
+        "count": 238,
+        "accounts": [
+          {
+            "username": "P_McCulloughMD",
+            "name": "Peter A. McCullough, MD, MPH®"
+          },
+          {
+            "username": "KatTimpf",
+            "name": "Kat Timpf"
+          },
+          {
+            "username": "adamcarolla",
+            "name": "Adam Carolla"
+          },
+          {
+            "username": "karolineleavitt",
+            "name": "Karoline Leavitt"
+          },
+          {
+            "username": "lindseyvonn",
+            "name": "lindsey vonn"
+          },
+          {
+            "username": "ScottBaio",
+            "name": "Scott Baio"
+          },
+          {
+            "username": "drsimonegold",
+            "name": "Dr. Simone Gold"
+          },
+          {
+            "username": "robbystarbuck",
+            "name": "Robby Starbuck"
+          }
+        ]
+      }
+    ]
+  }
+}

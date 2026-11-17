@@ -2,10 +2,9 @@
 title: "Headline in sentence case"
 dek: "One or two sentences that tell the reader why this matters."
 date: 2026-11-18T06:30:00-07:00     # B.C. time (UTC-7)
-section: shuswap-bc                  # top-stories is automatic (priority >= 7)
-alsoIn: [canada]                     # optional extra sections
+section: shuswap-bc                  # one section only; do not also list this under Canada or another tab
 tags: [roads, shuswap]
-priority: 7                          # 10 = lead story, 7+ = top stories, 5 = normal
+priority: 7                          # 10 = lead; the five highest from the day appear on the Top/home tab; 5–7 = section only
 location: "Salmon Arm, B.C."         # optional dateline
 image: rogers-pass                   # a key from content/images.json, or a full object (see README)
 imageCaption: "What the photo shows. Say 'File photo.' if it isn't from the event."

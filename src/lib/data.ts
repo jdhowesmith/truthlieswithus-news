@@ -36,3 +36,52 @@ function latest<T>(dir: string): T | null {
 export const getLatestScores = () => latest<ScoreDay>("scores");
 /** Newest file in content/streaming/ (named for the publish date). */
 export const getLatestStreaming = () => latest<StreamingDay>("streaming");
+
+export type XFlag = {
+  label: string;
+  kind: "confirmed" | "partial" | "unverified" | "disputed" | "older";
+  note?: string;
+  source?: { title: string; url: string };
+};
+export type XPostCard = {
+  id: string;
+  username: string;
+  name: string;
+  url: string;
+  excerpt: string;
+  createdAt: string;
+  likes: number;
+  reposts: number;
+  replies: number;
+  quotes: number;
+  engagement: number;
+};
+export type XTheme = {
+  id: string;
+  title: string;
+  summary: string;
+  whyItMatters: string;
+  flags: XFlag[];
+  related: { title: string; slug: string }[];
+  posts: XPostCard[];
+};
+export type XDay = {
+  date: string;
+  title: string;
+  account: string;
+  windowLabel: string;
+  checked: string;
+  checkedLabel: string;
+  method: string;
+  followingTotal: number;
+  timelinePosts: number;
+  trendsNote?: string;
+  trends: { canada: { name: string; url: string }[]; us: { name: string; url: string }[]; worldwide: { name: string; url: string }[] };
+  themes: XTheme[];
+  mostEngaged: XPostCard[];
+  mostEngagedNote?: string;
+  following: { total: number; categories: { id: string; name: string; count: number; accounts: { username: string; name: string }[] }[] };
+};
+
+/** Newest file in content/x/ (named for the publish date). */
+export const getLatestX = () => latest<XDay>("x");

@@ -107,9 +107,21 @@ export function getArticle(slug: string) {
   return load().find((a) => a.slug === slug);
 }
 
+/** The day's biggest stories for the Top/home tab — about five, never the full list. */
+export function getTopStories(n = 5) {
+  const all = load();
+  if (!all.length) return [];
+  const latestDay = all[0].date.slice(0, 10);
+  const day = all.filter((a) => a.date.slice(0, 10) === latestDay);
+  const pool = day.length >= n ? day : all;
+  return pool.slice(0, n);
+}
+
 export function getBySection(section: string) {
-  if (section === "top-stories") return load().filter((a) => a.priority >= 7);
-  return load().filter((a) => a.sections.includes(section));
+  if (section === "top-stories") return getTopStories(5);
+  // One section only. alsoIn is ignored so a story is not repeated on a second tab
+  // (the Top tab may still show it if it is one of the day's five).
+  return load().filter((a) => a.section === section);
 }
 
 export function getRelated(article: Article, n = 3) {

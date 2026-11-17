@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
-import { SECTIONS } from "@/lib/sections";
+import { SECTIONS, sectionHref } from "@/lib/sections";
 import ThemeToggle from "./ThemeToggle";
 
 export default function Header({ today }: { today: string }) {
@@ -38,7 +38,7 @@ export default function Header({ today }: { today: string }) {
       <nav aria-label="Sections" className="border-t border-neutral-200 dark:border-neutral-800">
         <ul className="no-scrollbar mx-auto flex max-w-7xl gap-1 overflow-x-auto px-2 text-sm font-medium sm:px-4 lg:justify-center">
           {SECTIONS.map((s) => {
-            const href = s.slug === "top-stories" ? "/" : s.slug === "weather-alerts" ? "/weather" : `/section/${s.slug}`;
+            const href = sectionHref(s.slug);
             const active = s.slug === "top-stories" ? pathname === "/" : pathname.startsWith(href);
             return (
               <li key={s.slug} className="shrink-0">
@@ -60,7 +60,7 @@ export default function Header({ today }: { today: string }) {
             {SECTIONS.map((s) => (
               <li key={s.slug}>
                 <Link
-                  href={s.slug === "top-stories" ? "/" : s.slug === "weather-alerts" ? "/weather" : `/section/${s.slug}`}
+                  href={sectionHref(s.slug)}
                   onClick={() => setOpen(false)}
                   className="block rounded-md px-3 py-2 text-neutral-800 hover:bg-neutral-100 dark:text-neutral-200 dark:hover:bg-neutral-800"
                 >

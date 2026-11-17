@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { SECTIONS } from "@/lib/sections";
+import { SECTIONS, sectionHref } from "@/lib/sections";
 import { SITE } from "@/lib/site";
 
 export default function Footer() {
@@ -19,7 +19,7 @@ export default function Footer() {
           <p className="font-semibold uppercase tracking-wider text-neutral-900 dark:text-neutral-100">Sections</p>
           <ul className="mt-3 space-y-1.5">
             {SECTIONS.slice(1).map((s) => (
-              <li key={s.slug}><Link className="text-neutral-600 hover:text-brand dark:text-neutral-400" href={`/section/${s.slug}`}>{s.name}</Link></li>
+              <li key={s.slug}><Link className="text-neutral-600 hover:text-brand dark:text-neutral-400" href={sectionHref(s.slug)}>{s.name}</Link></li>
             ))}
           </ul>
         </div>
