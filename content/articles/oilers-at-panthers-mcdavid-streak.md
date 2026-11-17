@@ -15,7 +15,7 @@ keyPoints:
   - "McDavid has a point in all 22 games and 53 points. One more ties Wayne Gretzky (1988-89) for fourth-longest season-opening streak."
   - "Florida is 12-7-3. Captain Aleksander Barkov's return is uncertain."
 ourTake: |
-  This is the game where both halves of a snowbird's life meet. If you're in Florida and have ever wanted to see the Oilers on the road, Sunrise is a few hours across Alligator Alley from Fort Myers Beach, and the Lightning are in Tampa on Thursday.
+  This game links the two communities we cover: the NHL-leading Oilers playing in Florida. If you're in Southwest Florida and have ever wanted to see the Oilers on the road, Sunrise is a few hours across Alligator Alley from Fort Myers Beach, and the Lightning are in Tampa on Thursday.
 
   On the ice, Florida has had Edmonton's number lately, winning five of the last six regular-season meetings. McDavid chasing Gretzky makes it must-watch either way. Check back for the result.
 sources:

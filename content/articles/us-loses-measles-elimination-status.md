@@ -19,7 +19,7 @@ keyPoints:
   - "92% of U.S. kindergarteners were vaccinated for measles in 2025–26, below the 95% needed to prevent outbreaks."
   - "PAHO also found measles is no longer eliminated in Mexico or Bolivia. Canada lost its status in November 2025."
 ourTake: |
-  This is now a North American problem, not just an American one. Canada lost the same status a year ago, Mexico just did too, and snowbirds move between all three countries every winter.
+  This is now a North American problem, not just an American one. Canada lost the same status a year ago, Mexico just did too, and many travellers move between all three countries every winter.
 
   If you're heading south, it's a good week to check your own records. Most adults born after 1970 should have had two doses; if you aren't sure, a pharmacist or family doctor can tell you what you need. Grandparents visiting new babies should take it especially seriously, since infants can't get their first shot until about their first birthday. None of this is a reason to panic. It is a reason to be sure.
 sources:

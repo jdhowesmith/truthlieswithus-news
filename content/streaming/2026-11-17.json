@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-17",
+  "title": "What's streaming this week",
+  "canadaNote": "In Canada, HBO Max and Peacock titles usually stream on Crave. Where a Canadian release isn't confirmed, we say so.",
+  "outToday": [
+    {
+      "title": "Mike Ward: Modest",
+      "type": "Stand-up special",
+      "service": "Netflix",
+      "availability": "Worldwide, including Canada. In French with English subtitles.",
+      "date": "Tue Nov 17",
+      "summary": "The Quebec comedian does an unfiltered hour on dating after divorce and living on impulse.",
+      "url": "https://www.netflix.com/title/81697863"
+    },
+    {
+      "title": "The Circle (Hulu reboot)",
+      "type": "Reality competition",
+      "service": "Hulu",
+      "availability": "U.S. Three new episodes a week, Tuesday to Thursday; first episodes post at 7 p.m. B.C. time. Canadian release not confirmed.",
+      "date": "Tue Nov 17",
+      "summary": "Players live alone and talk only through a chat app, so anyone could be lying about who they are. Tinx hosts; some players are celebrities.",
+      "url": "https://press.hulu.com/shows/the-circle/"
+    },
+    {
+      "title": "How the Tudors Lost Their Heads",
+      "type": "Documentary series, 6 episodes",
+      "service": "Disney+ / Hulu",
+      "availability": "U.S., all episodes at once. Nat Geo titles usually stream on Disney+ in Canada, but this one isn't confirmed for Canada.",
+      "date": "Tue Nov 17",
+      "summary": "Historians Dan Snow and Suzannah Lipscomb explain how the Tudor court turned on its own.",
+      "url": "https://www.hulu.com/series/how-the-tudors-lost-their-heads-38315c2d-a252-47b0-b635-48d1a952c682"
+    },
+    {
+      "title": "He Said, She Said: Till Death Do Us Part",
+      "type": "Documentary series, 3 parts",
+      "service": "Paramount+",
+      "availability": "All episodes at once. U.S. confirmed; Canada not confirmed.",
+      "date": "Tue Nov 17",
+      "summary": "A custody fight between two high-powered lawyers turns into a very public battle online.",
+      "url": "https://www.paramountpressexpress.com/paramount-plus/shows/he-said-she-said-till-death-do-us-part/releases/?view=113443-paramount-releases-official-trailer-for-he-said-she-said-till-death-do-us-part"
+    }
+  ],
+  "recent": [
+    {
+      "title": "Cunk on Cinema",
+      "type": "Comedy mockumentary",
+      "service": "Netflix",
+      "availability": "U.S. and Canada. Six 15-minute episodes.",
+      "date": "Sun Nov 15",
+      "summary": "Diane Morgan's deadpan presenter Philomena Cunk takes on the history of film.",
+      "url": "http://www.thefutoncritic.com/news/2026/10/29/philomena-cunk-returns-to-netflix-to-take-on-the-movies-cunk-on-cinema-premieres-november-15-on-netflix-311112/20261029netflix06/"
+    },
+    {
+      "title": "The Chosen, Season 6",
+      "type": "Drama series",
+      "service": "Prime Video",
+      "availability": "U.S. and Canada. Three episodes out now, then one a week (Nov 22, Nov 29, Dec 6).",
+      "date": "Sun Nov 15",
+      "summary": "The drama about Jesus and his disciples continues, told through the people around him.",
+      "url": "https://www.thechosen.tv/en-us/investor-overview/press-releases/season-six-of-the-global-hit-series-the-chosen-premieres-exclusively-on-prime-video-november-15-2026"
+    },
+    {
+      "title": "Gift",
+      "type": "Drama series, 10 episodes",
+      "service": "HBO Max",
+      "availability": "U.S. In Canada, HBO Max titles normally stream on Crave; a Crave date isn't confirmed.",
+      "date": "Sat Nov 14",
+      "summary": "An odd outsider takes charge of a struggling wheelchair rugby team.",
+      "url": "https://www.hbomax.com/tv/en/show/95066fcc-6e93-44da-9135-512795a89601"
+    }
+  ],
+  "charts": {
+    "name": "Netflix Top 10",
+    "week": "Nov. 2–8, 2026 (latest week Netflix has published)",
+    "url": "https://www.netflix.com/tudum/top10",
+    "lists": [
+      { "label": "Canada: TV", "items": ["Taken: Natalee Holloway (Season 1)", "The One About Matthew Perry (Season 1)", "Nobody Wants This (Season 3)"] },
+      { "label": "Canada: Films", "items": ["A Dog's Perfect Christmas", "Final Destination: Bloodlines", "The Hobbit: An Unexpected Journey"] },
+      { "label": "Global: English TV (views)", "items": ["Taken: Natalee Holloway (12.9M)", "The One About Matthew Perry (4.4M)", "Nobody Wants This S3 (4.0M)"] },
+      { "label": "Global: English films (views)", "items": ["A Dog's Perfect Christmas (8.6M)", "Heist (6.3M)", "Final Destination: Bloodlines (5.8M)"] }
+    ]
+  },
+  "sources": [
+    { "title": "What's on Netflix: Coming to Netflix Nov 16–22", "url": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-this-week-november-16-to-22-2026/" },
+    { "title": "Deadline: Hulu's The Circle reboot premiere", "url": "https://deadline.com/2026/10/hulu-tinx-host-the-circle-reboot-premiere-1237169862/" },
+    { "title": "Netflix Top 10 (official data)", "url": "https://www.netflix.com/tudum/top10" }
+  ]
+}

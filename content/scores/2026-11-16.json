@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-16",
+  "label": "Monday, Nov. 16",
+  "checked": "2026-11-17T10:15:00-07:00",
+  "verifiedWith": [
+    "NHL.com scores",
+    "ESPN scoreboard",
+    "AP game stories"
+  ],
+  "leagues": [
+    {
+      "league": "NFL",
+      "note": "Monday Night Football, Week 10",
+      "games": [
+        {
+          "away": {
+            "name": "Los Angeles Chargers",
+            "abbr": "LAC",
+            "score": 23,
+            "record": "1-8"
+          },
+          "home": {
+            "name": "Baltimore Ravens",
+            "abbr": "BAL",
+            "score": 20,
+            "record": "4-6"
+          },
+          "status": "Final",
+          "venue": "Baltimore",
+          "links": [
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nfl/game/_/gameId/401873065/chargers-ravens"
+            },
+            {
+              "label": "Box score",
+              "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873065"
+            }
+          ],
+          "story": "chargers-beat-ravens-monday-night"
+        }
+      ]
+    },
+    {
+      "league": "NHL",
+      "games": [
+        {
+          "away": {
+            "name": "Montreal Canadiens",
+            "abbr": "MTL",
+            "score": 1,
+            "record": "12-5-4"
+          },
+          "home": {
+            "name": "New York Rangers",
+            "abbr": "NYR",
+            "score": 3,
+            "record": "13-8-1"
+          },
+          "status": "Final",
+          "venue": "New York",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/mtl-vs-nyr/2026/11/16/2026020331"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892726/canadiens-rangers"
+            }
+          ],
+          "story": "rangers-rally-past-canadiens-100th-anniversary"
+        },
+        {
+          "away": {
+            "name": "Vancouver Canucks",
+            "abbr": "VAN",
+            "score": 3,
+            "record": "5-17-1"
+          },
+          "home": {
+            "name": "Utah Mammoth",
+            "abbr": "UTA",
+            "score": 2,
+            "record": "10-9-3"
+          },
+          "status": "Final",
+          "venue": "Salt Lake City",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/van-vs-uta/2026/11/16/2026020332"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892727/canucks-mammoth"
+            }
+          ],
+          "story": "canucks-boeser-late-goal-beat-mammoth"
+        }
+      ]
+    }
+  ],
+  "underReported": [
+    {
+      "league": "NFL",
+      "items": [
+        {
+          "headline": "A Monday-night record nobody wanted",
+          "text": "The Chargers and Ravens came in with a combined 15 straight losses, a record for a Monday night game, according to the Associated Press. The Chargers had lost 11 in a row dating to last season.",
+          "sources": [
+            {
+              "title": "AP: Ravens\u2013Chargers Monday night duds",
+              "url": "https://apnews.com/article/ravens-chargers-monday-night-duds-21d2a52e28c08ae72e6af6ee0afe8934"
+            },
+            {
+              "title": "AP game story via ESPN",
+              "url": "https://www.espn.com/nfl/game/_/gameId/401873065/chargers-ravens"
+            }
+          ]
+        },
+        {
+          "headline": "Derrick Henry held to 10 yards",
+          "text": "Henry ran 10 times for 10 yards, his second-fewest rushing yards in any game with at least 10 carries. The only lower total was 9 yards on 16 carries for Tennessee against Houston on Dec. 17, 2023. He still scored twice.",
+          "sources": [
+            {
+              "title": "AP game story via ESPN",
+              "url": "https://www.espn.com/nfl/game/_/gameId/401873065/chargers-ravens"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "league": "NHL",
+      "items": [
+        {
+          "headline": "The Rangers turned 100 on Monday",
+          "text": "Before puck drop, Madison Square Garden held a ceremony marking the 100th anniversary of the Rangers' first game, which was against the Montreal Maroons, not the Canadiens.",
+          "sources": [
+            {
+              "title": "AP game story via ESPN",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892726/canadiens-rangers"
+            }
+          ]
+        },
+        {
+          "headline": "A goalie's season debut on a last-place team",
+          "text": "Nikita Tolopilo made 35 saves on 37 shots in his first start of the season, according to the NHL.com box score, as Vancouver won back-to-back games for the first time this season. The Canucks are 5-17-1.",
+          "sources": [
+            {
+              "title": "NHL.com box score: Canucks at Mammoth",
+              "url": "https://www.nhl.com/gamecenter/van-vs-uta/2026/11/16/2026020332"
+            },
+            {
+              "title": "AP game story via ESPN",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892727/canucks-mammoth"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,7 +8,7 @@ export const SECTIONS: Section[] = [
   { slug: "us", name: "U.S.", blurb: "American news that reaches across the border." },
   { slug: "world", name: "World", blurb: "Major international stories." },
   { slug: "business", name: "Business & Money", short: "Business", blurb: "Rates, housing, banking and your wallet." },
-  { slug: "weather-alerts", name: "Weather & Alerts", short: "Weather", blurb: "Forecasts, advisories and emergency alerts for both homes." },
+  { slug: "weather-alerts", name: "Weather & Alerts", short: "Weather", blurb: "Forecasts, advisories and emergency alerts for the Shuswap and Fort Myers Beach." },
   { slug: "sports", name: "Sports", blurb: "Oilers hockey and more." },
   { slug: "culture", name: "Culture & Obituaries", short: "Culture", blurb: "Music, entertainment and lives remembered." },
 ];

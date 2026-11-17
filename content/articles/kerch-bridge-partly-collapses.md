@@ -19,7 +19,7 @@ keyPoints:
   - "Russia opened a terrorism case. The Kremlin says the bridge will be rebuilt \"even better than before.\""
   - "Russia hit two major bridges in Kyiv overnight and says it shot down more than 1,400 Ukrainian drones."
 ourTake: |
-  For most of us in the Shuswap or on Estero Island, a bridge on the Black Sea feels a long way off. It isn't, really. This war has been a big driver of what we pay for fuel, fertilizer and groceries since 2022, and anything that changes its course can show up at the pump.
+  For readers in the Shuswap or on Estero Island, a bridge on the Black Sea feels a long way off. It isn't, really. This war has been a big driver of what people pay for fuel, fertilizer and groceries since 2022, and anything that changes its course can show up at the pump.
 
   The timing is the real story. Leaders from the U.S., China and Russia meet Thursday, and Ukraine has just hit the project Putin is personally most attached to. Whether that gives Kyiv leverage or hardens Moscow's position is anyone's guess, and we would be cautious about anyone who claims to know. What's clear is that both sides are now aiming at infrastructure, and civilians on both sides are paying for it.
 sources:

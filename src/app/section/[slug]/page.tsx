@@ -3,6 +3,11 @@ import type { Metadata } from "next";
 import ArticleCard from "@/components/ArticleCard";
 import { getBySection } from "@/lib/articles";
 import { SECTIONS, getSection } from "@/lib/sections";
+import { getLatestScores, getLatestStreaming } from "@/lib/data";
+import Scoreboard from "@/components/Scoreboard";
+import UnderReported from "@/components/UnderReported";
+import Streaming from "@/components/Streaming";
+import WeatherPanel from "@/components/WeatherPanel";
 
 export function generateStaticParams() {
   return SECTIONS.map((s) => ({ slug: s.slug }));
@@ -20,12 +25,22 @@ export default async function SectionPage({ params }: { params: Promise<{ slug: 
   if (!s) notFound();
   const items = getBySection(slug);
   const [first, ...rest] = items;
+  const scores = slug === "sports" ? getLatestScores() : null;
+  const streaming = slug === "culture" ? getLatestStreaming() : null;
   return (
     <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6">
       <header className="border-b-2 border-neutral-900 pb-4 dark:border-neutral-200">
         <h1 className="font-serif text-4xl font-bold text-neutral-950 dark:text-white">{s.name}</h1>
         <p className="mt-1 text-neutral-600 dark:text-neutral-400">{s.blurb}</p>
       </header>
+      {scores && (
+        <div className="pt-6">
+          <Scoreboard data={scores} />
+          <UnderReported data={scores} />
+        </div>
+      )}
+      {streaming && <div className="pt-6"><Streaming data={streaming} /></div>}
+      {slug === "weather-alerts" && <div className="pt-6"><WeatherPanel /></div>}
       {!first ? (
         <p className="py-16 text-center text-neutral-500">No stories in this section yet. Check back tomorrow morning.</p>
       ) : (

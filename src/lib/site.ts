@@ -1,6 +1,6 @@
 export const SITE = {
   name: "Truth Lies With Us",
-  tagline: "Clear news for people who live in two places.",
+  tagline: "Clear, sourced news from the Shuswap to Fort Myers Beach.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://truthlieswithus.com",
   email: "truthlieswithus@gmail.com",
   byline: "Truth Lies With Us Staff",
