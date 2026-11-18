@@ -1,0 +1,1086 @@
+{
+ "date": "2026-11-18",
+ "title": "Today on X",
+ "account": "truthlieswithus",
+ "windowLabel": "7:00 a.m. Tuesday, Nov. 17 to 7:03 a.m. Wednesday, Nov. 18, B.C. time",
+ "checked": "2026-11-18T08:20-07:00",
+ "checkedLabel": "8:20 a.m. B.C. time, Wednesday, Nov. 18, 2026",
+ "method": "Built from the News & Events brief’s X summary, then checked against the original posts via X. Counts are from that check and may have changed. The home timeline covered 1,874 posts from 223 accounts (replies excluded). NHL trade items in the brief came from a separate public search, not from accounts we follow, and are omitted here. Andy Lee’s reposts are shown as the original posts by Ezra Levant and Bob Mackin.",
+ "followingTotal": 505,
+ "timelinePosts": 1874,
+ "trendsNote": "X’s worldwide list often reflects the most active regions at this hour, which is why it may look different from the Canada and U.S. lists.",
+ "trends": {
+  "canada": [
+   {
+    "name": "GTA 6",
+    "url": "https://x.com/search?q=GTA%206"
+   },
+   {
+    "name": "GTA VI",
+    "url": "https://x.com/search?q=GTA%20VI"
+   },
+   {
+    "name": "Skubal",
+    "url": "https://x.com/search?q=Skubal"
+   },
+   {
+    "name": "Dodgers",
+    "url": "https://x.com/search?q=Dodgers"
+   },
+   {
+    "name": "Mets",
+    "url": "https://x.com/search?q=Mets"
+   },
+   {
+    "name": "New Zealand",
+    "url": "https://x.com/search?q=New%20Zealand"
+   },
+   {
+    "name": "APEC",
+    "url": "https://x.com/search?q=APEC"
+   },
+   {
+    "name": "Shenzhen",
+    "url": "https://x.com/search?q=Shenzhen"
+   },
+   {
+    "name": "Halifax",
+    "url": "https://x.com/search?q=Halifax"
+   },
+   {
+    "name": "Rockstar",
+    "url": "https://x.com/search?q=Rockstar"
+   }
+  ],
+  "us": [
+   {
+    "name": "GTA 6",
+    "url": "https://x.com/search?q=GTA%206"
+   },
+   {
+    "name": "GTA VI",
+    "url": "https://x.com/search?q=GTA%20VI"
+   },
+   {
+    "name": "New Zealand",
+    "url": "https://x.com/search?q=New%20Zealand"
+   },
+   {
+    "name": "Good Wednesday",
+    "url": "https://x.com/search?q=Good%20Wednesday"
+   },
+   {
+    "name": "Metacritic",
+    "url": "https://x.com/search?q=Metacritic"
+   },
+   {
+    "name": "Rockstar",
+    "url": "https://x.com/search?q=Rockstar"
+   },
+   {
+    "name": "Mike Pettine",
+    "url": "https://x.com/search?q=Mike%20Pettine"
+   },
+   {
+    "name": "Xbox",
+    "url": "https://x.com/search?q=Xbox"
+   },
+   {
+    "name": "Hump Day",
+    "url": "https://x.com/search?q=Hump%20Day"
+   },
+   {
+    "name": "APEC",
+    "url": "https://x.com/search?q=APEC"
+   }
+  ],
+  "worldwide": [
+   {
+    "name": "#白岩瑠姫の29歳にガチ期",
+    "url": "https://x.com/search?q=%23%E7%99%BD%E5%B2%A9%E7%91%A0%E5%A7%AB%E3%81%AE29%E6%AD%B3%E3%81%AB%E3%82%AC%E3%83%81%E6%9C%9F"
+   },
+   {
+    "name": "GTA 6",
+    "url": "https://x.com/search?q=GTA%206"
+   },
+   {
+    "name": "#HAPPYRUKIDAY",
+    "url": "https://x.com/search?q=%23HAPPYRUKIDAY"
+   },
+   {
+    "name": "#JO1ANNX",
+    "url": "https://x.com/search?q=%23JO1ANNX"
+   },
+   {
+    "name": "#ScarletHeartUllaveeEP5",
+    "url": "https://x.com/search?q=%23ScarletHeartUllaveeEP5"
+   },
+   {
+    "name": "GTA VI",
+    "url": "https://x.com/search?q=GTA%20VI"
+   },
+   {
+    "name": "Gファルコン",
+    "url": "https://x.com/search?q=G%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B3%E3%83%B3"
+   },
+   {
+    "name": "#ポリティカルパン",
+    "url": "https://x.com/search?q=%23%E3%83%9D%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%91%E3%83%B3"
+   },
+   {
+    "name": "木綿のハンカチーフ",
+    "url": "https://x.com/search?q=%E6%9C%A8%E7%B6%BF%E3%81%AE%E3%83%8F%E3%83%B3%E3%82%AB%E3%83%81%E3%83%BC%E3%83%95"
+   },
+   {
+    "name": "瑠姫くん",
+    "url": "https://x.com/search?q=%E7%91%A0%E5%A7%AB%E3%81%8F%E3%82%93"
+   }
+  ]
+ },
+ "themes": [
+  {
+   "id": "outages",
+   "title": "More outages, and cyber-attack claims officials say have no evidence behind them",
+   "summary": "Accounts on the feed linked Tuesday's Apple outage to the week's Microsoft, FAA and Chase problems. @nicksortor said the outages show why voting machines must never be online; @libsoftiktok reported outages \"at Apple and Google\"; @bennyjohnson tied the wave to a Bill Gates remark and, separately, said CNN and Fox News were \"hit with Cyberattack.\" The Apple outage was real, and CBS News reported the NSA's classified network also went offline Tuesday. Apple said its problem was not a cyberattack, and Secretary of State Marco Rubio said there is \"zero evidence\" the incidents are connected to hackers or another nation. We found no report of a Google outage. Johnson's CNN/Fox post refers to a real but separate incident: malicious code planted in the Optimizely web tool ran on the sites of 178 organizations; the sites did not crash.",
+   "whyItMatters": "Real disruptions are being wrapped in an attack story that no official or company has backed.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "Apple's outage and the NSA network outage were reported by CBS News."
+    },
+    {
+     "label": "Disputed",
+     "kind": "disputed",
+     "note": "No evidence of a cyberattack or a link between the outages; Rubio and Sen. Mark Warner both said so.",
+     "source": {
+      "title": "CBS News: Rubio says there's \"zero evidence\" outages are related",
+      "url": "https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/"
+     }
+    },
+    {
+     "label": "Partly true",
+     "kind": "partial",
+     "note": "The Optimizely code hack was real, but it was unrelated to the outages and did not crash the sites.",
+     "source": {
+      "title": "BleepingComputer: Optimizely supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/"
+     }
+    },
+    {
+     "label": "Unverified",
+     "kind": "unverified",
+     "note": "We found no report of a Google outage, and no outlet ties the outages to Bill Gates."
+    }
+   ],
+   "related": [
+    {
+     "title": "Apple services go down, and Rubio says there is \"zero evidence\" the week's outages are linked",
+     "slug": "apple-outage-rubio-no-attack"
+    }
+   ],
+   "posts": [
+    {
+     "id": "2122763399641923895",
+     "username": "nicksortor",
+     "name": "Nick Sortor",
+     "url": "https://x.com/nicksortor/status/2122763399641923895",
+     "excerpt": "Everything we've seen these past few days shows EXACTLY why why we CANNOT allow voting machines to be connected to the internet under ANY circumstances.",
+     "createdAt": "2026-11-17T18:46:48.000Z",
+     "likes": 25560,
+     "reposts": 4237,
+     "replies": 518,
+     "quotes": 99,
+     "engagement": 30414
+    },
+    {
+     "id": "2122775360639033453",
+     "username": "libsoftiktok",
+     "name": "Libs of TikTok",
+     "url": "https://x.com/libsoftiktok/status/2122775360639033453",
+     "excerpt": "BREAKING: Outages at Apple and Google are now being reported. iCloud, Apple Pay, App Store, Gmail, and other services have reportedly been affected. Wtf is…",
+     "createdAt": "2026-11-17T19:34:19.000Z",
+     "likes": 10790,
+     "reposts": 891,
+     "replies": 721,
+     "quotes": 52,
+     "engagement": 12454
+    },
+    {
+     "id": "2122829415927411050",
+     "username": "bennyjohnson",
+     "name": "Benny Johnson",
+     "url": "https://x.com/bennyjohnson/status/2122829415927411050",
+     "excerpt": "Less than one week ago, Bill Gates said a massive cyberattack that “causes a lot of problems” might be necessary to get people to listen to him. Days later…",
+     "createdAt": "2026-11-17T23:09:07.000Z",
+     "likes": 11322,
+     "reposts": 3735,
+     "replies": 406,
+     "quotes": 97,
+     "engagement": 15560
+    },
+    {
+     "id": "2122709846239666387",
+     "username": "bennyjohnson",
+     "name": "Benny Johnson",
+     "url": "https://x.com/bennyjohnson/status/2122709846239666387",
+     "excerpt": "CNN, Fox News hit with Cyberattack…Biggest News, Tech and Finance Sites on Earth CRASH Malware infected the websites of 178 organizations that also included…",
+     "createdAt": "2026-11-17T15:14:00.000Z",
+     "likes": 4845,
+     "reposts": 1626,
+     "replies": 288,
+     "quotes": 61,
+     "engagement": 6820
+    }
+   ]
+  },
+  {
+   "id": "xi-tarmac",
+   "title": "Xi greets Trump in person on the tarmac in Shenzhen",
+   "summary": "@nicksortor posted that Xi Jinping \"PERSONALLY\" greeted Trump as he left Air Force One, adding his own view that Biden or Harris could not have \"commanded this sort of respect.\" The greeting happened: NBC News and the BBC report Xi met Trump on the tarmac, which NBC says is believed to be a first for any foreign leader arriving in China. Xi was returning the gesture Trump made in Washington in September. The comparison to Biden and Harris is the poster's opinion.",
+   "whyItMatters": "The welcome sets the tone for Thursday's first three-way Trump–Xi–Putin meeting.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "Reported by NBC News, the BBC and China's foreign ministry.",
+     "source": {
+      "title": "NBC News: Xi greets Trump as he arrives in China",
+      "url": "https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962"
+     }
+    }
+   ],
+   "related": [
+    {
+     "title": "Xi greets Trump on the tarmac as Trump, Xi and Putin gather in Shenzhen for first three-way talks",
+     "slug": "trump-xi-putin-shenzhen-apec"
+    }
+   ],
+   "posts": [
+    {
+     "id": "2122980890041000259",
+     "username": "nicksortor",
+     "name": "Nick Sortor",
+     "url": "https://x.com/nicksortor/status/2122980890041000259",
+     "excerpt": "🚨 NOW: Chinese President Xi Jinping has PERSONALLY shown up to greet President Trump as he disembarks Air Force One for a historic summit in Shenzhen, China…",
+     "createdAt": "2026-11-18T09:11:01.000Z",
+     "likes": 18129,
+     "reposts": 3166,
+     "replies": 548,
+     "quotes": 106,
+     "engagement": 21949
+    }
+   ]
+  },
+  {
+   "id": "qeshm",
+   "title": "U.S. strikes on Iran's Qeshm Island",
+   "summary": "@DailyLoud posted that the U.S. \"launched NEW AIRSTRIKES against Iran, targeting a missile launch site on Qeshm Island\" in retaliation for attacks on U.S. personnel. A U.S. military official confirmed precision strikes on a Revolutionary Guard missile site there, calling them \"self-defense\" after Iranian attacks including on a U.S. radar site in Bahrain. Iranian officials say the strike did no damage to residential or infrastructure areas.",
+   "whyItMatters": "The strike was followed Wednesday by Iranian fire at Bahrain and Kuwait, a widening of the exchange.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "Confirmed by a U.S. military official, as reported by CBS News and USA Today.",
+     "source": {
+      "title": "CBS News live updates",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+     }
+    }
+   ],
+   "related": [
+    {
+     "title": "U.S. strikes Iran's Qeshm Island, and Bahrain and Kuwait say they intercepted Iranian attacks",
+     "slug": "us-strikes-qeshm-iran-hits-back-gulf"
+    }
+   ],
+   "posts": [
+    {
+     "id": "2122795873989980551",
+     "username": "DailyLoud",
+     "name": "Daily Loud",
+     "url": "https://x.com/DailyLoud/status/2122795873989980551",
+     "excerpt": "BREAKING: The United States has launched NEW AIRSTRIKES against Iran, targeting a missile launch site on Qeshm Island in retaliation for attacks on American…",
+     "createdAt": "2026-11-17T20:55:50.000Z",
+     "likes": 3260,
+     "reposts": 259,
+     "replies": 56,
+     "quotes": 32,
+     "engagement": 3607
+    }
+   ]
+  },
+  {
+   "id": "alaska",
+   "title": "Peltola wins Alaska, settling the Senate",
+   "summary": "@DecisionDeskHQ projected Tuesday night that Democrat Mary Peltola won Alaska's Senate race. NBC News and Fox News also called it: Peltola beat Republican Sen. Dan Sullivan with just over 50% of first-choice votes, so no ranked-choice count was needed. Democrats will hold 56 seats in January.",
+   "whyItMatters": "It was the last undecided Senate race of the midterms.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "Called by NBC News and Fox News as well.",
+     "source": {
+      "title": "NBC News: Peltola flips Alaska Senate seat",
+      "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307"
+     }
+    }
+   ],
+   "related": [
+    {
+     "title": "Peltola wins Alaska Senate seat outright, giving Democrats a 56-44 majority",
+     "slug": "peltola-wins-alaska-senate"
+    }
+   ],
+   "posts": [
+    {
+     "id": "2122891343764521465",
+     "username": "DecisionDeskHQ",
+     "name": "Decision Desk HQ",
+     "url": "https://x.com/DecisionDeskHQ/status/2122891343764521465",
+     "excerpt": "Decision Desk HQ projects Mary Peltola wins the AK US Senate General Election #DecisionMade: 10:13 PM EST Follow live results here:",
+     "createdAt": "2026-11-18T03:15:12.000Z",
+     "likes": 6373,
+     "reposts": 940,
+     "replies": 141,
+     "quotes": 189,
+     "engagement": 7643
+    }
+   ]
+  },
+  {
+   "id": "gas",
+   "title": "\"Gas suddenly dropped right after the midterms\"",
+   "summary": "@libsoftiktok said it was \"very interesting that the price of gas suddenly dropped right after the midterms.\" Prices have dropped, but not suddenly after the Nov. 3 vote. AAA's national average was $3.78 on Nov. 17, down about 20 cents in a week and about 52 cents in a month, so the decline began before the election. Bloomberg says prices are at their lowest since March as oil supply recovers.",
+   "whyItMatters": "The price drop is real; the timing the post implies is not.",
+   "flags": [
+    {
+     "label": "Partly true",
+     "kind": "partial",
+     "note": "Prices are falling, but the decline started before the midterms.",
+     "source": {
+      "title": "AAA: Gas and diesel prices fall in all 50 states",
+      "url": "https://info.oregon.aaa.com/gas-and-diesel-prices-fall-in-all-50-states-ahead-of-thanksgiving-travel/"
+     }
+    }
+   ],
+   "related": [],
+   "posts": [
+    {
+     "id": "2122821349869768956",
+     "username": "libsoftiktok",
+     "name": "Libs of TikTok",
+     "url": "https://x.com/libsoftiktok/status/2122821349869768956",
+     "excerpt": "Very interesting that the price of gas suddenly dropped right after the midterms… 🤔",
+     "createdAt": "2026-11-17T22:37:04.000Z",
+     "likes": 35775,
+     "reposts": 3490,
+     "replies": 1047,
+     "quotes": 108,
+     "engagement": 40420
+    }
+   ]
+  },
+  {
+   "id": "cia",
+   "title": "A \"fire\" at CIA headquarters that firefighters say was smoke from an HVAC unit",
+   "summary": "@bennyjohnson posted that \"a fire has broken out at the CIA Headquarters in Langley,\" reportedly electrical. @GenFlynn joked about \"burn bags.\" Fairfax County firefighters responded to reports of smoke, found it came from an HVAC unit, reported no injuries and gave the all-clear, according to FOX 5 DC and Patch.",
+   "whyItMatters": "An equipment problem was framed as a fire at a spy agency, inviting cover-up theories.",
+   "flags": [
+    {
+     "label": "Disputed",
+     "kind": "disputed",
+     "note": "Firefighters found smoke from an HVAC unit, not a fire; no one was hurt.",
+     "source": {
+      "title": "FOX 5 DC: Smoke from HVAC at CIA headquarters prompts emergency response",
+      "url": "https://www.fox5dc.com/news/smoke-from-hvac-cia-headquarters-prompts-emergency-response"
+     }
+    }
+   ],
+   "related": [],
+   "posts": [
+    {
+     "id": "2122834724565712900",
+     "username": "bennyjohnson",
+     "name": "Benny Johnson",
+     "url": "https://x.com/bennyjohnson/status/2122834724565712900",
+     "excerpt": "🚨 A fire has broken out at the CIA Headquarters in Langley, Virginia. Fairfax County Fire Department is on the scene. It is reportedly an “electrical fire”,…",
+     "createdAt": "2026-11-17T23:30:13.000Z",
+     "likes": 3290,
+     "reposts": 916,
+     "replies": 427,
+     "quotes": 111,
+     "engagement": 4744
+    },
+    {
+     "id": "2122909691927785490",
+     "username": "GenFlynn",
+     "name": "General Mike Flynn",
+     "url": "https://x.com/GenFlynn/status/2122909691927785490",
+     "excerpt": "The CIA taking burn bags to a whole new level. Nothing to see here, I’m sure it was a minor issue and only burned a few “files.”",
+     "createdAt": "2026-11-18T04:28:06.000Z",
+     "likes": 3417,
+     "reposts": 908,
+     "replies": 182,
+     "quotes": 34,
+     "engagement": 4541
+    }
+   ]
+  },
+  {
+   "id": "starlink",
+   "title": "Musk's 🤦‍♂️ at Transportation Secretary Duffy over Starlink",
+   "summary": "@elonmusk replied with a face-palm emoji to a clip of Transportation Secretary Sean Duffy explaining why the FAA wants a ground-based network. @nicksortor said Starlink \"would've saved BILLIONS UPON BILLIONS.\" Benzinga reported Duffy said the FAA wants a ground-based system because \"our airspace is very big,\" that an earlier Starlink version had technical issues in FAA testing, and that the FAA uses Starlink for some assets in Alaska. The savings figure is the poster's opinion, not a reported finding.",
+   "whyItMatters": "This follows Monday's claim that the FAA turned down free Starlink terminals.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "The exchange happened, as reported by Benzinga.",
+     "source": {
+      "title": "Benzinga: Elon Musk, Sean Duffy, FAA and Starlink",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63376143/elon-musk-sean-duffy-faa-starlink"
+     }
+    },
+    {
+     "label": "Unverified",
+     "kind": "unverified",
+     "note": "The claim that Starlink would have saved billions is opinion."
+    }
+   ],
+   "related": [],
+   "posts": [
+    {
+     "id": "2122810772967575759",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "url": "https://x.com/elonmusk/status/2122810772967575759",
+     "excerpt": "🤦‍♂️",
+     "createdAt": "2026-11-17T21:55:02.000Z",
+     "likes": 46233,
+     "reposts": 4137,
+     "replies": 3344,
+     "quotes": 285,
+     "engagement": 53999
+    },
+    {
+     "id": "2122823992180396541",
+     "username": "nicksortor",
+     "name": "Nick Sortor",
+     "url": "https://x.com/nicksortor/status/2122823992180396541",
+     "excerpt": "🚨 ELON MUSK RESPONDS to Secretary Duffy's excuse for not using Starlink that @elonmusk offered to FAA FOR FREE LAST YEAR: \"🤦‍♂️\" It would've saved BILLIONS…",
+     "createdAt": "2026-11-17T22:47:34.000Z",
+     "likes": 20210,
+     "reposts": 5102,
+     "replies": 734,
+     "quotes": 159,
+     "engagement": 26205
+    }
+   ]
+  },
+  {
+   "id": "andy-lee",
+   "title": "Andy Lee on Carney's China trip: bank branches, a consulate threat and B.C. FOI delays",
+   "summary": "@RealAndyLeeShow said Canadian media overlooked parts of the China deals, quoting a post on Chinese bank branches; she also reposted @ezralevant saying Carney is making room for more Chinese banks. China's Commerce Ministry, via Xinhua, says the two countries reached \"positive consensus\" on opening branches of Chinese-funded banks in Canada; Canada's readout of the Carney–Xi meeting does not mention it, and we found no Ottawa comment. She also said only Rebel News defended pro-democracy Chinese-Canadians after a man was filmed threatening a Falun Gong protester outside China's Toronto consulate; the Falun Dafa Association says an arrest warrant was issued and the man has returned to China, which we could not confirm with police. She reposted journalist @bobmackin's report that B.C.'s privacy commissioner let public bodies delay FOI responses for a year. Her post saying Carney once called China Canada's greatest security threat is accurate: he said so at the April 2025 leaders' debate.",
+   "whyItMatters": "Some of her points are backed by official records; others rest on a single source.",
+   "flags": [
+    {
+     "label": "Partly true",
+     "kind": "partial",
+     "note": "Xinhua reports the bank-branch consensus; Canada's own documents do not mention it.",
+     "source": {
+      "title": "Xinhua",
+      "url": "https://english.news.cn/20261117/14a7a3143cdf446db4b8aeebfe5773c7/c.html"
+     }
+    },
+    {
+     "label": "Unverified",
+     "kind": "unverified",
+     "note": "The Toronto arrest warrant is reported by the Falun Dafa Association, not confirmed by police.",
+     "source": {
+      "title": "CTV News: Video captures confrontation outside Chinese consulate",
+      "url": "https://www.ctvnews.ca/canada/article/i-can-shoot-you-dead-video-captures-confrontation-outside-chinese-consulate-in-toronto/"
+     }
+    },
+    {
+     "label": "Unverified",
+     "kind": "unverified",
+     "note": "The FOI delay is reported by Bob Mackin's theBreaker; not yet independently confirmed.",
+     "source": {
+      "title": "theBreaker",
+      "url": "https://bobmackin.substack.com/p/exclusive-in-the-ndp-cabinets-final"
+     }
+    },
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "Carney called China Canada's biggest security threat at the April 17, 2025 debate.",
+     "source": {
+      "title": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/canada-election-debate-carney-says-china-is-the-biggest-security-threat-facing-his-country-101744950913822.html"
+     }
+    }
+   ],
+   "related": [
+    {
+     "title": "Carney meets Trump in Shenzhen as trade talks continue",
+     "slug": "carney-meets-trump-shenzhen"
+    }
+   ],
+   "posts": [
+    {
+     "id": "2122737445410390105",
+     "username": "RealAndyLeeShow",
+     "name": "Andy Lee",
+     "url": "https://x.com/RealAndyLeeShow/status/2122737445410390105",
+     "excerpt": "Overlooking relevant information on China seems to be a recurring theme in Canadian media",
+     "createdAt": "2026-11-17T17:03:40.000Z",
+     "likes": 372,
+     "reposts": 197,
+     "replies": 8,
+     "quotes": 7,
+     "engagement": 584
+    },
+    {
+     "id": "2122708810246840394",
+     "username": "RealAndyLeeShow",
+     "name": "Andy Lee",
+     "url": "https://x.com/RealAndyLeeShow/status/2122708810246840394",
+     "excerpt": "And who was there immediately to defend pro-democracy Chinese-Canadians? Not CBC Not CTV Not Global Not the Star Not the Globe Rebel News was there",
+     "createdAt": "2026-11-17T15:09:53.000Z",
+     "likes": 1408,
+     "reposts": 528,
+     "replies": 39,
+     "quotes": 9,
+     "engagement": 1984
+    },
+    {
+     "id": "2122807695459922230",
+     "username": "ezralevant",
+     "name": "Ezra Levant 🍁🚛",
+     "url": "https://x.com/ezralevant/status/2122807695459922230",
+     "excerpt": "Trump has been hammering Canada for years over how we treat American banks. Carney's answer? Quietly make room for more Chinese banks.",
+     "createdAt": "2026-11-17T21:42:49.000Z",
+     "likes": 608,
+     "reposts": 165,
+     "replies": 33,
+     "quotes": 4,
+     "engagement": 810
+    },
+    {
+     "id": "2122742902636126525",
+     "username": "bobmackin",
+     "name": "Bob Mackin",
+     "url": "https://x.com/bobmackin/status/2122742902636126525",
+     "excerpt": "What fresh hell is this? During the final weeks of the Eby NDP government, B.C.'s information and privacy commissioner decided to give public bodies carte…",
+     "createdAt": "2026-11-17T17:25:21.000Z",
+     "likes": 122,
+     "reposts": 68,
+     "replies": 15,
+     "quotes": 8,
+     "engagement": 213
+    }
+   ]
+  }
+ ],
+ "mostEngaged": [
+  {
+   "id": "2122936119448764559",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "url": "https://x.com/elonmusk/status/2122936119448764559",
+   "excerpt": "🤗",
+   "createdAt": "2026-11-18T06:13:07.000Z",
+   "likes": 80166,
+   "reposts": 5253,
+   "replies": 4413,
+   "quotes": 768,
+   "engagement": 90600
+  },
+  {
+   "id": "2122925042400895056",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "url": "https://x.com/elonmusk/status/2122925042400895056",
+   "excerpt": "It was the smartest of times It was the dumbest of times",
+   "createdAt": "2026-11-18T05:29:06.000Z",
+   "likes": 75158,
+   "reposts": 7351,
+   "replies": 4709,
+   "quotes": 941,
+   "engagement": 88159
+  },
+  {
+   "id": "2122821349869768956",
+   "username": "libsoftiktok",
+   "name": "Libs of TikTok",
+   "url": "https://x.com/libsoftiktok/status/2122821349869768956",
+   "excerpt": "Very interesting that the price of gas suddenly dropped right after the midterms… 🤔",
+   "createdAt": "2026-11-17T22:37:04.000Z",
+   "likes": 35775,
+   "reposts": 3490,
+   "replies": 1047,
+   "quotes": 108,
+   "engagement": 40420
+  },
+  {
+   "id": "2122721939022029051",
+   "username": "RapidResponse47",
+   "name": "Rapid Response 47",
+   "url": "https://x.com/RapidResponse47/status/2122721939022029051",
+   "excerpt": "Acting Secretary of the Navy Hung Cao at his confirmation hearing: \"I would like to give praise and glory to my Lord and Savior Jesus Christ, without whom I…",
+   "createdAt": "2026-11-17T16:02:03.000Z",
+   "likes": 29012,
+   "reposts": 5150,
+   "replies": 624,
+   "quotes": 279,
+   "engagement": 35065
+  },
+  {
+   "id": "2122763399641923895",
+   "username": "nicksortor",
+   "name": "Nick Sortor",
+   "url": "https://x.com/nicksortor/status/2122763399641923895",
+   "excerpt": "Everything we've seen these past few days shows EXACTLY why why we CANNOT allow voting machines to be connected to the internet under ANY circumstances.",
+   "createdAt": "2026-11-17T18:46:48.000Z",
+   "likes": 25560,
+   "reposts": 4237,
+   "replies": 518,
+   "quotes": 99,
+   "engagement": 30414
+  },
+  {
+   "id": "2122812272292794403",
+   "username": "DailyLoud",
+   "name": "Daily Loud",
+   "url": "https://x.com/DailyLoud/status/2122812272292794403",
+   "excerpt": "UPDATE: A Houston judge who went viral for berating an IT worker trying to help him has been OFFICIALLY SANCTIONED following multiple complaints about his…",
+   "createdAt": "2026-11-17T22:01:00.000Z",
+   "likes": 26855,
+   "reposts": 1811,
+   "replies": 1417,
+   "quotes": 227,
+   "engagement": 30310
+  },
+  {
+   "id": "2122738673561088088",
+   "username": "ScottPresler",
+   "name": "ThePersistence",
+   "url": "https://x.com/ScottPresler/status/2122738673561088088",
+   "excerpt": "Here’s What I Know Some current Republican Senators need to be primaried & defeated in 2028. Why? They didn’t have the boldness or courage required to…",
+   "createdAt": "2026-11-17T17:08:33.000Z",
+   "likes": 22349,
+   "reposts": 4487,
+   "replies": 1566,
+   "quotes": 160,
+   "engagement": 28562
+  },
+  {
+   "id": "2122809016585789851",
+   "username": "PeterSweden7",
+   "name": "PeterSweden",
+   "url": "https://x.com/PeterSweden7/status/2122809016585789851",
+   "excerpt": "So Greta Thunberg just admitted what we all knew. Her climate activism was always about \"overthrowing capitalism\". In other words, just like I said. It's…",
+   "createdAt": "2026-11-17T21:48:04.000Z",
+   "likes": 23527,
+   "reposts": 3888,
+   "replies": 132,
+   "quotes": 37,
+   "engagement": 27584
+  },
+  {
+   "id": "2122859979493556607",
+   "username": "libsoftiktok",
+   "name": "Libs of TikTok",
+   "url": "https://x.com/libsoftiktok/status/2122859979493556607",
+   "excerpt": "Rep. Anna Paulina Luna just proposed a constitutional amendment to bar dual citizens from serving in Congress YES YES YES",
+   "createdAt": "2026-11-18T01:10:34.000Z",
+   "likes": 24063,
+   "reposts": 1807,
+   "replies": 562,
+   "quotes": 124,
+   "engagement": 26556
+  },
+  {
+   "id": "2122823992180396541",
+   "username": "nicksortor",
+   "name": "Nick Sortor",
+   "url": "https://x.com/nicksortor/status/2122823992180396541",
+   "excerpt": "🚨 ELON MUSK RESPONDS to Secretary Duffy's excuse for not using Starlink that @elonmusk offered to FAA FOR FREE LAST YEAR: \"🤦‍♂️\" It would've saved BILLIONS…",
+   "createdAt": "2026-11-17T22:47:34.000Z",
+   "likes": 20210,
+   "reposts": 5102,
+   "replies": 734,
+   "quotes": 159,
+   "engagement": 26205
+  }
+ ],
+ "mostEngagedNote": "Ranked by likes, reposts, replies and quotes, using counts checked this morning. We list at most two posts per account so one person does not fill the board. One highly ranked post containing a slur against a religious group was left out. A place on this list reflects engagement, not accuracy.",
+ "following": {
+  "total": 505,
+  "categories": [
+   {
+    "id": "news",
+    "name": "News",
+    "count": 54,
+    "accounts": [
+     {
+      "username": "DailyLoud",
+      "name": "Daily Loud"
+     },
+     {
+      "username": "wikileaks",
+      "name": "WikiLeaks"
+     },
+     {
+      "username": "Snowden",
+      "name": "Edward Snowden"
+     },
+     {
+      "username": "IngrahamAngle",
+      "name": "Laura Ingraham"
+     },
+     {
+      "username": "JamesOKeefeIII",
+      "name": "James O'Keefe"
+     },
+     {
+      "username": "BreitbartNews",
+      "name": "Breitbart News"
+     },
+     {
+      "username": "LauraLoomer",
+      "name": "Laura Loomer"
+     },
+     {
+      "username": "MrAndyNgo",
+      "name": "Andy Ngo"
+     }
+    ]
+   },
+   {
+    "id": "politics",
+    "name": "Politics & government",
+    "count": 63,
+    "accounts": [
+     {
+      "username": "realDonaldTrump",
+      "name": "Donald J. Trump"
+     },
+     {
+      "username": "POTUS45",
+      "name": "President Trump 45 Archived"
+     },
+     {
+      "username": "WhiteHouse45",
+      "name": "The White House 45 Archived"
+     },
+     {
+      "username": "DonaldJTrumpJr",
+      "name": "Donald Trump Jr."
+     },
+     {
+      "username": "FLOTUS45",
+      "name": "Melania Trump 45 Archived"
+     },
+     {
+      "username": "IvankaTrump",
+      "name": "Ivanka Trump"
+     },
+     {
+      "username": "tedcruz",
+      "name": "Ted Cruz"
+     },
+     {
+      "username": "Jim_Jordan",
+      "name": "Rep. Jim Jordan"
+     }
+    ]
+   },
+   {
+    "id": "canada",
+    "name": "Canada",
+    "count": 20,
+    "accounts": [
+     {
+      "username": "CanadianPM",
+      "name": "Prime Minister of Canada"
+     },
+     {
+      "username": "RebelNewsOnline",
+      "name": "Rebel News"
+     },
+     {
+      "username": "ezralevant",
+      "name": "Ezra Levant 🍁🚛"
+     },
+     {
+      "username": "junonewscom",
+      "name": "Juno News"
+     },
+     {
+      "username": "SheilaGunnReid",
+      "name": "Sheila Gunn Reid"
+     },
+     {
+      "username": "RealAndyLeeShow",
+      "name": "Andy Lee"
+     },
+     {
+      "username": "ThevoiceAlexa",
+      "name": "Alexandra Lavoie"
+     },
+     {
+      "username": "LeslynLewis",
+      "name": "Dr. Leslyn Lewis"
+     }
+    ]
+   },
+   {
+    "id": "sports",
+    "name": "Sports",
+    "count": 15,
+    "accounts": [
+     {
+      "username": "SHAQ",
+      "name": "SHAQ"
+     },
+     {
+      "username": "TheNotoriousMMA",
+      "name": "Conor McGregor"
+     },
+     {
+      "username": "TomBrady",
+      "name": "Tom Brady"
+     },
+     {
+      "username": "DjokerNole",
+      "name": "Novak Djokovic"
+     },
+     {
+      "username": "TigerWoods",
+      "name": "Tiger Woods"
+     },
+     {
+      "username": "MikeTyson",
+      "name": "Mike Tyson"
+     },
+     {
+      "username": "DanicaPatrick",
+      "name": "Danica Patrick"
+     },
+     {
+      "username": "SStricklandMMA",
+      "name": "Sean Strickland"
+     }
+    ]
+   },
+   {
+    "id": "commentary",
+    "name": "Commentary",
+    "count": 72,
+    "accounts": [
+     {
+      "username": "charliekirk11",
+      "name": "Charlie Kirk"
+     },
+     {
+      "username": "libsoftiktok",
+      "name": "Libs of TikTok"
+     },
+     {
+      "username": "bennyjohnson",
+      "name": "Benny Johnson"
+     },
+     {
+      "username": "catturd2",
+      "name": "Catturd ™"
+     },
+     {
+      "username": "JesseBWatters",
+      "name": "Jesse Watters"
+     },
+     {
+      "username": "ClownWorld",
+      "name": "Clown World ™ 🤡"
+     },
+     {
+      "username": "greggutfeld",
+      "name": "GregGutfeld"
+     },
+     {
+      "username": "TrumpDailyPosts",
+      "name": "Commentary Trump Daily Posts"
+     }
+    ]
+   },
+   {
+    "id": "entertainment",
+    "name": "Entertainment & culture",
+    "count": 26,
+    "accounts": [
+     {
+      "username": "MrBeast",
+      "name": "MrBeast"
+     },
+     {
+      "username": "NICKIMINAJ",
+      "name": "Nicki Minaj"
+     },
+     {
+      "username": "joerogan",
+      "name": "Joe Rogan"
+     },
+     {
+      "username": "rickygervais",
+      "name": "Ricky Gervais"
+     },
+     {
+      "username": "jk_rowling",
+      "name": "J.K. Rowling"
+     },
+     {
+      "username": "50cent",
+      "name": "50cent"
+     },
+     {
+      "username": "rustyrockets",
+      "name": "Russell Brand"
+     },
+     {
+      "username": "RealJamesWoods",
+      "name": "James Woods"
+     }
+    ]
+   },
+   {
+    "id": "business",
+    "name": "Business & markets",
+    "count": 8,
+    "accounts": [
+     {
+      "username": "cvpayne",
+      "name": "Charles V Payne"
+     },
+     {
+      "username": "KimStrassel",
+      "name": "Kimberley Strassel"
+     },
+     {
+      "username": "RogerBernards",
+      "name": "🇺🇸Roger Bernards🍊"
+     },
+     {
+      "username": "MelissaLMRogers",
+      "name": "Melissa 🇨🇦"
+     },
+     {
+      "username": "nunchuk_io",
+      "name": "nunchuk_io"
+     },
+     {
+      "username": "newton_crypto",
+      "name": "Newton"
+     },
+     {
+      "username": "ErosVilleneuve",
+      "name": "TheRealDavid"
+     },
+     {
+      "username": "Caro_line1112",
+      "name": "Caroline 🇪🇺"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "name": "Science & tech",
+    "count": 3,
+    "accounts": [
+     {
+      "username": "elonmusk",
+      "name": "Elon Musk"
+     },
+     {
+      "username": "neuralink",
+      "name": "Neuralink"
+     },
+     {
+      "username": "CommunityNotes",
+      "name": "Community Notes"
+     }
+    ]
+   },
+   {
+    "id": "local",
+    "name": "Local, weather & travel",
+    "count": 6,
+    "accounts": [
+     {
+      "username": "DriveBC",
+      "name": "DriveBC"
+     },
+     {
+      "username": "EmergencyInfoBC",
+      "name": "EmergencyInfoBC"
+     },
+     {
+      "username": "tropicalupdate",
+      "name": "Mike's Weather Page"
+     },
+     {
+      "username": "AimRoads",
+      "name": "AIMRoads"
+     },
+     {
+      "username": "ppcnos",
+      "name": "Peoples Party of Canada North Okanagan Shuswap"
+     },
+     {
+      "username": "Shuswapland",
+      "name": "David L. Williams"
+     }
+    ]
+   },
+   {
+    "id": "other",
+    "name": "People & other accounts",
+    "count": 238,
+    "accounts": [
+     {
+      "username": "P_McCulloughMD",
+      "name": "Peter A. McCullough, MD, MPH®"
+     },
+     {
+      "username": "KatTimpf",
+      "name": "Kat Timpf"
+     },
+     {
+      "username": "adamcarolla",
+      "name": "Adam Carolla"
+     },
+     {
+      "username": "karolineleavitt",
+      "name": "Karoline Leavitt"
+     },
+     {
+      "username": "lindseyvonn",
+      "name": "lindsey vonn"
+     },
+     {
+      "username": "ScottBaio",
+      "name": "Scott Baio"
+     },
+     {
+      "username": "drsimonegold",
+      "name": "Dr. Simone Gold"
+     },
+     {
+      "username": "robbystarbuck",
+      "name": "Robby Starbuck"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -2,8 +2,8 @@
 title: "Oilers visit Panthers tonight as McDavid chases Gretzky's point-streak mark"
 dek: "NHL-leading Edmonton goes for a sixth straight win in Sunrise, Fla. A point would tie Gretzky's 23-game season-opening run."
 date: 2026-11-17T06:58:00-07:00
+updated: 2026-11-18T07:20:00-07:00
 section: sports
-alsoIn: [florida]
 tags: [oilers, nhl, hockey, panthers]
 priority: 5
 location: "Sunrise, Fla."
@@ -28,6 +28,8 @@ sources:
   - title: "NHL.com: Oilers schedule"
     url: "https://www.nhl.com/oilers/schedule"
 ---
+
+**Update, Nov. 18:** The Oilers won 5-2, and McDavid's point streak reached 23 games, tying Gretzky. Our recap is in the Sports section.
 
 The Edmonton Oilers take the NHL's best record into Sunrise, Fla., tonight to face the rival Florida Panthers, looking for a sixth straight win and a piece of hockey history for Connor McDavid.
 

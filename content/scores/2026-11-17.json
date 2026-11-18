@@ -1,0 +1,370 @@
+{
+  "date": "2026-11-17",
+  "label": "Tuesday, Nov. 17",
+  "checked": "2026-11-18T08:25:00-07:00",
+  "verifiedWith": [
+    "NHL.com scores (api-web.nhle.com)",
+    "ESPN scoreboard",
+    "AP game stories"
+  ],
+  "leagues": [
+    {
+      "league": "NFL",
+      "note": "No NFL games on Tuesday. Week 11 opens Thursday with Indianapolis at Houston.",
+      "games": []
+    },
+    {
+      "league": "NHL",
+      "games": [
+        {
+          "away": {
+            "name": "Edmonton Oilers",
+            "abbr": "EDM",
+            "score": 5,
+            "record": "17-3-3"
+          },
+          "home": {
+            "name": "Florida Panthers",
+            "abbr": "FLA",
+            "score": 2,
+            "record": "12-8-3"
+          },
+          "status": "Final",
+          "venue": "Sunrise",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/edm-vs-fla/2026/11/17/2026020335"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892730"
+            }
+          ],
+          "story": "oilers-beat-panthers-mcdavid-ties-gretzky"
+        },
+        {
+          "away": {
+            "name": "Toronto Maple Leafs",
+            "abbr": "TOR",
+            "score": 3,
+            "record": "8-13-2"
+          },
+          "home": {
+            "name": "Chicago Blackhawks",
+            "abbr": "CHI",
+            "score": 6,
+            "record": "6-13-2"
+          },
+          "status": "Final",
+          "venue": "Chicago",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/tor-vs-chi/2026/11/17/2026020338"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892733"
+            }
+          ],
+          "story": "maple-leafs-seventh-straight-loss-bedard-hurt"
+        },
+        {
+          "away": {
+            "name": "Ottawa Senators",
+            "abbr": "OTT",
+            "score": 2,
+            "record": "14-6-2"
+          },
+          "home": {
+            "name": "Winnipeg Jets",
+            "abbr": "WPG",
+            "score": 1,
+            "record": "10-9-3"
+          },
+          "status": "Final",
+          "venue": "Winnipeg",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/ott-vs-wpg/2026/11/17/2026020341"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892736"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Calgary Flames",
+            "abbr": "CGY",
+            "score": 5,
+            "record": "10-11-1"
+          },
+          "home": {
+            "name": "San Jose Sharks",
+            "abbr": "SJS",
+            "score": 2,
+            "record": "10-12-2"
+          },
+          "status": "Final",
+          "venue": "San Jose",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/cgy-vs-sjs/2026/11/17/2026020343"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892738"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Los Angeles Kings",
+            "abbr": "LAK",
+            "score": 3,
+            "record": "6-11-2"
+          },
+          "home": {
+            "name": "Boston Bruins",
+            "abbr": "BOS",
+            "score": 0,
+            "record": "13-7-1"
+          },
+          "status": "Final",
+          "venue": "Boston",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/lak-vs-bos/2026/11/17/2026020333"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892728"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Columbus Blue Jackets",
+            "abbr": "CBJ",
+            "score": 1,
+            "record": "7-12-0"
+          },
+          "home": {
+            "name": "New York Islanders",
+            "abbr": "NYI",
+            "score": 5,
+            "record": "10-6-4"
+          },
+          "status": "Final",
+          "venue": "Elmont",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/cbj-vs-nyi/2026/11/17/2026020336"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892731"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Buffalo Sabres",
+            "abbr": "BUF",
+            "score": 3,
+            "record": "8-9-4"
+          },
+          "home": {
+            "name": "Philadelphia Flyers",
+            "abbr": "PHI",
+            "score": 4,
+            "record": "7-11-6"
+          },
+          "status": "Final",
+          "venue": "Philadelphia",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/buf-vs-phi/2026/11/17/2026020337"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892732"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Washington Capitals",
+            "abbr": "WSH",
+            "score": 2,
+            "record": "10-9-0"
+          },
+          "home": {
+            "name": "Tampa Bay Lightning",
+            "abbr": "TBL",
+            "score": 5,
+            "record": "14-5-2"
+          },
+          "status": "Final",
+          "venue": "Tampa",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/wsh-vs-tbl/2026/11/17/2026020334"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892729"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Anaheim Ducks",
+            "abbr": "ANA",
+            "score": 6,
+            "record": "11-10-1"
+          },
+          "home": {
+            "name": "St. Louis Blues",
+            "abbr": "STL",
+            "score": 8,
+            "record": "10-9-2"
+          },
+          "status": "Final",
+          "venue": "St. Louis",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/ana-vs-stl/2026/11/17/2026020339"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892734"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Nashville Predators",
+            "abbr": "NSH",
+            "score": 3,
+            "record": "11-6-5"
+          },
+          "home": {
+            "name": "Minnesota Wild",
+            "abbr": "MIN",
+            "score": 7,
+            "record": "16-3-4"
+          },
+          "status": "Final",
+          "venue": "Saint Paul",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/nsh-vs-min/2026/11/17/2026020340"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892735"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Dallas Stars",
+            "abbr": "DAL",
+            "score": 4,
+            "record": "13-6-2"
+          },
+          "home": {
+            "name": "Vegas Golden Knights",
+            "abbr": "VGK",
+            "score": 3,
+            "record": "13-6-4"
+          },
+          "status": "Final/OT",
+          "venue": "Las Vegas",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/dal-vs-vgk/2026/11/17/2026020342"
+            },
+            {
+              "label": "Recap",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892737"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "underReported": [
+    {
+      "league": "NFL",
+      "items": [
+        {
+          "headline": "Kelce joins a club of four at Arrowhead",
+          "text": "On Sunday against Arizona, Travis Kelce is set to become only the fourth player in Chiefs history to play 100 regular-season games at Arrowhead Stadium, joining Will Shields, Nick Lowery and Dustin Colquitt, according to ESPN. His Chiefs teams have won 76.5% of their games there, including 16 playoff wins.",
+          "sources": [
+            {
+              "title": "ESPN: Travis Kelce's top moments at Arrowhead Stadium",
+              "url": "https://www.espn.com/nfl/story/_/id/50513358/chiefs-travis-kelce-100-games-arrowhead-taylor-swift"
+            }
+          ]
+        },
+        {
+          "headline": "Miami is the favourite for the No. 1 pick",
+          "text": "ESPN's Football Power Index gives the 1-8 Dolphins a 41.2% chance at the top pick in the 2027 draft, ahead of the 1-8 Titans at 36.9%. The FPI does not favour Miami in any remaining game.",
+          "sources": [
+            {
+              "title": "ESPN: Dolphins, Titans, Eagles, Jets, Chargers in race for No. 1 pick",
+              "url": "https://www.espn.com/nfl/draft2027/story/_/id/50510863/2027-nfl-draft-top-pick-dolphins-titans-eagles-jets-chargers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "league": "NHL",
+      "items": [
+        {
+          "headline": "Gauthier's goal streak hits 10, first since Selanne in 1997",
+          "text": "Anaheim's Cutter Gauthier scored a hat trick in an 8-6 loss at St. Louis, extending his goal streak to 10 games. The AP says he is the first NHL player to score in 10 straight games since Teemu Selanne's 11-game run for Anaheim in 1997, the team record. He has 19 goals during the streak and is tied with Leon Draisaitl for the league lead with 21.",
+          "sources": [
+            {
+              "title": "AP via ESPN: Gauthier's hat trick extends his goal streak to 10 games",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892734"
+            },
+            {
+              "title": "NHL.com GameCenter: Ducks at Blues",
+              "url": "https://www.nhl.com/gamecenter/ana-vs-stl/2026/11/17/2026020339"
+            }
+          ]
+        },
+        {
+          "headline": "A game-winner in his NHL debut, for a goalie's son",
+          "text": "Ottawa's Tyler Boucher, the 10th pick in the 2021 draft, scored the winning goal in his NHL debut as the Senators beat Winnipeg 2-1. His father, Brian Boucher, played 328 regular-season games in goal for seven NHL teams from 1999 to 2013. Winnipeg's 18-year-old Viggo Bjorck scored his first NHL goal in his 22nd game.",
+          "sources": [
+            {
+              "title": "AP via ESPN: Tyler Boucher scores winner in NHL debut",
+              "url": "https://www.espn.com/nhl/game/_/gameId/401892736"
+            },
+            {
+              "title": "NHL.com GameCenter: Senators at Jets",
+              "url": "https://www.nhl.com/gamecenter/ott-vs-wpg/2026/11/17/2026020341"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

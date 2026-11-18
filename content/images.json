@@ -186,5 +186,257 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Madison_Square_Garden_Transformation_Stage_1.jpg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "shenzhen-airport": {
+    "src": "/images/2026/11/shenzhen-airport.jpg",
+    "width": 1600,
+    "height": 1067,
+    "alt": "Aerial view of Shenzhen Bao'an International Airport in southern China",
+    "credit": "Windmemories / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:20241207_Aerial_view_of_Shenzhen_Bao%27an_International_Airport.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "carney": {
+    "src": "/images/2026/11/carney.jpg",
+    "width": 1600,
+    "height": 2000,
+    "alt": "Mark Carney speaking at a podium",
+    "credit": "Policy Exchange / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mark_Carney.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "united-center": {
+    "src": "/images/2026/11/united-center.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt": "The United Center arena in Chicago, home of the Blackhawks",
+    "credit": "Christophe95 / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:United_Center,_Chicago,_USA.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "att-stadium": {
+    "src": "/images/2026/11/att-stadium.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt": "AT&T Stadium, home of the Dallas Cowboys, in Arlington, Texas",
+    "credit": "Michael Barera / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:AT%26T_Stadium,_Arlington,_Texas,_United_States.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "tiger-woods": {
+    "src": "/images/2026/11/tiger-woods.jpg",
+    "width": 1051,
+    "height": 1493,
+    "alt": "Tiger Woods at the White House in May 2019",
+    "credit": "The White House / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Tiger_Woods_in_May_2019.jpg",
+    "license": "Public domain"
+  },
+  "brooke-henderson": {
+    "src": "/images/2026/11/brooke-henderson.jpg",
+    "width": 1600,
+    "height": 1963,
+    "alt": "Canadian golfer Brooke Henderson at the 2018 CP Women's Open",
+    "credit": "Peter Kirkpatrick, photographer / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Brooke_Henderson_2018_Canadian_Open_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "fmb-panorama": {
+    "src": "/images/2026/11/fmb-panorama.jpg",
+    "width": 1600,
+    "height": 451,
+    "alt": "Panoramic view of Fort Myers Beach taken from the old pier",
+    "credit": "Tobias Zehndbauer / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Panorama_Fort_Meyers_Beach.jpg",
+    "license": "Copyrighted free use"
+  },
+  "matlacha-bridge": {
+    "src": "/images/2026/11/matlacha-bridge.jpg",
+    "width": 1297,
+    "height": 783,
+    "alt": "Aerial view of the old Matlacha bridge on the road to Pine Island, Florida, in 2008",
+    "credit": "Airborne Pilot / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_old_Matlacha_Bridge_in_2008.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "sorrento": {
+    "src": "/images/2026/11/sorrento.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt": "The Trans-Canada Highway passing through Sorrento on Shuswap Lake",
+    "credit": "The Interior / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:SorrentoOverview.JPG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "salmon-arm": {
+    "src": "/images/2026/11/salmon-arm.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt": "Salmon Arm and Shuswap Lake seen from Tappen",
+    "credit": "The Interior / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:SalmonArmFromTappen.JPG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "skeena-bridge": {
+    "src": "/images/2026/11/skeena-bridge.jpg",
+    "width": 1600,
+    "height": 900,
+    "alt": "A bridge over the Skeena River in northwestern British Columbia",
+    "credit": "William Matheson / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Skeena_River_Bridge.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "sun-peaks": {
+    "src": "/images/2026/11/sun-peaks.jpg",
+    "width": 1600,
+    "height": 1117,
+    "alt": "Snowy slopes at Sun Peaks Resort near Kamloops",
+    "credit": "Murray Foubister / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sun_Peaks_Ski_Resort_-_beware_of_the_%22sun_dogs%22_(13653350865).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "commons-chamber": {
+    "src": "/images/2026/11/commons-chamber.jpg",
+    "width": 1432,
+    "height": 1000,
+    "alt": "The House of Commons chamber in Ottawa",
+    "credit": "Sergey Ashmarin / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:The_Parliament._The_House_of_Commons_Chamber_-_Ottawa,_Canada_-_panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "centre-block": {
+    "src": "/images/2026/11/centre-block.jpg",
+    "width": 1600,
+    "height": 1233,
+    "alt": "The Centre Block of Parliament in Ottawa",
+    "credit": "DXR / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Centre_Block,_Ottawa,_Southeast_view_20170422_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "peltola": {
+    "src": "/images/2026/11/peltola.jpg",
+    "width": 1600,
+    "height": 1975,
+    "alt": "Official congressional portrait of Mary Peltola",
+    "credit": "Leah Herman, U.S. House Creative Services / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mary_Peltola_Congressional_Member_Portrait_(2)_(cropped).jpeg",
+    "license": "Public domain"
+  },
+  "fda": {
+    "src": "/images/2026/11/fda.jpg",
+    "width": 1600,
+    "height": 1064,
+    "alt": "A building on the U.S. Food and Drug Administration's White Oak campus in Maryland",
+    "credit": "U.S. Food and Drug Administration / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:FDA_Bldg_64_-_Exterior_(5161375466).jpg",
+    "license": "Public domain"
+  },
+  "apple-park": {
+    "src": "/images/2026/11/apple-park.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt": "Aerial view of Apple Park, Apple's headquarters in Cupertino, California",
+    "credit": "Nils Huenerfuerst / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Apple_Park_aerial_view,_June_2024.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "waymo": {
+    "src": "/images/2026/11/waymo.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt": "A Waymo driverless Jaguar I-Pace on a San Francisco street",
+    "credit": "Dllu / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "nvidia-hq": {
+    "src": "/images/2026/11/nvidia-hq.jpg",
+    "width": 1600,
+    "height": 979,
+    "alt": "Nvidia headquarters in Santa Clara, California",
+    "credit": "Coolcaesar / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "qeshm": {
+    "src": "/images/2026/11/qeshm.jpg",
+    "width": 1600,
+    "height": 1226,
+    "alt": "NASA satellite image of Qeshm Island in the Strait of Hormuz",
+    "credit": "NASA Earth Observatory / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:QeshmIsland_NASA.jpg",
+    "license": "Public domain"
+  },
+  "ebola": {
+    "src": "/images/2026/11/ebola.jpg",
+    "width": 1600,
+    "height": 736,
+    "alt": "Electron microscope image of an Ebola virus particle",
+    "credit": "CDC / Cynthia Goldsmith / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ebola_virus_virion.jpg",
+    "license": "Public domain"
+  },
+  "nato-hq": {
+    "src": "/images/2026/11/nato-hq.jpg",
+    "width": 1600,
+    "height": 778,
+    "alt": "NATO headquarters in Brussels",
+    "credit": "Romaine / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Brussels-NATO_headquarters.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "bill-watts": {
+    "src": "/images/2026/11/bill-watts.jpg",
+    "width": 564,
+    "height": 978,
+    "alt": "Cowboy Bill Watts pictured in Wrestling News in 1968",
+    "credit": "Wrestling News (1968) / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Cowboy_Bill_Watts_-_Wrestling_News_Sept_1968.jpg",
+    "license": "Public domain"
+  },
+  "highbury": {
+    "src": "/images/2026/11/highbury.jpg",
+    "width": 1600,
+    "height": 1168,
+    "alt": "The art deco East Stand facade of Arsenal's former Highbury stadium",
+    "credit": "Qwghlm / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Arsenal_Stadium_Highbury_east_facade.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "highland-valley": {
+    "src": "/images/2026/11/highland-valley.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt": "Open-pit workings at Highland Valley Copper mine near Logan Lake",
+    "credit": "Alvestrand / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Highland_Valley_Copper_Mine.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "nhc-outlook-2026-11-18": {
+    "src": "/images/2026/11/nhc-outlook-2026-11-18.jpg",
+    "width": 900,
+    "height": 679,
+    "alt": "National Hurricane Center seven-day Atlantic outlook map for Nov. 18, 2026, showing a low-chance area near the northern Bahamas",
+    "credit": "NOAA / National Hurricane Center",
+    "creditUrl": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7",
+    "license": "Public domain (U.S. government work)"
   }
 }
