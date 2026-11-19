@@ -8,11 +8,16 @@ priority: 10
 location: "Shenzhen, China"
 image: putin-xi-shenzhen
 imageCaption: "Russia's Vladimir Putin (left) and China's Xi Jinping shake hands after their three-way meeting with Donald Trump in Shenzhen on Thursday. Photo: Sergei Bobylev/The Associated Press, via CBC."
+video:
+  youtubeId: zEZXPa9Ty8I
+  title: "Xi, Putin greet Trump in China ahead of high-stakes summit"
+  credit: "CBS News"
 keyPoints:
   - "The three leaders met for a little over an hour at a lakeside villa on the sidelines of APEC; it was their first-ever three-way meeting (CBC, AP)."
   - "The joint statement \"reaffirmed that a nuclear war cannot be won and must never be fought\" and pledges a dialogue on reducing nuclear risks."
   - "It says the ICC and similar bodies \"must not abuse their jurisdiction.\" Putin is wanted on an ICC arrest warrant."
   - "The statement does not mention Ukraine or Iran. Trump said he raised both in his one-on-one meetings. The leaders took no questions."
+  - "On Wednesday, Xi greeted Trump on the tarmac in Shenzhen, and Trump and Putin shook hands for the first time since August 2025."
   - "Trump and Xi are due to meet again at the G20 in Florida in December."
 ourTake: |
   A three-way photo-op among the leaders of the world's three largest nuclear arsenals is history, as Trump said. The text is thinner than the moment: a restatement of a decades-old nuclear formula, a pledge to talk, and a swipe at the ICC that conveniently helps one of the signatories.
@@ -25,6 +30,12 @@ sources:
     url: "https://globalnews.ca/news/12157687/trump-xi-and-putin-reach-agreements-on-oil-and-nuclear-risks/"
   - title: "Fox News: China blocks Bloomberg reporter from Trump-Putin-Xi meeting"
     url: "https://www.foxnews.com/politics/china-blocks-bloomberg-reporter-trump-putin-xi-meeting-question-trump"
+  - title: "NBC News: Xi Jinping greets Trump as he arrives in China"
+    url: "https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962"
+  - title: "BBC News: Trump shakes hands with Putin and Xi ahead of historic talks in China"
+    url: "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo"
+  - title: "CBS News: Trump's Asia trip and the trilateral summit with Putin and Xi"
+    url: "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/"
 ---
 
 U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin held their first-ever three-way meeting Thursday in Shenzhen, China, on the sidelines of the APEC summit, according to CBC News and The Associated Press. The session lasted a little over an hour at a lakeside villa.
@@ -42,6 +53,8 @@ U.S. President Donald Trump, Chinese President Xi Jinping and Russian President 
 The statement does not mention Ukraine or Iran. Trump said he raised both in his one-on-one meetings. The leaders took no questions.
 
 ## Background
+
+On Wednesday, Xi personally greeted Trump on the tarmac in Shenzhen, which NBC News said is believed to be the first time Xi has done so for a foreign leader arriving in China. Trump and Putin later shook hands before an APEC reception, their first in-person meeting since August 2025.
 
 New START, the last U.S.–Russia nuclear arms pact, expired in February, and Trump wants a new deal that includes China. China has more than 600 warheads, compared with more than 5,000 each believed to be held by the United States and Russia, according to the AP.
 

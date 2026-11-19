@@ -23,6 +23,3 @@ Asked at the APEC summit whether China is safe for Canadians to visit, Foreign A
 
 Canada's advisory for China is "exercise a high degree of caution" and warns of arbitrary detention and exit bans in business disputes.
 
-## Skeena derailment follow-up
-
-Separately, Gitxsan hereditary chiefs want trains stopped along the Skeena River until the line from Burns Lake to Prince Rupert is inspected, CBC reports. Tuesday's derailment was the second there in eight months. CN says diesel leaked from a locomotive and the two hospitalized employees have been released ([CBC](https://www.cbc.ca/news/canada/british-columbia/train-derailment-skeena-river-9.7426854)).

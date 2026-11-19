@@ -63,8 +63,18 @@ Add a `video` block with a YouTube ID from the outlet's official channel. Embeds
 - Read only. Never post, like, follow, DM or change anything on X. Stay well under the daily read cap (aim for fewer than 150 calls).
 
 ### Homepage and section rules
-- The Top/home tab shows only about **five** of the day's biggest stories. All other stories appear only on their section pages.
+- The Top/home tab shows only about **five** of the day's biggest **new** stories. All other stories appear only on their section pages.
 - A story may appear on the Top tab and in its one section. It must not appear in a second section.
+
+### No repeats
+- Do not republish yesterday's or two-day-old stories as today's news unless there is real new information or a genuine update.
+- If today's story is a real update on one already on the site (for example, a summit that was previewed yesterday has now happened), keep **one** article only: either fold the new facts into the older article at the top and set `updated`, or keep the new article and remove the older one. The same story must not appear twice.
+- Older stories may stay on section pages with their original dates. Do not re-date them as today unless they have a real update.
+
+### X flags and common sense
+- Do not repeat an X theme from the previous one or two days unless the posts have real new information.
+- Use `unverified` and `disputed` when a factual claim genuinely conflicts with the evidence, or when a specific figure is unconfirmed (for example, a dollar amount or a subpoena count from unnamed sources). An older-news flag is right when accurate numbers are being recirculated as if they were new.
+- Do not use those flags to hedge something that is plainly established by common sense from confirmed facts. Example: if a person was never a U.S. citizen and had been living and working in the United States longer than a visit, visa or green card would allow, that person was in the country illegally; no extra report is required to say so, especially if they have left.
 
 ### Wording
 - This is a public news site. Refer to the Shuswap and Fort Myers Beach as communities we cover, never as "our homes", "both homes" or anything that suggests the publisher lives in either place.
