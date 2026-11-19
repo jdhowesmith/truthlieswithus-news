@@ -1,0 +1,1145 @@
+{
+ "date": "2026-11-19",
+ "title": "Today on X",
+ "account": "truthlieswithus",
+ "windowLabel": "7:00 a.m. Wednesday, Nov. 18 to 7:01 a.m. Thursday, Nov. 19, B.C. time",
+ "checked": "2026-11-19T07:50-07:00",
+ "checkedLabel": "7:50 a.m. B.C. time, Thursday, Nov. 19, 2026",
+ "method": "Built from the News & Events brief's X summary, then each post was re-read on X this morning to confirm the wording and counts. Counts may have changed since. The brief covered 1,862 timeline posts from 219 accounts (replies excluded). Elliotte Friedman's post came from a separate public search, since we don't follow him.",
+ "followingTotal": 505,
+ "timelinePosts": 1862,
+ "trendsNote": "X’s worldwide list often reflects the most active regions at this hour, which is why it may look different from the Canada and U.S. lists.",
+ "trends": {
+  "canada": [
+   {
+    "name": "Putin",
+    "url": "https://x.com/search?q=Putin"
+   },
+   {
+    "name": "$ANT",
+    "url": "https://x.com/search?q=%24ANT"
+   },
+   {
+    "name": "Lucia",
+    "url": "https://x.com/search?q=Lucia"
+   },
+   {
+    "name": "#GTAVI",
+    "url": "https://x.com/search?q=%23GTAVI"
+   },
+   {
+    "name": "Nasdaq",
+    "url": "https://x.com/search?q=Nasdaq"
+   },
+   {
+    "name": "Anthropic",
+    "url": "https://x.com/search?q=Anthropic"
+   },
+   {
+    "name": "Halifax",
+    "url": "https://x.com/search?q=Halifax"
+   },
+   {
+    "name": "Mandy",
+    "url": "https://x.com/search?q=Mandy"
+   },
+   {
+    "name": "Xi Jinping",
+    "url": "https://x.com/search?q=Xi%20Jinping"
+   },
+   {
+    "name": "APEC",
+    "url": "https://x.com/search?q=APEC"
+   }
+  ],
+  "us": [
+   {
+    "name": "Good Thursday",
+    "url": "https://x.com/search?q=Good%20Thursday"
+   },
+   {
+    "name": "Putin",
+    "url": "https://x.com/search?q=Putin"
+   },
+   {
+    "name": "$ANT",
+    "url": "https://x.com/search?q=%24ANT"
+   },
+   {
+    "name": "#GTAVI",
+    "url": "https://x.com/search?q=%23GTAVI"
+   },
+   {
+    "name": "Happy Friday Eve",
+    "url": "https://x.com/search?q=Happy%20Friday%20Eve"
+   },
+   {
+    "name": "#ThursdayThoughts",
+    "url": "https://x.com/search?q=%23ThursdayThoughts"
+   },
+   {
+    "name": "Lucia",
+    "url": "https://x.com/search?q=Lucia"
+   },
+   {
+    "name": "#ThursdayMotivation",
+    "url": "https://x.com/search?q=%23ThursdayMotivation"
+   },
+   {
+    "name": "Rafa Márquez",
+    "url": "https://x.com/search?q=Rafa%20M%C3%A1rquez"
+   },
+   {
+    "name": "Myanmar",
+    "url": "https://x.com/search?q=Myanmar"
+   }
+  ],
+  "worldwide": [
+   {
+    "name": "#FoolInLoveEP13",
+    "url": "https://x.com/search?q=%23FoolInLoveEP13"
+   },
+   {
+    "name": "SOON YOU ARE MINE",
+    "url": "https://x.com/search?q=SOON%20YOU%20ARE%20MINE"
+   },
+   {
+    "name": "平和宣言",
+    "url": "https://x.com/search?q=%E5%B9%B3%E5%92%8C%E5%AE%A3%E8%A8%80"
+   },
+   {
+    "name": "#OrmxBvlgariatSiamParagon",
+    "url": "https://x.com/search?q=%23OrmxBvlgariatSiamParagon"
+   },
+   {
+    "name": "#RalphLaurenSGxNamping",
+    "url": "https://x.com/search?q=%23RalphLaurenSGxNamping"
+   },
+   {
+    "name": "#レコメン",
+    "url": "https://x.com/search?q=%23%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3"
+   },
+   {
+    "name": "#LulaDecretaOFimDa6x1",
+    "url": "https://x.com/search?q=%23LulaDecretaOFimDa6x1"
+   },
+   {
+    "name": "NAMPING AT RL HOLIDAY",
+    "url": "https://x.com/search?q=NAMPING%20AT%20RL%20HOLIDAY"
+   },
+   {
+    "name": "Love Myself",
+    "url": "https://x.com/search?q=Love%20Myself"
+   },
+   {
+    "name": "DUOONE FINAL MATCH",
+    "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH"
+   }
+  ]
+ },
+ "themes": [
+  {
+   "id": "trilateral",
+   "title": "Trump, Putin and Xi: the first three-way meeting",
+   "summary": "@WhiteHouse posted video of Trump meeting Putin in China (\"We've known each other for a long time\"), and @bennyjohnson posted Trump's full remarks from what he called the \"historic first Trilateral meeting.\" The meeting happened: the BBC and AP report the three leaders talked at a villa in Shenzhen on the sidelines of APEC and issued a joint declaration saying nuclear war \"cannot be won and must never be fought.\" The declaration does not mention Ukraine or Iran.",
+   "whyItMatters": "It was the biggest diplomatic story of the day on the feed, and it is today's lead.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "Reported by the BBC and AP; the White House published the declaration.",
+     "source": {
+      "title": "White House: U.S.-Russia-China heads of state declaration toward peace",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/"
+     }
+    }
+   ],
+   "related": [
+    {
+     "title": "Trump, Xi and Putin hold first three-way meeting, pledge nuclear-risk talks",
+     "slug": "trump-xi-putin-first-three-way-meeting-shenzhen"
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123274614210166931",
+     "username": "WhiteHouse",
+     "name": "The White House",
+     "url": "https://x.com/WhiteHouse/status/2123274614210166931",
+     "excerpt": "JUST NOW: President Donald J. Trump and Russian President Vladimir Putin meet in China.  “We've known each other for a long time, and I think a lot of wonderful things can come out of this — or at lea…",
+     "createdAt": "2026-11-19T04:38:11.000Z",
+     "likes": 18688,
+     "reposts": 3427,
+     "replies": 1245,
+     "quotes": 221,
+     "engagement": 23581
+    },
+    {
+     "id": "2123338098033697241",
+     "username": "bennyjohnson",
+     "name": "Benny Johnson",
+     "url": "https://x.com/bennyjohnson/status/2123338098033697241",
+     "excerpt": "Full remarks from President Trump at the historic first Trilateral meeting between the United States, Russia and China.  The only way we can end these wars is to sit down at meetings like this.  Peace…",
+     "createdAt": "2026-11-19T08:50:26.000Z",
+     "likes": 10668,
+     "reposts": 2115,
+     "replies": 301,
+     "quotes": 128,
+     "engagement": 13212
+    }
+   ]
+  },
+  {
+   "id": "gta",
+   "title": "Grand Theft Auto VI launch day takes over the feed",
+   "summary": "@TheNotoriousMMA (Conor McGregor) said he was giving his 400-person workforce the day off for the launch. @DailyLoud posted that the game \"could cost the U.S. economy $1 billion in lost productivity.\" The launch is real: Rockstar and PlayStation confirm GTA VI is out today on PlayStation 5 and Xbox Series X|S.",
+   "whyItMatters": "GTA VI was the biggest single topic on the feed and is trending in Canada and the U.S.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "The launch is confirmed by Take-Two/Rockstar.",
+     "source": {
+      "title": "Take-Two: Grand Theft Auto VI now available",
+      "url": "https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/rockstar-games-announces-grand-theft-auto-vi-now-available"
+     }
+    },
+    {
+     "label": "Unverified",
+     "kind": "unverified",
+     "note": "The $1-billion lost-productivity figure is an estimate, not a measured number.",
+     "source": {
+      "title": "PlayStation Blog: GTA VI launches Nov. 19",
+      "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123144953216065670",
+     "username": "TheNotoriousMMA",
+     "name": "Conor McGregor",
+     "url": "https://x.com/TheNotoriousMMA/status/2123144953216065670",
+     "excerpt": "In honor of GTA launching tomorrow,  I announce to my entire workforce team,   400 strong across countries and continents,   You have your entire day off tomorrow!   Enjoy the game!   Your pal, the bo…",
+     "createdAt": "2026-11-18T20:02:57.000Z",
+     "likes": 30685,
+     "reposts": 1344,
+     "replies": 480,
+     "quotes": 122,
+     "engagement": 32631
+    },
+    {
+     "id": "2123114797600563201",
+     "username": "DailyLoud",
+     "name": "Daily Loud",
+     "url": "https://x.com/DailyLoud/status/2123114797600563201",
+     "excerpt": "BREAKING: GTA VI could cost the U.S. economy $1 billion in lost productivity as an estimated 1.5 million Americans skip work to play the game.  Kalshi traders are forecasting 51 million copies sold th…",
+     "createdAt": "2026-11-18T18:03:07.000Z",
+     "likes": 5121,
+     "reposts": 472,
+     "replies": 77,
+     "quotes": 34,
+     "engagement": 5704
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "musk-dealbook",
+   "title": "Musk on Russia, Ukraine and Starlink at DealBook",
+   "summary": "@bennyjohnson posted clips of Elon Musk at the New York Times DealBook Summit, quoting him saying \"Russia is the aggressor\" but that the U.S. \"staged a coup\" in Ukraine in 2014, and that Zelenskyy \"is not always truthful.\" Musk did say these things, according to The Verge and Ukrainska Pravda, which report he argued Starlink should not be used for offensive drone strikes.",
+   "whyItMatters": "The quotes are real; the claims inside them are Musk's opinions.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "Musk made the remarks, per The Verge.",
+     "source": {
+      "title": "The Verge: Musk on Ukraine, Starlink and Starshield at DealBook",
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook"
+     }
+    },
+    {
+     "label": "Disputed",
+     "kind": "disputed",
+     "note": "The \"coup\" claim and the charge that Zelenskyy is lying are Musk's assertions, not established facts.",
+     "source": {
+      "title": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063582/"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123204958786855163",
+     "username": "bennyjohnson",
+     "name": "Benny Johnson",
+     "url": "https://x.com/bennyjohnson/status/2123204958786855163",
+     "excerpt": "Elon Musk just SNAPPED at the NYT for Suggesting He’s Siding With Russia   “Let me anticipate your questions: 'Is Russia the aggressor?' Russia is the aggressor, but it's also true that we as America …",
+     "createdAt": "2026-11-19T00:01:24.000Z",
+     "likes": 37640,
+     "reposts": 5756,
+     "replies": 752,
+     "quotes": 188,
+     "engagement": 44336
+    },
+    {
+     "id": "2123211801944805581",
+     "username": "bennyjohnson",
+     "name": "Benny Johnson",
+     "url": "https://x.com/bennyjohnson/status/2123211801944805581",
+     "excerpt": "Elon Musk just CALLED OUT Zelenskyy for LYING to the World  “I don't want to blow your mind, but Zelenskyy is not always truthful. Maybe that comes as a shock.”  “Starlink is commercial, and it's not …",
+     "createdAt": "2026-11-19T00:28:35.000Z",
+     "likes": 23442,
+     "reposts": 4415,
+     "replies": 365,
+     "quotes": 107,
+     "engagement": 28329
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "bartow",
+   "title": "Bartow, Fla., council meeting erupts over a Muslim invocation",
+   "summary": "@libsoftiktok posted that residents in Bartow, Fla., \"COUNTERED\" an imam's opening prayer by reciting the Lord's Prayer. That happened, but the post leaves out how it ended: WFLA reports police removed people who wouldn't stop, with no arrests, and the imam finished about 10 minutes later. The city says its invocation is open to all faiths.",
+   "whyItMatters": "A Florida story where the full account matters.",
+   "flags": [
+    {
+     "label": "Partly true",
+     "kind": "partial",
+     "note": "The disruption happened; the post omits that the imam finished the prayer.",
+     "source": {
+      "title": "WFLA: Imam's invocation at Bartow city meeting disrupted",
+      "url": "https://www.wfla.com/news/polk-county/imams-invocation-at-bartow-city-commission-meeting-disrupted-by-shouting-crowd/"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123080335638634672",
+     "username": "libsoftiktok",
+     "name": "Libs of TikTok",
+     "url": "https://x.com/libsoftiktok/status/2123080335638634672",
+     "excerpt": "WOW. The City of Bartow, FL, was about to have a Muslim open its city meeting with an Islamic prayer, but residents COUNTERED it by reciting the Lord's Prayer. https://t.co/F4fOdljliL",
+     "createdAt": "2026-11-18T15:46:11.000Z",
+     "likes": 37151,
+     "reposts": 7132,
+     "replies": 880,
+     "quotes": 352,
+     "engagement": 45515
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "ian-murray",
+   "title": "Former Erie Democratic chair leaves U.S. after learning he was never a citizen",
+   "summary": "@libsoftiktok posted that Ian Murray, a former Erie County Democratic chairman and DNC member, was \"forced to LEAVE\" the U.S. The Erie Times-News reports he left for Nova Scotia on Nov. 12 after federal authorities ruled he never got U.S. citizenship because his Canadian-born mother didn't meet a residency rule in the 1940 Nationality Act. He learned of it when he applied for a passport.",
+   "whyItMatters": "A Canadian angle: he has moved to Nova Scotia.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "Reported by the Erie Times-News and The Center Square.",
+     "source": {
+      "title": "Erie Times-News: Ian Murray citizenship",
+      "url": "https://www.goerie.com/story/news/local/2026/11/18/ian-murray-erie-democrat-us-citizenship-canada-deportation/92758750007/"
+     }
+    },
+    {
+     "label": "Unverified",
+     "kind": "unverified",
+     "note": "The suggestion that he knowingly broke the law is not supported by the reporting.",
+     "source": {
+      "title": "The Center Square",
+      "url": "https://www.thecentersquare.com/pennsylvania/article_e19e4e24-d382-4afa-b8ec-99c5380e293f.html"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123118624483512781",
+     "username": "libsoftiktok",
+     "name": "Libs of TikTok",
+     "url": "https://x.com/libsoftiktok/status/2123118624483512781",
+     "excerpt": "I can’t believe this is real  Ian Murray, former Erie County Democratic chairman and Democratic National Committee member from PA, was just forced to LEAVE the US after it was revealed that he was NEV…",
+     "createdAt": "2026-11-18T18:18:20.000Z",
+     "likes": 22245,
+     "reposts": 8962,
+     "replies": 830,
+     "quotes": 469,
+     "engagement": 32506
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "fl-dmv",
+   "title": "Florida license examiner faces 360 felony counts",
+   "summary": "@catturd2 quoted a report on the arrest of a Florida driver-license employee, and @libsoftiktok posted that the state's CFO confirmed the licenses involved were revoked. Florida Highway Patrol says the Pembroke Pines examiner was arrested Nov. 16 and faces 360 felony counts over 60 licenses allegedly issued to unqualified applicants through a driving school. Bond was set at $15,000.",
+   "whyItMatters": "A Florida licensing case that could affect other licences issued through the same school.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "Reported by CBS Miami and NBC 6; ClickOrlando reports the CFO said the licenses were revoked.",
+     "source": {
+      "title": "CBS Miami: Broward DMV worker faces 360 charges",
+      "url": "https://www.cbsnews.com/miami/news/broward-dmv-worker-faces-360-charges-in-alleged-drivers-license-scheme-fhp-says/"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123065464746308034",
+     "username": "catturd2",
+     "name": "Catturd ™",
+     "url": "https://x.com/catturd2/status/2123065464746308034",
+     "excerpt": "Life in prison - enough! https://t.co/EQZMMUjrpN",
+     "createdAt": "2026-11-18T14:47:06.000Z",
+     "likes": 18774,
+     "reposts": 4364,
+     "replies": 362,
+     "quotes": 53,
+     "engagement": 23553
+    },
+    {
+     "id": "2123146552914886761",
+     "username": "libsoftiktok",
+     "name": "Libs of TikTok",
+     "url": "https://x.com/libsoftiktok/status/2123146552914886761",
+     "excerpt": "BREAKING UPDATE: Florida CFO @GovGoneWild bas confirmed that  all licenses given to illegal aliens have been REVOKED  🔥🔥🔥 https://t.co/HGTFep7Q5c",
+     "createdAt": "2026-11-18T20:09:19.000Z",
+     "likes": 9115,
+     "reposts": 1218,
+     "replies": 96,
+     "quotes": 21,
+     "engagement": 10450
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "nj-voters",
+   "title": "New Jersey non-citizen voter registrations: true, but from July",
+   "summary": "@ScottPresler posted that Gov. Mikie Sherrill revealed New Jersey registered 6,600 non-citizens to vote and 400 voted. The AP reported this in July: a motor-vehicle software error between June 2023 and June 2024 registered about 6,600 people who said they weren't citizens, and fewer than 400 of them voted.",
+   "whyItMatters": "Accurate numbers, but old news presented as new.",
+   "flags": [
+    {
+     "label": "Older news",
+     "kind": "older",
+     "note": "First reported in July 2026.",
+     "source": {
+      "title": "AP: Noncitizen voter registration in New Jersey",
+      "url": "https://apnews.com/article/noncitizen-voter-registration-new-jersey-99ef57346bbe09ba2ff606538a76eede"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123088071952617920",
+     "username": "ScottPresler",
+     "name": "ThePersistence",
+     "url": "https://x.com/ScottPresler/status/2123088071952617920",
+     "excerpt": "Democrat Governor Mikie Sherrill revealed that New Jersey registered 6,600 non-citizens to vote &amp; 400 of them voted.   Why haven’t we heard of 400 prosecutions &amp; 400 deportations?   We know wr…",
+     "createdAt": "2026-11-18T16:16:56.000Z",
+     "likes": 17688,
+     "reposts": 5802,
+     "replies": 571,
+     "quotes": 113,
+     "engagement": 24174
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "haiti-strike",
+   "title": "El Salvador strikes Haitian gang leader's home",
+   "summary": "@DailyLoud posted that Salvadoran troops destroyed the \"$9.3 MILLION mansion\" of Haitian gang leader Jeff Larose. The AP reports President Bukele announced the strike and said Salvadoran helicopters fired on the home in Canaan, north of Port-au-Prince. It is unclear whether Larose was inside.",
+   "whyItMatters": "Foreign forces are now carrying out strikes in Haiti.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "The strike is confirmed by the AP and Euronews.",
+     "source": {
+      "title": "AP: Bukele says forces attacked gang leader's home",
+      "url": "https://apnews.com/article/haiti-bukele-jeff-canaan-gangs-attack-home-4397ab6847be1d1dcc9c5bc600a4953f"
+     }
+    },
+    {
+     "label": "Unverified",
+     "kind": "unverified",
+     "note": "The $9.3-million value is not confirmed.",
+     "source": {
+      "title": "Euronews",
+      "url": "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123144712764919985",
+     "username": "DailyLoud",
+     "name": "Daily Loud",
+     "url": "https://x.com/DailyLoud/status/2123144712764919985",
+     "excerpt": "BREAKING: El Salvadoran troops have DESTROYED the $9.3 MILLION mansion of Haitian gang leader Jeff Larose in Port-au-Prince, marking their second major strike against a gang leader’s home this month h…",
+     "createdAt": "2026-11-18T20:02:00.000Z",
+     "likes": 12839,
+     "reposts": 1567,
+     "replies": 238,
+     "quotes": 139,
+     "engagement": 14783
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "alaska-doj",
+   "title": "DOJ probe in Alaska Senate race",
+   "summary": "@bennyjohnson posted that the DOJ issued \"over 200 subpoenas\" in an Alaska Senate election investigation. A Justice Department spokesperson told the Anchorage Daily News a federal probe \"remains underway\"; it centres on Republican claims that Mary Peltola's side recruited the namesake candidate \"Decoy Dan\" J. Sullivan, which her campaign denies. Dan J. Sullivan got 1.7% of first-choice votes, far less than Peltola's margin.",
+   "whyItMatters": "The investigation is real; the subpoena count comes from unnamed sources.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "A federal probe exists, per the Anchorage Daily News.",
+     "source": {
+      "title": "Anchorage Daily News: GOP-led investigations still underway",
+      "url": "https://www.adn.com/politics/2026/11/18/gop-led-investigations-still-underway-after-peltola-wins-alaskas-us-senate-race/"
+     }
+    },
+    {
+     "label": "Unverified",
+     "kind": "unverified",
+     "note": "The \"over 200 subpoenas\" figure comes from Fox News' unnamed sources.",
+     "source": {
+      "title": "Fox News",
+      "url": "https://www.foxnews.com/politics/hundreds-subpoenas-fly-doj-decoy-dan-probe-democrat-peltola-declared-winner-alaska"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123155543712030922",
+     "username": "bennyjohnson",
+     "name": "Benny Johnson",
+     "url": "https://x.com/bennyjohnson/status/2123155543712030922",
+     "excerpt": "JUST IN: DOJ issues over 200 subpoenas in massive Alaska Senate election investigation as Democrat Mary Peltola is declared the winner.  Investigators are examining allegations that Democratic operati…",
+     "createdAt": "2026-11-18T20:45:02.000Z",
+     "likes": 11434,
+     "reposts": 3406,
+     "replies": 548,
+     "quotes": 86,
+     "engagement": 15474
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "albemarle",
+   "title": "Virginia school district closes until after Thanksgiving",
+   "summary": "@libsoftiktok posted that Albemarle County Public Schools are closed until after Thanksgiving. The district confirms schools are closed to students from Thursday, Nov. 19, through the break; VPM reports more than 500 hires had never been checked against Virginia's child-abuse registry.",
+   "whyItMatters": "Confirmed by the district itself.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "District notice and VPM.",
+     "source": {
+      "title": "VPM: Albemarle school closures over background checks",
+      "url": "https://www.vpm.org/news/2026-11-18/acps-albemarle-school-closures-hayes-dss-vsp-background-checks/"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123239646209433969",
+     "username": "libsoftiktok",
+     "name": "Libs of TikTok",
+     "url": "https://x.com/libsoftiktok/status/2123239646209433969",
+     "excerpt": "BREAKING: All schools in Albemarle County Public Schools in Virginia are CLOSED until after Thanksgiving after an error was discovered with the background check of over 500 employees.  No background c…",
+     "createdAt": "2026-11-19T02:19:14.000Z",
+     "likes": 10832,
+     "reposts": 2695,
+     "replies": 322,
+     "quotes": 155,
+     "engagement": 14004
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "brand",
+   "title": "UK asks Google to remove Russell Brand prison message",
+   "summary": "@TRobinsonNewEra posted that the UK government asked Google to take down Russell Brand's YouTube account. The BBC reports the government did ask Google to remove his prison message, but Google declined, saying its rules weren't broken. Reports differ on whether the request covered the whole account or just the video.",
+   "whyItMatters": "Nothing has been taken down.",
+   "flags": [
+    {
+     "label": "Partly true",
+     "kind": "partial",
+     "note": "The request was made; nothing was removed, and its scope is unclear.",
+     "source": {
+      "title": "BBC News: Google declines UK request on Russell Brand message",
+      "url": "https://www.bbc.com/news/articles/cmgrenln8p29o"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123144458791268635",
+     "username": "TRobinsonNewEra",
+     "name": "Tommy Robinson 🇬🇧",
+     "url": "https://x.com/TRobinsonNewEra/status/2123144458791268635",
+     "excerpt": "The UK Government has asked Google to take down Russell Brand's YouTube account after he sent a message proclaiming his innocence from prison.   They've already threatened to move him from one prison …",
+     "createdAt": "2026-11-18T20:00:59.000Z",
+     "likes": 9903,
+     "reposts": 1661,
+     "replies": 415,
+     "quotes": 35,
+     "engagement": 12014
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "nhl-trades",
+   "title": "NHL trade watch: quiet day",
+   "summary": "No trades were completed in the past 24 hours. @FriedgeHNIC (Elliotte Friedman) posted that Anaheim put Travis Mitchell on waivers. On Oilers Now, Friedman said the Oilers aren't interested in Blues goalie Jordan Binnington and that Edmonton's needs are a top-four defenceman and fourth-line depth, the Edmonton Journal reports. Friedman's account is not one we follow; we checked it separately.",
+   "whyItMatters": "Insider commentary, not reported trade talks.",
+   "flags": [
+    {
+     "label": "Unverified",
+     "kind": "unverified",
+     "note": "Friedman's Oilers comments are insider commentary; nobody has reported active Oilers trade talks.",
+     "source": {
+      "title": "Edmonton Journal: Oilers trade targets",
+      "url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/edmonton-oilers-top-trade-trading-targets-top-4-dman-depth-forward"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123129805508063568",
+     "username": "FriedgeHNIC",
+     "name": "Elliotte Friedman",
+     "url": "https://x.com/FriedgeHNIC/status/2123129805508063568",
+     "excerpt": "Travis Mitchell (Anaheim) on waivers",
+     "createdAt": "2026-11-18T19:02:46.000Z",
+     "likes": 479,
+     "reposts": 42,
+     "replies": 30,
+     "quotes": 36,
+     "engagement": 587
+    }
+   ],
+   "related": [
+    {
+     "title": "Oilers go for seventh straight win in Tampa, a building that has beaten them",
+     "slug": "oilers-at-lightning-game-day-seventh-straight"
+    }
+   ]
+  }
+ ],
+ "mostEngaged": [
+  {
+   "id": "2123080335638634672",
+   "username": "libsoftiktok",
+   "name": "Libs of TikTok",
+   "url": "https://x.com/libsoftiktok/status/2123080335638634672",
+   "excerpt": "WOW. The City of Bartow, FL, was about to have a Muslim open its city meeting with an Islamic prayer, but residents COUNTERED it by reciting the Lord's Prayer. https://t.co/F4fOdljliL",
+   "createdAt": "2026-11-18T15:46:11.000Z",
+   "likes": 37151,
+   "reposts": 7132,
+   "replies": 880,
+   "quotes": 352,
+   "engagement": 45515
+  },
+  {
+   "id": "2123204958786855163",
+   "username": "bennyjohnson",
+   "name": "Benny Johnson",
+   "url": "https://x.com/bennyjohnson/status/2123204958786855163",
+   "excerpt": "Elon Musk just SNAPPED at the NYT for Suggesting He’s Siding With Russia   “Let me anticipate your questions: 'Is Russia the aggressor?' Russia is the aggressor, but it's also true that we as America …",
+   "createdAt": "2026-11-19T00:01:24.000Z",
+   "likes": 37640,
+   "reposts": 5756,
+   "replies": 752,
+   "quotes": 188,
+   "engagement": 44336
+  },
+  {
+   "id": "2123144953216065670",
+   "username": "TheNotoriousMMA",
+   "name": "Conor McGregor",
+   "url": "https://x.com/TheNotoriousMMA/status/2123144953216065670",
+   "excerpt": "In honor of GTA launching tomorrow,  I announce to my entire workforce team,   400 strong across countries and continents,   You have your entire day off tomorrow!   Enjoy the game!   Your pal, the bo…",
+   "createdAt": "2026-11-18T20:02:57.000Z",
+   "likes": 30685,
+   "reposts": 1344,
+   "replies": 480,
+   "quotes": 122,
+   "engagement": 32631
+  },
+  {
+   "id": "2123118624483512781",
+   "username": "libsoftiktok",
+   "name": "Libs of TikTok",
+   "url": "https://x.com/libsoftiktok/status/2123118624483512781",
+   "excerpt": "I can’t believe this is real  Ian Murray, former Erie County Democratic chairman and Democratic National Committee member from PA, was just forced to LEAVE the US after it was revealed that he was NEV…",
+   "createdAt": "2026-11-18T18:18:20.000Z",
+   "likes": 22245,
+   "reposts": 8962,
+   "replies": 830,
+   "quotes": 469,
+   "engagement": 32506
+  },
+  {
+   "id": "2123211801944805581",
+   "username": "bennyjohnson",
+   "name": "Benny Johnson",
+   "url": "https://x.com/bennyjohnson/status/2123211801944805581",
+   "excerpt": "Elon Musk just CALLED OUT Zelenskyy for LYING to the World  “I don't want to blow your mind, but Zelenskyy is not always truthful. Maybe that comes as a shock.”  “Starlink is commercial, and it's not …",
+   "createdAt": "2026-11-19T00:28:35.000Z",
+   "likes": 23442,
+   "reposts": 4415,
+   "replies": 365,
+   "quotes": 107,
+   "engagement": 28329
+  },
+  {
+   "id": "2123088071952617920",
+   "username": "ScottPresler",
+   "name": "ThePersistence",
+   "url": "https://x.com/ScottPresler/status/2123088071952617920",
+   "excerpt": "Democrat Governor Mikie Sherrill revealed that New Jersey registered 6,600 non-citizens to vote &amp; 400 of them voted.   Why haven’t we heard of 400 prosecutions &amp; 400 deportations?   We know wr…",
+   "createdAt": "2026-11-18T16:16:56.000Z",
+   "likes": 17688,
+   "reposts": 5802,
+   "replies": 571,
+   "quotes": 113,
+   "engagement": 24174
+  },
+  {
+   "id": "2123274614210166931",
+   "username": "WhiteHouse",
+   "name": "The White House",
+   "url": "https://x.com/WhiteHouse/status/2123274614210166931",
+   "excerpt": "JUST NOW: President Donald J. Trump and Russian President Vladimir Putin meet in China.  “We've known each other for a long time, and I think a lot of wonderful things can come out of this — or at lea…",
+   "createdAt": "2026-11-19T04:38:11.000Z",
+   "likes": 18688,
+   "reposts": 3427,
+   "replies": 1245,
+   "quotes": 221,
+   "engagement": 23581
+  },
+  {
+   "id": "2123065464746308034",
+   "username": "catturd2",
+   "name": "Catturd ™",
+   "url": "https://x.com/catturd2/status/2123065464746308034",
+   "excerpt": "Life in prison - enough! https://t.co/EQZMMUjrpN",
+   "createdAt": "2026-11-18T14:47:06.000Z",
+   "likes": 18774,
+   "reposts": 4364,
+   "replies": 362,
+   "quotes": 53,
+   "engagement": 23553
+  },
+  {
+   "id": "2123144712764919985",
+   "username": "DailyLoud",
+   "name": "Daily Loud",
+   "url": "https://x.com/DailyLoud/status/2123144712764919985",
+   "excerpt": "BREAKING: El Salvadoran troops have DESTROYED the $9.3 MILLION mansion of Haitian gang leader Jeff Larose in Port-au-Prince, marking their second major strike against a gang leader’s home this month h…",
+   "createdAt": "2026-11-18T20:02:00.000Z",
+   "likes": 12839,
+   "reposts": 1567,
+   "replies": 238,
+   "quotes": 139,
+   "engagement": 14783
+  },
+  {
+   "id": "2123144458791268635",
+   "username": "TRobinsonNewEra",
+   "name": "Tommy Robinson 🇬🇧",
+   "url": "https://x.com/TRobinsonNewEra/status/2123144458791268635",
+   "excerpt": "The UK Government has asked Google to take down Russell Brand's YouTube account after he sent a message proclaiming his innocence from prison.   They've already threatened to move him from one prison …",
+   "createdAt": "2026-11-18T20:00:59.000Z",
+   "likes": 9903,
+   "reposts": 1661,
+   "replies": 415,
+   "quotes": 35,
+   "engagement": 12014
+  }
+ ],
+ "mostEngagedNote": "Ranked by likes, reposts, replies and quotes among the posts featured above, using counts checked this morning. We list at most two posts per account. A place on this list reflects engagement, not accuracy.",
+ "following": {
+  "total": 505,
+  "categories": [
+   {
+    "id": "news",
+    "name": "News",
+    "count": 54,
+    "accounts": [
+     {
+      "username": "DailyLoud",
+      "name": "Daily Loud"
+     },
+     {
+      "username": "wikileaks",
+      "name": "WikiLeaks"
+     },
+     {
+      "username": "Snowden",
+      "name": "Edward Snowden"
+     },
+     {
+      "username": "IngrahamAngle",
+      "name": "Laura Ingraham"
+     },
+     {
+      "username": "JamesOKeefeIII",
+      "name": "James O'Keefe"
+     },
+     {
+      "username": "BreitbartNews",
+      "name": "Breitbart News"
+     },
+     {
+      "username": "LauraLoomer",
+      "name": "Laura Loomer"
+     },
+     {
+      "username": "MrAndyNgo",
+      "name": "Andy Ngo"
+     }
+    ]
+   },
+   {
+    "id": "politics",
+    "name": "Politics & government",
+    "count": 63,
+    "accounts": [
+     {
+      "username": "realDonaldTrump",
+      "name": "Donald J. Trump"
+     },
+     {
+      "username": "POTUS45",
+      "name": "President Trump 45 Archived"
+     },
+     {
+      "username": "WhiteHouse45",
+      "name": "The White House 45 Archived"
+     },
+     {
+      "username": "DonaldJTrumpJr",
+      "name": "Donald Trump Jr."
+     },
+     {
+      "username": "FLOTUS45",
+      "name": "Melania Trump 45 Archived"
+     },
+     {
+      "username": "IvankaTrump",
+      "name": "Ivanka Trump"
+     },
+     {
+      "username": "tedcruz",
+      "name": "Ted Cruz"
+     },
+     {
+      "username": "Jim_Jordan",
+      "name": "Rep. Jim Jordan"
+     }
+    ]
+   },
+   {
+    "id": "canada",
+    "name": "Canada",
+    "count": 20,
+    "accounts": [
+     {
+      "username": "CanadianPM",
+      "name": "Prime Minister of Canada"
+     },
+     {
+      "username": "RebelNewsOnline",
+      "name": "Rebel News"
+     },
+     {
+      "username": "ezralevant",
+      "name": "Ezra Levant 🍁🚛"
+     },
+     {
+      "username": "junonewscom",
+      "name": "Juno News"
+     },
+     {
+      "username": "SheilaGunnReid",
+      "name": "Sheila Gunn Reid"
+     },
+     {
+      "username": "RealAndyLeeShow",
+      "name": "Andy Lee"
+     },
+     {
+      "username": "ThevoiceAlexa",
+      "name": "Alexandra Lavoie"
+     },
+     {
+      "username": "LeslynLewis",
+      "name": "Dr. Leslyn Lewis"
+     }
+    ]
+   },
+   {
+    "id": "sports",
+    "name": "Sports",
+    "count": 15,
+    "accounts": [
+     {
+      "username": "SHAQ",
+      "name": "SHAQ"
+     },
+     {
+      "username": "TheNotoriousMMA",
+      "name": "Conor McGregor"
+     },
+     {
+      "username": "TomBrady",
+      "name": "Tom Brady"
+     },
+     {
+      "username": "DjokerNole",
+      "name": "Novak Djokovic"
+     },
+     {
+      "username": "TigerWoods",
+      "name": "Tiger Woods"
+     },
+     {
+      "username": "MikeTyson",
+      "name": "Mike Tyson"
+     },
+     {
+      "username": "DanicaPatrick",
+      "name": "Danica Patrick"
+     },
+     {
+      "username": "SStricklandMMA",
+      "name": "Sean Strickland"
+     }
+    ]
+   },
+   {
+    "id": "commentary",
+    "name": "Commentary",
+    "count": 72,
+    "accounts": [
+     {
+      "username": "charliekirk11",
+      "name": "Charlie Kirk"
+     },
+     {
+      "username": "libsoftiktok",
+      "name": "Libs of TikTok"
+     },
+     {
+      "username": "bennyjohnson",
+      "name": "Benny Johnson"
+     },
+     {
+      "username": "catturd2",
+      "name": "Catturd ™"
+     },
+     {
+      "username": "JesseBWatters",
+      "name": "Jesse Watters"
+     },
+     {
+      "username": "ClownWorld",
+      "name": "Clown World ™ 🤡"
+     },
+     {
+      "username": "greggutfeld",
+      "name": "GregGutfeld"
+     },
+     {
+      "username": "TrumpDailyPosts",
+      "name": "Commentary Trump Daily Posts"
+     }
+    ]
+   },
+   {
+    "id": "entertainment",
+    "name": "Entertainment & culture",
+    "count": 26,
+    "accounts": [
+     {
+      "username": "MrBeast",
+      "name": "MrBeast"
+     },
+     {
+      "username": "NICKIMINAJ",
+      "name": "Nicki Minaj"
+     },
+     {
+      "username": "joerogan",
+      "name": "Joe Rogan"
+     },
+     {
+      "username": "rickygervais",
+      "name": "Ricky Gervais"
+     },
+     {
+      "username": "jk_rowling",
+      "name": "J.K. Rowling"
+     },
+     {
+      "username": "50cent",
+      "name": "50cent"
+     },
+     {
+      "username": "rustyrockets",
+      "name": "Russell Brand"
+     },
+     {
+      "username": "RealJamesWoods",
+      "name": "James Woods"
+     }
+    ]
+   },
+   {
+    "id": "business",
+    "name": "Business & markets",
+    "count": 8,
+    "accounts": [
+     {
+      "username": "cvpayne",
+      "name": "Charles V Payne"
+     },
+     {
+      "username": "KimStrassel",
+      "name": "Kimberley Strassel"
+     },
+     {
+      "username": "RogerBernards",
+      "name": "🇺🇸Roger Bernards🍊"
+     },
+     {
+      "username": "MelissaLMRogers",
+      "name": "Melissa 🇨🇦"
+     },
+     {
+      "username": "nunchuk_io",
+      "name": "nunchuk_io"
+     },
+     {
+      "username": "newton_crypto",
+      "name": "Newton"
+     },
+     {
+      "username": "ErosVilleneuve",
+      "name": "TheRealDavid"
+     },
+     {
+      "username": "Caro_line1112",
+      "name": "Caroline 🇪🇺"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "name": "Science & tech",
+    "count": 3,
+    "accounts": [
+     {
+      "username": "elonmusk",
+      "name": "Elon Musk"
+     },
+     {
+      "username": "neuralink",
+      "name": "Neuralink"
+     },
+     {
+      "username": "CommunityNotes",
+      "name": "Community Notes"
+     }
+    ]
+   },
+   {
+    "id": "local",
+    "name": "Local, weather & travel",
+    "count": 6,
+    "accounts": [
+     {
+      "username": "DriveBC",
+      "name": "DriveBC"
+     },
+     {
+      "username": "EmergencyInfoBC",
+      "name": "EmergencyInfoBC"
+     },
+     {
+      "username": "tropicalupdate",
+      "name": "Mike's Weather Page"
+     },
+     {
+      "username": "AimRoads",
+      "name": "AIMRoads"
+     },
+     {
+      "username": "ppcnos",
+      "name": "Peoples Party of Canada North Okanagan Shuswap"
+     },
+     {
+      "username": "Shuswapland",
+      "name": "David L. Williams"
+     }
+    ]
+   },
+   {
+    "id": "other",
+    "name": "People & other accounts",
+    "count": 238,
+    "accounts": [
+     {
+      "username": "P_McCulloughMD",
+      "name": "Peter A. McCullough, MD, MPH®"
+     },
+     {
+      "username": "KatTimpf",
+      "name": "Kat Timpf"
+     },
+     {
+      "username": "adamcarolla",
+      "name": "Adam Carolla"
+     },
+     {
+      "username": "karolineleavitt",
+      "name": "Karoline Leavitt"
+     },
+     {
+      "username": "lindseyvonn",
+      "name": "lindsey vonn"
+     },
+     {
+      "username": "ScottBaio",
+      "name": "Scott Baio"
+     },
+     {
+      "username": "drsimonegold",
+      "name": "Dr. Simone Gold"
+     },
+     {
+      "username": "robbystarbuck",
+      "name": "Robby Starbuck"
+     }
+    ]
+   }
+  ]
+ }
+}
