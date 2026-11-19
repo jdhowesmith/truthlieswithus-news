@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-18",
+  "label": "Wednesday, Nov. 18",
+  "checked": "2026-11-19T07:45:00-07:00",
+  "verifiedWith": [
+    "NHL.com scores (api-web.nhle.com)",
+    "NHL.com standings"
+  ],
+  "leagues": [
+    {
+      "league": "NFL",
+      "note": "No NFL games on Wednesday. Week 11 opens tonight (Thursday) with Indianapolis at Houston.",
+      "games": []
+    },
+    {
+      "league": "NHL",
+      "note": "Three games Wednesday. The Oilers did not play; they visit Tampa Bay tonight at 5:30 p.m. B.C. time.",
+      "games": [
+        {
+          "away": {
+            "name": "Boston Bruins",
+            "abbr": "BOS",
+            "score": 4,
+            "record": "14-7-1"
+          },
+          "home": {
+            "name": "Detroit Red Wings",
+            "abbr": "DET",
+            "score": 1,
+            "record": "8-11-3"
+          },
+          "status": "Final",
+          "venue": "Detroit",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/bos-vs-det/2026/11/18/2026020344"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261118"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Montréal Canadiens",
+            "abbr": "MTL",
+            "score": 3,
+            "record": "13-5-4"
+          },
+          "home": {
+            "name": "New Jersey Devils",
+            "abbr": "NJD",
+            "score": 2,
+            "record": "15-7-0"
+          },
+          "status": "Final",
+          "venue": "Newark",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/mtl-vs-njd/2026/11/18/2026020345"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261118"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Colorado Avalanche",
+            "abbr": "COL",
+            "score": 1,
+            "record": "12-7-3"
+          },
+          "home": {
+            "name": "Utah Mammoth",
+            "abbr": "UTA",
+            "score": 4,
+            "record": "11-9-3"
+          },
+          "status": "Final",
+          "venue": "Salt Lake City",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/col-vs-uta/2026/11/18/2026020346"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261118"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "underReported": [
+    {
+      "league": "NHL",
+      "items": [
+        {
+          "headline": "Tampa has been a house of horrors for Edmonton",
+          "text": "Oilers.com says Edmonton is 1-10-2 in its last 13 visits to Tampa, going back to 2011-12, even though the Oilers bring the NHL's best road record (10-0-1) into tonight's game.",
+          "sources": [
+            {
+              "title": "Oilers.com: Preview, Oilers at Lightning",
+              "url": "https://www.nhl.com/oilers/news/preview-oilers-at-lightning-11-18-26"
+            }
+          ]
+        },
+        {
+          "headline": "Isaac Howard scores in his AHL debut",
+          "text": "Activated off injured reserve and loaned to Bakersfield on Monday, Isaac Howard scored the Condors' only goal in a 7-1 loss at San Diego on Wednesday, his AHL season debut.",
+          "sources": [
+            {
+              "title": "Bakersfield Condors: Howard scores in loss to San Diego",
+              "url": "https://www.bakersfieldcondors.com/news/game-recap-howard-scores-in-condors-loss-to-san-diego/"
+            },
+            {
+              "title": "Oilers.com: Howard activated off IR, loaned to Condors",
+              "url": "https://www.nhl.com/oilers/news/release-howard-activated-off-ir-loaned-to-condors"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

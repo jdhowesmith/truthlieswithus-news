@@ -438,5 +438,41 @@
     "credit": "NOAA / National Hurricane Center",
     "creditUrl": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7",
     "license": "Public domain (U.S. government work)"
+  },
+  "putin-xi-shenzhen": {
+    "src": "/images/2026/11/putin-xi-handshake-shenzhen-2026-11-19.jpg",
+    "width": 1083,
+    "height": 780,
+    "alt": "Vladimir Putin and Xi Jinping shake hands in Shenzhen",
+    "credit": "Sergei Bobylev / The Associated Press, via CBC",
+    "creditUrl": "https://www.cbc.ca/news/world/trump-xi-putin-apec-meeting-9.7427718",
+    "license": "News photo, used with credit"
+  },
+  "oilers-tampa": {
+    "src": "/images/2026/11/oilers-arrive-tampa-2026-11-18.jpg",
+    "width": 900,
+    "height": 1200,
+    "alt": "An Edmonton Oilers player arrives in Tampa",
+    "credit": "Edmonton Oilers on X",
+    "creditUrl": "https://x.com/EdmontonOilers/status/2123170057471811643",
+    "license": "Team photo, used with credit"
+  },
+  "henderson-cme-2026": {
+    "src": "/images/2026/11/brooke-henderson-golf-canada-cme-12th-start-2026-11-19.jpg",
+    "width": 900,
+    "height": 1200,
+    "alt": "Golf Canada graphic of Brooke Henderson",
+    "credit": "Golf Canada on X",
+    "creditUrl": "https://x.com/GolfCanada/status/2123409723349151881",
+    "license": "Used with credit"
+  },
+  "nhc-outlook-2026-11-19": {
+    "src": "/images/2026/11/nhc-outlook-2026-11-19.jpg",
+    "width": 900,
+    "height": 679,
+    "alt": "National Hurricane Center seven-day Atlantic outlook for Nov. 19, 2026, showing a 60% area off the Southeast U.S. coast",
+    "credit": "NOAA / National Hurricane Center",
+    "creditUrl": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7",
+    "license": "Public domain (U.S. government work)"
   }
 }
