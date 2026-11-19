@@ -45,6 +45,7 @@ export type Article = {
   readingMinutes: number;
 };
 
+/** Live stories only. Previous days live in content/archive/ and are not loaded. */
 const DIR = path.join(process.cwd(), "content", "articles");
 const IMAGES: Record<string, ArticleImage> = JSON.parse(
   fs.readFileSync(path.join(process.cwd(), "content", "images.json"), "utf8"),

@@ -1,7 +1,7 @@
 ---
 title: "CN train derails into the Skeena River near Terrace after a rockslide"
 dek: "Two people were taken to hospital and containers went into the river. CN says diesel leaked from a locomotive."
-date: 2026-11-18T06:35:00-07:00
+date: 2026-11-19T07:30:00-07:00
 updated: 2026-11-19T07:30:00-07:00
 section: shuswap-bc
 tags: [cn-rail, derailment, northern-bc, highway-16]

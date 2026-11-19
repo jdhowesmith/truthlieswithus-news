@@ -1,10 +1,9 @@
 ---
 title: "No fall sitting: Doerkson's Conservatives take power Friday, laws wait for spring"
 dek: "B.C.'s premier-designate says the new government will use cabinet orders first. Changes to no-fault car insurance and DRIPA repeal must wait."
-date: 2026-11-17T06:55:00-07:00
+date: 2026-11-19T07:30:00-07:00
 updated: 2026-11-19T07:30:00-07:00
 section: shuswap-bc
-alsoIn: [canada]
 tags: [bc-politics, legislature, conservatives]
 priority: 7
 location: "Victoria, B.C."

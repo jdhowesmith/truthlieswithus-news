@@ -65,11 +65,14 @@ Add a `video` block with a YouTube ID from the outlet's official channel. Embeds
 ### Homepage and section rules
 - The Top/home tab shows only about **five** of the day's biggest **new** stories. All other stories appear only on their section pages.
 - A story may appear on the Top tab and in its one section. It must not appear in a second section.
+- The live site shows **only today's stories and today's updates**. No earlier day's stories should appear on the Top tab, any section page, or the sitemap.
 
-### No repeats
-- Do not republish yesterday's or two-day-old stories as today's news unless there is real new information or a genuine update.
-- If today's story is a real update on one already on the site (for example, a summit that was previewed yesterday has now happened), keep **one** article only: either fold the new facts into the older article at the top and set `updated`, or keep the new article and remove the older one. The same story must not appear twice.
-- Older stories may stay on section pages with their original dates. Do not re-date them as today unless they have a real update.
+### Only today's edition (archive the rest)
+- Each morning, **before publishing**, move the previous days' articles from `content/articles/` into `content/archive/articles/`. Leave `_TEMPLATE.md` in place.
+- Exception: if an older story has a genuine update today, keep that one file in `content/articles/`, fold the new facts in at the top, and set both `date` and `updated` to today so it is listed as a today's update. Keep it in one section only (no `alsoIn`).
+- Do not republish yesterday's or two-day-old stories as today's news unless there is real new information. If today's story updates one already written, keep **one** article only.
+- Also move the previous days' `content/streaming/` and `content/x/` files into `content/archive/streaming/` and `content/archive/x/`, and move older `content/scores/` files into `content/archive/scores/`, leaving only the current edition. Scores files are named for last night's game date.
+- Files in `content/archive/` are not published and must not be linked from the live site.
 
 ### X flags and common sense
 - Do not repeat an X theme from the previous one or two days unless the posts have real new information.
