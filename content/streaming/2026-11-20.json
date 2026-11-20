@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-20",
+  "title": "What's streaming this week",
+  "canadaNote": "In Canada, HBO Max and Peacock titles usually stream on Crave, and Hulu originals usually go to Disney+. Where a Canadian release isn't confirmed, we say so.",
+  "outToday": [
+    {
+      "title": "Percy Jackson and the Olympians",
+      "type": "Series, season 3 premiere (two episodes)",
+      "service": "Disney+",
+      "availability": "U.S. and Canada.",
+      "date": "Fri Nov 20",
+      "summary": "Percy faces Annabeth's sudden disappearance and a looming Great Prophecy about a demigod child of the \"Big Three.\"",
+      "url": "https://www.tvline.com/2320327/what-to-watch-november-20-2026-tv-shows-movies-streaming/"
+    },
+    {
+      "title": "Steps",
+      "type": "Animated film",
+      "service": "Netflix",
+      "availability": "U.S. and Canada.",
+      "date": "Fri Nov 20",
+      "summary": "An animated twist on Cinderella: a misunderstood stepsister (Ali Wong) accidentally turns her sister into a frog and teams up with Cinderella (Amanda Seyfried) to fix it. With Daniel Radcliffe, Peter Dinklage and Bette Midler.",
+      "url": "https://www.tvline.com/2320327/what-to-watch-november-20-2026-tv-shows-movies-streaming/"
+    },
+    {
+      "title": "Primetime Preacher$",
+      "type": "Documentary series",
+      "service": "Netflix",
+      "availability": "Netflix.",
+      "date": "Fri Nov 20",
+      "summary": "How 1980s televangelists Jim Bakker, Jerry Falwell and Jimmy Swaggart reshaped American religion and politics, until scandal and rivalry broke out.",
+      "url": "https://www.tvline.com/2320327/what-to-watch-november-20-2026-tv-shows-movies-streaming/"
+    },
+    {
+      "title": "MobLand",
+      "type": "Series, season 2 finale",
+      "service": "Paramount+",
+      "availability": "U.S. and Canada.",
+      "date": "Fri Nov 20",
+      "summary": "The season ends with coordinated raids setting the Harrigan crime family's empire on fire.",
+      "url": "https://www.tvline.com/2320327/what-to-watch-november-20-2026-tv-shows-movies-streaming/"
+    },
+    {
+      "title": "Yellowjackets",
+      "type": "Series, final season premiere",
+      "service": "Paramount+ with Showtime",
+      "availability": "U.S. Canadian timing not confirmed.",
+      "date": "Fri Nov 20",
+      "summary": "The survival drama's last season opens as the group comes home and faces an inquisition sooner than expected.",
+      "url": "https://www.tvline.com/2320327/what-to-watch-november-20-2026-tv-shows-movies-streaming/"
+    },
+    {
+      "title": "Perfect Liars",
+      "type": "Series",
+      "service": "Prime Video",
+      "availability": "Prime Video.",
+      "date": "Fri Nov 20",
+      "summary": "A revenge thriller about a student investigating her brother's death.",
+      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-november-films-shows-sports-2026"
+    }
+  ],
+  "recent": [],
+  "sources": [
+    {
+      "title": "TVLine: What to watch, Friday Nov. 20",
+      "url": "https://www.tvline.com/2320327/what-to-watch-november-20-2026-tv-shows-movies-streaming/"
+    },
+    {
+      "title": "Decider: New shows and movies to watch this weekend",
+      "url": "https://decider.com/2026/11/20/new-shows-movies-to-watch-this-weekend-the-altruists-on-netflix-more/"
+    },
+    {
+      "title": "Amazon: Prime Video in November",
+      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-november-films-shows-sports-2026"
+    }
+  ],
+  "charts": {
+    "name": "Netflix Top 10",
+    "week": "Nov. 9–15, 2026 (latest week Netflix has published)",
+    "url": "https://www.netflix.com/tudum/top10",
+    "lists": [
+      {
+        "label": "Canada: TV",
+        "items": [
+          "Taken: Natalee Holloway (Season 1)",
+          "Black Doves (Season 2)",
+          "The Body (Season 1)"
+        ]
+      },
+      {
+        "label": "Canada: Films",
+        "items": [
+          "The Christmas Switch",
+          "A Dog's Perfect Christmas",
+          "Heartland"
+        ]
+      },
+      {
+        "label": "Global: English TV (views)",
+        "items": [
+          "Taken: Natalee Holloway (7.2M)",
+          "Black Doves S2 (6.6M)",
+          "The Body (5.1M)"
+        ]
+      },
+      {
+        "label": "Global: English films (views)",
+        "items": [
+          "Heartland (7.3M)",
+          "A Dog's Perfect Christmas (7.2M)",
+          "The Gospel of Christmas (6.1M)"
+        ]
+      }
+    ]
+  }
+}

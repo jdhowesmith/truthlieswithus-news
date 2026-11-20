@@ -1,0 +1,389 @@
+{
+  "date": "2026-11-19",
+  "label": "Thursday, Nov. 19",
+  "checked": "2026-11-20T07:40:00-07:00",
+  "verifiedWith": [
+    "NHL.com scores (api-web.nhle.com)",
+    "NHL.com standings",
+    "ESPN NFL scoreboard"
+  ],
+  "leagues": [
+    {
+      "league": "NFL",
+      "note": "One NFL game Thursday night to open Week 11: Houston beat Indianapolis 26-3.",
+      "games": [
+        {
+          "away": {
+            "name": "Indianapolis Colts",
+            "abbr": "IND",
+            "score": 3,
+            "record": "3-8"
+          },
+          "home": {
+            "name": "Houston Texans",
+            "abbr": "HOU",
+            "score": 26,
+            "record": "4-6"
+          },
+          "status": "Final",
+          "venue": "Houston",
+          "links": [
+            {
+              "label": "ESPN game",
+              "url": "https://www.espn.com/nfl/game/_/gameId/401873066"
+            },
+            {
+              "label": "NFL.com scores",
+              "url": "https://www.nfl.com/scores/2026/reg11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "league": "NHL",
+      "note": "Twelve games Thursday. The Oilers lost 3-1 in Tampa Bay, ending their six-game winning streak.",
+      "games": [
+        {
+          "away": {
+            "name": "Los Angeles Kings",
+            "abbr": "LAK",
+            "score": 4,
+            "record": "7-11-2"
+          },
+          "home": {
+            "name": "Toronto Maple Leafs",
+            "abbr": "TOR",
+            "score": 3,
+            "record": "8-13-3"
+          },
+          "status": "Final/SO",
+          "venue": "Scotiabank Arena",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/lak-vs-tor/2026/11/19/2026020347"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Philadelphia Flyers",
+            "abbr": "PHI",
+            "score": 6,
+            "record": "8-11-6"
+          },
+          "home": {
+            "name": "Ottawa Senators",
+            "abbr": "OTT",
+            "score": 5,
+            "record": "14-6-3"
+          },
+          "status": "Final/OT",
+          "venue": "Canadian Tire Centre",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/phi-vs-ott/2026/11/19/2026020348"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "St. Louis Blues",
+            "abbr": "STL",
+            "score": 5,
+            "record": "11-9-2"
+          },
+          "home": {
+            "name": "Pittsburgh Penguins",
+            "abbr": "PIT",
+            "score": 2,
+            "record": "7-12-2"
+          },
+          "status": "Final",
+          "venue": "PPG Paints Arena",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/stl-vs-pit/2026/11/19/2026020350"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Buffalo Sabres",
+            "abbr": "BUF",
+            "score": 6,
+            "record": "9-9-4"
+          },
+          "home": {
+            "name": "Washington Capitals",
+            "abbr": "WSH",
+            "score": 3,
+            "record": "10-10-0"
+          },
+          "status": "Final",
+          "venue": "Capital One Arena",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/buf-vs-wsh/2026/11/19/2026020351"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Montr\u00e9al Canadiens",
+            "abbr": "MTL",
+            "score": 2,
+            "record": "14-5-4"
+          },
+          "home": {
+            "name": "Carolina Hurricanes",
+            "abbr": "CAR",
+            "score": 1,
+            "record": "16-3-3"
+          },
+          "status": "Final/OT",
+          "venue": "Lenovo Center",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/mtl-vs-car/2026/11/19/2026020352"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "New York Islanders",
+            "abbr": "NYI",
+            "score": 3,
+            "record": "10-6-5"
+          },
+          "home": {
+            "name": "Winnipeg Jets",
+            "abbr": "WPG",
+            "score": 4,
+            "record": "11-9-3"
+          },
+          "status": "Final/OT",
+          "venue": "Canada Life Centre",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/nyi-vs-wpg/2026/11/19/2026020354"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Edmonton Oilers",
+            "abbr": "EDM",
+            "score": 1,
+            "record": "17-4-3"
+          },
+          "home": {
+            "name": "Tampa Bay Lightning",
+            "abbr": "TBL",
+            "score": 3,
+            "record": "15-5-2"
+          },
+          "status": "Final",
+          "venue": "Benchmark International Arena",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/edm-vs-tbl/2026/11/19/2026020349"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Columbus Blue Jackets",
+            "abbr": "CBJ",
+            "score": 4,
+            "record": "8-12-0"
+          },
+          "home": {
+            "name": "Chicago Blackhawks",
+            "abbr": "CHI",
+            "score": 2,
+            "record": "6-14-2"
+          },
+          "status": "Final",
+          "venue": "United Center",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/cbj-vs-chi/2026/11/19/2026020353"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Minnesota Wild",
+            "abbr": "MIN",
+            "score": 4,
+            "record": "17-3-4"
+          },
+          "home": {
+            "name": "Calgary Flames",
+            "abbr": "CGY",
+            "score": 1,
+            "record": "10-12-1"
+          },
+          "status": "Final",
+          "venue": "Scotiabank Saddledome",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/min-vs-cgy/2026/11/19/2026020355"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Anaheim Ducks",
+            "abbr": "ANA",
+            "score": 0,
+            "record": "11-11-1"
+          },
+          "home": {
+            "name": "Colorado Avalanche",
+            "abbr": "COL",
+            "score": 4,
+            "record": "13-7-3"
+          },
+          "status": "Final",
+          "venue": "Ball Arena",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/ana-vs-col/2026/11/19/2026020356"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Vancouver Canucks",
+            "abbr": "VAN",
+            "score": 1,
+            "record": "5-18-1"
+          },
+          "home": {
+            "name": "Seattle Kraken",
+            "abbr": "SEA",
+            "score": 5,
+            "record": "10-8-1"
+          },
+          "status": "Final",
+          "venue": "Climate Pledge Arena",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/van-vs-sea/2026/11/19/2026020357"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        },
+        {
+          "away": {
+            "name": "Dallas Stars",
+            "abbr": "DAL",
+            "score": 4,
+            "record": "14-6-2"
+          },
+          "home": {
+            "name": "Vegas Golden Knights",
+            "abbr": "VGK",
+            "score": 3,
+            "record": "13-6-5"
+          },
+          "status": "Final/SO",
+          "venue": "T-Mobile Arena",
+          "links": [
+            {
+              "label": "NHL.com",
+              "url": "https://www.nhl.com/gamecenter/dal-vs-vgk/2026/11/19/2026020358"
+            },
+            {
+              "label": "ESPN scoreboard",
+              "url": "https://www.espn.com/nhl/scoreboard/_/date/20261119"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "underReported": [
+    {
+      "league": "NHL",
+      "items": [
+        {
+          "headline": "Ekholm's clearing attempt sealed it",
+          "text": "Tampa Bay's third goal was credited to Nikita Kucherov, but his breakaway shot was trickling through Devon Levi when Mattias Ekholm knocked it in trying to clear it. \"That's my bad. I'll get Levs a nice dinner for that one,\" Ekholm told NHL.com.",
+          "sources": [
+            {
+              "title": "NHL.com: Lightning vs. Oilers recap",
+              "url": "https://www.nhl.com/news/edmonton-oilers-tampa-bay-lightning-game-recap-november-19-2026"
+            }
+          ]
+        },
+        {
+          "headline": "Edmonton outshot Tampa and still lost",
+          "text": "The official game summary has Edmonton outshooting Tampa Bay 24-19, but the Oilers went 0-for-3 on the power play while Tampa scored on one of its two chances.",
+          "sources": [
+            {
+              "title": "NHL official game summary",
+              "url": "https://www.nhl.com/scores/htmlreports/20262027/GS020349.HTM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -474,5 +474,86 @@
     "credit": "NOAA / National Hurricane Center",
     "creditUrl": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7",
     "license": "Public domain (U.S. government work)"
+  },
+  "kyiv-strike-2026-11-20": {
+    "src": "/images/2026/11/kyiv-strike-warehouse-2026-11-20.jpg",
+    "width": 620,
+    "height": 349,
+    "alt": "A man walks through debris at a Kyiv warehouse struck in a Russian attack",
+    "credit": "Thomas Peter/Reuters, via CBC News",
+    "creditUrl": "https://www.cbc.ca/news/world/russian-attacks-on-kyiv-9.7429460",
+    "license": "News photo, used with credit"
+  },
+  "doerkson-2026-11-20": {
+    "src": "/images/2026/11/doerkson-2026-11-20.jpg",
+    "width": 620,
+    "height": 349,
+    "alt": "Lorne Doerkson",
+    "credit": "The Canadian Press, via CBC News",
+    "creditUrl": "https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384",
+    "license": "News photo, used with credit"
+  },
+  "oilers-lightning-2026-11-19": {
+    "src": "/images/2026/11/oilers-lightning-2026-11-19.jpg",
+    "width": 1280,
+    "height": 720,
+    "alt": "Action from the Oilers-Lightning game in Tampa",
+    "credit": "NHL.com",
+    "creditUrl": "https://www.nhl.com/news/edmonton-oilers-tampa-bay-lightning-game-recap-november-19-2026",
+    "license": "League photo, used with credit"
+  },
+  "fiona-hippo": {
+    "src": "/images/2026/11/fiona-hippo.jpg",
+    "width": 1280,
+    "height": 1072,
+    "alt": "Fiona the hippopotamus at the Cincinnati Zoo",
+    "credit": "DarthBotto, Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Fiona_the_Hippopotamus_(detail).jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "us-capitol": {
+    "src": "/images/2026/11/us-capitol.jpg",
+    "width": 1280,
+    "height": 664,
+    "alt": "The west front of the United States Capitol",
+    "credit": "Architect of the Capitol, Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front.jpg",
+    "license": "Public domain"
+  },
+  "rikers": {
+    "src": "/images/2026/11/rikers.jpg",
+    "width": 1280,
+    "height": 960,
+    "alt": "Rikers Island seen from the air",
+    "credit": "Cdogsimmons, Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Rikers_Island_from_the_air.JPG",
+    "license": "Public domain"
+  },
+  "winnipeg-psb": {
+    "src": "/images/2026/11/winnipeg-psb.jpg",
+    "width": 1280,
+    "height": 960,
+    "alt": "The former Public Safety Building in Winnipeg",
+    "credit": "Herb Neufeld, Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Public_Safety_Building_Winnipeg_(1).jpg",
+    "license": "CC BY 2.0"
+  },
+  "nrg-stadium": {
+    "src": "/images/2026/11/nrg-stadium.jpg",
+    "width": 1280,
+    "height": 960,
+    "alt": "NRG Stadium in Houston",
+    "credit": "U.S. Customs and Border Protection, Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:NRG_Stadium,_Houston,_Texas,_United_States.jpg",
+    "license": "Public domain"
+  },
+  "nyt-building": {
+    "src": "/images/2026/11/nyt-building.jpg",
+    "width": 1280,
+    "height": 960,
+    "alt": "The New York Times Building in Manhattan",
+    "credit": "Ermell, Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:NewYork_Times_building_1140917.jpg",
+    "license": "CC BY-SA 4.0"
   }
 }

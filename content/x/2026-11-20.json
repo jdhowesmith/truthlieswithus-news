@@ -1,0 +1,762 @@
+{
+ "date": "2026-11-20",
+ "title": "Today on X",
+ "account": "truthlieswithus",
+ "windowLabel": "About 3 a.m. to 7 a.m. Friday, Nov. 20, B.C. time, plus targeted checks of the past 24 hours",
+ "checked": "2026-11-20T07:40-07:00",
+ "checkedLabel": "7:40 a.m. B.C. time, Friday, Nov. 20, 2026",
+ "method": "Built from the News & Events brief's X summary, then each post was re-read on X this morning to confirm the wording and counts. Counts may have changed since. The brief read about 200 of the most recent timeline posts and sorted them by engagement; it was not a full page-through of all 24 hours. No completed NHL trades on Nov. 19–20 and no new Oilers trade talk from Friedman, LeBrun or Seravalli.",
+ "followingTotal": 505,
+ "timelinePosts": 200,
+ "trendsNote": "X’s worldwide list often reflects the most active regions at this hour, which is why it may look different from the Canada and U.S. lists.",
+ "trends": {
+  "canada": [
+   {
+    "name": "GTA 6",
+    "url": "https://x.com/search?q=GTA%206"
+   },
+   {
+    "name": "Putin",
+    "url": "https://x.com/search?q=Putin"
+   },
+   {
+    "name": "GTA VI",
+    "url": "https://x.com/search?q=GTA%20VI"
+   },
+   {
+    "name": "Lucia",
+    "url": "https://x.com/search?q=Lucia"
+   },
+   {
+    "name": "Ersson",
+    "url": "https://x.com/search?q=Ersson"
+   },
+   {
+    "name": "lane hutson",
+    "url": "https://x.com/search?q=lane%20hutson"
+   },
+   {
+    "name": "China",
+    "url": "https://x.com/search?q=China"
+   },
+   {
+    "name": "Fiona",
+    "url": "https://x.com/search?q=Fiona"
+   },
+   {
+    "name": "#bbtvi",
+    "url": "https://x.com/search?q=%23bbtvi"
+   },
+   {
+    "name": "$ANT",
+    "url": "https://x.com/search?q=%24ANT"
+   }
+  ],
+  "us": [
+   {
+    "name": "Rikers",
+    "url": "https://x.com/search?q=Rikers"
+   },
+   {
+    "name": "Good Friday",
+    "url": "https://x.com/search?q=Good%20Friday"
+   },
+   {
+    "name": "RED Friday",
+    "url": "https://x.com/search?q=RED%20Friday"
+   },
+   {
+    "name": "#FridayVibes",
+    "url": "https://x.com/search?q=%23FridayVibes"
+   },
+   {
+    "name": "#earthquake",
+    "url": "https://x.com/search?q=%23earthquake"
+   },
+   {
+    "name": "Happy FriYay",
+    "url": "https://x.com/search?q=Happy%20FriYay"
+   },
+   {
+    "name": "#BoycottDisneyPPGCollab",
+    "url": "https://x.com/search?q=%23BoycottDisneyPPGCollab"
+   },
+   {
+    "name": "AUAU SAVE OST MR FANBOY",
+    "url": "https://x.com/search?q=AUAU%20SAVE%20OST%20MR%20FANBOY"
+   },
+   {
+    "name": "#NoMoneyForLaDs",
+    "url": "https://x.com/search?q=%23NoMoneyForLaDs"
+   },
+   {
+    "name": "#SECONDTAKEbyAuAuSave",
+    "url": "https://x.com/search?q=%23SECONDTAKEbyAuAuSave"
+   }
+  ],
+  "worldwide": [
+   {
+    "name": "#Mステ",
+    "url": "https://x.com/search?q=%23M%E3%82%B9%E3%83%86"
+   },
+   {
+    "name": "#ساعه_استجابه",
+    "url": "https://x.com/search?q=%23%D8%B3%D8%A7%D8%B9%D9%87_%D8%A7%D8%B3%D8%AA%D8%AC%D8%A7%D8%A8%D9%87"
+   },
+   {
+    "name": "#LOST10",
+    "url": "https://x.com/search?q=%23LOST10"
+   },
+   {
+    "name": "#LoversAndGangstersEP4",
+    "url": "https://x.com/search?q=%23LoversAndGangstersEP4"
+   },
+   {
+    "name": "#SECONDTAKEbyAuAuSave",
+    "url": "https://x.com/search?q=%23SECONDTAKEbyAuAuSave"
+   },
+   {
+    "name": "AUAU SAVE OST MR FANBOY",
+    "url": "https://x.com/search?q=AUAU%20SAVE%20OST%20MR%20FANBOY"
+   },
+   {
+    "name": "FORCEBOOK LAG EP4",
+    "url": "https://x.com/search?q=FORCEBOOK%20LAG%20EP4"
+   },
+   {
+    "name": "PERTH COMEBACK NOT SORRY",
+    "url": "https://x.com/search?q=PERTH%20COMEBACK%20NOT%20SORRY"
+   },
+   {
+    "name": "Amelie",
+    "url": "https://x.com/search?q=Amelie"
+   },
+   {
+    "name": "Gabriel",
+    "url": "https://x.com/search?q=Gabriel"
+   }
+  ]
+ },
+ "themes": [
+  {
+   "id": "rikers",
+   "title": "Mamdani's Rikers plan: closing, but later",
+   "summary": "@bennyjohnson posted that NYC Mayor Zohran Mamdani \"just announced he is CLOSING Riker's Island jail complex.\" The plan does call for closing Rikers, but the NY Post and AP report it would ask City Council to push the legal closure deadline from August 2027 to the end of 2032.",
+   "whyItMatters": "Rikers was trending in the U.S. this morning, and the delay is the part the viral posts left out.",
+   "flags": [
+    {
+     "label": "True, with a catch",
+     "kind": "partial",
+     "note": "The plan closes Rikers but delays the legal deadline about five years.",
+     "source": {
+      "title": "AP: Mamdani Rikers Island plan",
+      "url": "https://apnews.com/article/zohran-mamdani-rikers-island-aaf05ad46f0a999a213f2613fe39f7dc"
+     }
+    }
+   ],
+   "related": [
+    {
+     "title": "Mamdani's plan to close Rikers would push the deadline to 2032",
+     "slug": "mamdani-rikers-closure-plan-2032"
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123770723491828206",
+     "username": "bennyjohnson",
+     "name": "Benny Johnson",
+     "url": "https://x.com/bennyjohnson/status/2123770723491828206",
+     "excerpt": "NY Mayor Zohran Mamdani just announced he is CLOSING Riker’s Island jail complex.",
+     "createdAt": "2026-11-20T13:29:32.000Z",
+     "likes": 360,
+     "reposts": 133,
+     "replies": 169,
+     "quotes": 34,
+     "engagement": 696
+    }
+   ]
+  },
+  {
+   "id": "permitting",
+   "title": "Senate passes permitting reform",
+   "summary": "@ThePatriotOasis posted that the Senate passed a sweeping permitting reform bill 62-33, and quoted Sen. Mike Lee saying it will save American families \"hundreds of dollars a year in electricity costs alone.\" The vote is confirmed by Fox News and NBC News; the savings figure is Lee's claim.",
+   "whyItMatters": "A rare big bipartisan Senate vote, with effects on energy and power-line projects.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "The 62-33 vote is reported by Fox News and NBC News.",
+     "source": {
+      "title": "NBC News: Senate passes sweeping permitting bill",
+      "url": "https://www.nbcnews.com/politics/congress/senate-passes-sweeping-bill-simplifying-permitting-rules-build-america-rcna610196"
+     }
+    }
+   ],
+   "related": [
+    {
+     "title": "Senate passes sweeping permitting-reform bill, 62-33",
+     "slug": "senate-passes-permitting-reform-62-33"
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123767820555047217",
+     "username": "ThePatriotOasis",
+     "name": "The Patriot Oasis™",
+     "url": "https://x.com/ThePatriotOasis/status/2123767820555047217",
+     "excerpt": "🔥🚨 BOOM! — The Senate PASSED a sweeping permitting reform bill 62-33 last night, and Sen. Mike Lee says it's the biggest in U.S. history. LEE: “This is a bill that will save American families hundr…",
+     "createdAt": "2026-11-20T13:18:00.000Z",
+     "likes": 224,
+     "reposts": 72,
+     "replies": 15,
+     "quotes": 2,
+     "engagement": 313
+    }
+   ]
+  },
+  {
+   "id": "nyt-suit",
+   "title": "Trump's NYT lawsuit survives, in part",
+   "summary": "@RSBNetwork posted that a federal judge allowed Trump's defamation lawsuit against the New York Times to proceed. Judge Steven Merryday let parts of the suit go ahead and dismissed other claims, according to the Washington Times and Politico.",
+   "whyItMatters": "The case moves forward, but not every claim survived.",
+   "flags": [
+    {
+     "label": "True, in part",
+     "kind": "partial",
+     "note": "Some claims were dismissed.",
+     "source": {
+      "title": "Politico: Trump lawsuit against New York Times",
+      "url": "https://www.politico.com/news/2026/11/19/donald-trump-lawsuit-new-york-times"
+     }
+    }
+   ],
+   "related": [
+    {
+     "title": "Judge lets parts of Trump's $15-billion lawsuit against the New York Times go ahead",
+     "slug": "trump-nyt-lawsuit-proceeds-in-part"
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123763302060745076",
+     "username": "RSBNetwork",
+     "name": "RSBN 🇺🇸",
+     "url": "https://x.com/RSBNetwork/status/2123763302060745076",
+     "excerpt": "Federal judge allows President Trump’s defamation lawsuit against New York Times to proceed",
+     "createdAt": "2026-11-20T13:00:03.000Z",
+     "likes": 179,
+     "reposts": 30,
+     "replies": 1,
+     "quotes": 2,
+     "engagement": 212
+    }
+   ]
+  },
+  {
+   "id": "goldy-brar",
+   "title": "Goldy Brar: Canada's most wanted",
+   "summary": "Andy Lee (@RealAndyLeeShow) shared the BOLO Program's appeal for Satinderjeet Singh, known as Goldy Brar, with the message \"Let's go people Find him.\" Winnipeg police are offering up to $250,000 for information leading to his arrest.",
+   "whyItMatters": "One of the most-shared Canadian posts on the feed; the reward and tip line are real.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "Winnipeg Police Service news release, Nov. 19.",
+     "source": {
+      "title": "Winnipeg Police: Canada's most wanted fugitive, major reward offered",
+      "url": "https://www.winnipeg.ca/police/community/news-releases/2026-11-19-public-assistance-requested-locating-canadas-most-wanted-fugitive-major-reward-offered"
+     }
+    }
+   ],
+   "related": [
+    {
+     "title": "Goldy Brar named Canada's most-wanted fugitive, with up to $250,000 reward",
+     "slug": "goldy-brar-canada-most-wanted-reward"
+    }
+   ],
+   "posts": [
+    {
+     "id": "2123481275801682113",
+     "username": "RealAndyLeeShow",
+     "name": "Andy Lee",
+     "url": "https://x.com/RealAndyLeeShow/status/2123481275801682113",
+     "excerpt": "Let’s go people Find him",
+     "createdAt": "2026-11-19T18:19:23.000Z",
+     "likes": 1174,
+     "reposts": 529,
+     "replies": 118,
+     "quotes": 19,
+     "engagement": 1840
+    }
+   ]
+  },
+  {
+   "id": "gas",
+   "title": "U.S. gas average falls to $3.69",
+   "summary": "@ElectionWiz posted that the U.S. national average for gas is down to $3.69 a gallon per AAA, a drop of more than 59 cents in a month. AAA's site this morning shows a regular-gas average of $3.6898, down from $4.2786 a month ago, a drop of about 59 cents.",
+   "whyItMatters": "Falling U.S. prices often show up at Canadian pumps too.",
+   "flags": [
+    {
+     "label": "Confirmed",
+     "kind": "confirmed",
+     "note": "AAA national average $3.6898 on Nov. 20; month-ago average $4.2786.",
+     "source": {
+      "title": "AAA: National average gas prices",
+      "url": "https://gasprices.aaa.com/"
+     }
+    }
+   ],
+   "related": [],
+   "posts": [
+    {
+     "id": "2123748712728175093",
+     "username": "ElectionWiz",
+     "name": "Election Wizard",
+     "url": "https://x.com/ElectionWiz/status/2123748712728175093",
+     "excerpt": "NOW: Gas is DOWN to $3.69 a gallon, the lowest national average since mid-March, per AAA. That's a more than 59-cent DROP in a month, one of the steepest declines since 2008",
+     "createdAt": "2026-11-20T12:02:05.000Z",
+     "likes": 651,
+     "reposts": 90,
+     "replies": 79,
+     "quotes": 20,
+     "engagement": 840
+    }
+   ]
+  }
+ ],
+ "mostEngaged": [
+  {
+   "id": "2123481275801682113",
+   "username": "RealAndyLeeShow",
+   "name": "Andy Lee",
+   "url": "https://x.com/RealAndyLeeShow/status/2123481275801682113",
+   "excerpt": "Let’s go people Find him",
+   "createdAt": "2026-11-19T18:19:23.000Z",
+   "likes": 1174,
+   "reposts": 529,
+   "replies": 118,
+   "quotes": 19,
+   "engagement": 1840
+  },
+  {
+   "id": "2123748712728175093",
+   "username": "ElectionWiz",
+   "name": "Election Wizard",
+   "url": "https://x.com/ElectionWiz/status/2123748712728175093",
+   "excerpt": "NOW: Gas is DOWN to $3.69 a gallon, the lowest national average since mid-March, per AAA. That's a more than 59-cent DROP in a month, one of the steepest declines since 2008",
+   "createdAt": "2026-11-20T12:02:05.000Z",
+   "likes": 651,
+   "reposts": 90,
+   "replies": 79,
+   "quotes": 20,
+   "engagement": 840
+  },
+  {
+   "id": "2123770723491828206",
+   "username": "bennyjohnson",
+   "name": "Benny Johnson",
+   "url": "https://x.com/bennyjohnson/status/2123770723491828206",
+   "excerpt": "NY Mayor Zohran Mamdani just announced he is CLOSING Riker’s Island jail complex.",
+   "createdAt": "2026-11-20T13:29:32.000Z",
+   "likes": 360,
+   "reposts": 133,
+   "replies": 169,
+   "quotes": 34,
+   "engagement": 696
+  },
+  {
+   "id": "2123767820555047217",
+   "username": "ThePatriotOasis",
+   "name": "The Patriot Oasis™",
+   "url": "https://x.com/ThePatriotOasis/status/2123767820555047217",
+   "excerpt": "🔥🚨 BOOM! — The Senate PASSED a sweeping permitting reform bill 62-33 last night, and Sen. Mike Lee says it's the biggest in U.S. history. LEE: “This is a bill that will save American families hundr…",
+   "createdAt": "2026-11-20T13:18:00.000Z",
+   "likes": 224,
+   "reposts": 72,
+   "replies": 15,
+   "quotes": 2,
+   "engagement": 313
+  },
+  {
+   "id": "2123763302060745076",
+   "username": "RSBNetwork",
+   "name": "RSBN 🇺🇸",
+   "url": "https://x.com/RSBNetwork/status/2123763302060745076",
+   "excerpt": "Federal judge allows President Trump’s defamation lawsuit against New York Times to proceed",
+   "createdAt": "2026-11-20T13:00:03.000Z",
+   "likes": 179,
+   "reposts": 30,
+   "replies": 1,
+   "quotes": 2,
+   "engagement": 212
+  }
+ ],
+ "mostEngagedNote": "Ranked by likes, reposts, replies and quotes among the posts featured above, using counts checked this morning. We list at most two posts per account. A place on this list reflects engagement, not accuracy.",
+ "following": {
+  "total": 505,
+  "categories": [
+   {
+    "id": "news",
+    "name": "News",
+    "count": 54,
+    "accounts": [
+     {
+      "username": "DailyLoud",
+      "name": "Daily Loud"
+     },
+     {
+      "username": "wikileaks",
+      "name": "WikiLeaks"
+     },
+     {
+      "username": "Snowden",
+      "name": "Edward Snowden"
+     },
+     {
+      "username": "IngrahamAngle",
+      "name": "Laura Ingraham"
+     },
+     {
+      "username": "JamesOKeefeIII",
+      "name": "James O'Keefe"
+     },
+     {
+      "username": "BreitbartNews",
+      "name": "Breitbart News"
+     },
+     {
+      "username": "LauraLoomer",
+      "name": "Laura Loomer"
+     },
+     {
+      "username": "MrAndyNgo",
+      "name": "Andy Ngo"
+     }
+    ]
+   },
+   {
+    "id": "politics",
+    "name": "Politics & government",
+    "count": 63,
+    "accounts": [
+     {
+      "username": "realDonaldTrump",
+      "name": "Donald J. Trump"
+     },
+     {
+      "username": "POTUS45",
+      "name": "President Trump 45 Archived"
+     },
+     {
+      "username": "WhiteHouse45",
+      "name": "The White House 45 Archived"
+     },
+     {
+      "username": "DonaldJTrumpJr",
+      "name": "Donald Trump Jr."
+     },
+     {
+      "username": "FLOTUS45",
+      "name": "Melania Trump 45 Archived"
+     },
+     {
+      "username": "IvankaTrump",
+      "name": "Ivanka Trump"
+     },
+     {
+      "username": "tedcruz",
+      "name": "Ted Cruz"
+     },
+     {
+      "username": "Jim_Jordan",
+      "name": "Rep. Jim Jordan"
+     }
+    ]
+   },
+   {
+    "id": "canada",
+    "name": "Canada",
+    "count": 20,
+    "accounts": [
+     {
+      "username": "CanadianPM",
+      "name": "Prime Minister of Canada"
+     },
+     {
+      "username": "RebelNewsOnline",
+      "name": "Rebel News"
+     },
+     {
+      "username": "ezralevant",
+      "name": "Ezra Levant 🍁🚛"
+     },
+     {
+      "username": "junonewscom",
+      "name": "Juno News"
+     },
+     {
+      "username": "SheilaGunnReid",
+      "name": "Sheila Gunn Reid"
+     },
+     {
+      "username": "RealAndyLeeShow",
+      "name": "Andy Lee"
+     },
+     {
+      "username": "ThevoiceAlexa",
+      "name": "Alexandra Lavoie"
+     },
+     {
+      "username": "LeslynLewis",
+      "name": "Dr. Leslyn Lewis"
+     }
+    ]
+   },
+   {
+    "id": "sports",
+    "name": "Sports",
+    "count": 15,
+    "accounts": [
+     {
+      "username": "SHAQ",
+      "name": "SHAQ"
+     },
+     {
+      "username": "TheNotoriousMMA",
+      "name": "Conor McGregor"
+     },
+     {
+      "username": "TomBrady",
+      "name": "Tom Brady"
+     },
+     {
+      "username": "DjokerNole",
+      "name": "Novak Djokovic"
+     },
+     {
+      "username": "TigerWoods",
+      "name": "Tiger Woods"
+     },
+     {
+      "username": "MikeTyson",
+      "name": "Mike Tyson"
+     },
+     {
+      "username": "DanicaPatrick",
+      "name": "Danica Patrick"
+     },
+     {
+      "username": "SStricklandMMA",
+      "name": "Sean Strickland"
+     }
+    ]
+   },
+   {
+    "id": "commentary",
+    "name": "Commentary",
+    "count": 72,
+    "accounts": [
+     {
+      "username": "charliekirk11",
+      "name": "Charlie Kirk"
+     },
+     {
+      "username": "libsoftiktok",
+      "name": "Libs of TikTok"
+     },
+     {
+      "username": "bennyjohnson",
+      "name": "Benny Johnson"
+     },
+     {
+      "username": "catturd2",
+      "name": "Catturd ™"
+     },
+     {
+      "username": "JesseBWatters",
+      "name": "Jesse Watters"
+     },
+     {
+      "username": "ClownWorld",
+      "name": "Clown World ™ 🤡"
+     },
+     {
+      "username": "greggutfeld",
+      "name": "GregGutfeld"
+     },
+     {
+      "username": "TrumpDailyPosts",
+      "name": "Commentary Trump Daily Posts"
+     }
+    ]
+   },
+   {
+    "id": "entertainment",
+    "name": "Entertainment & culture",
+    "count": 26,
+    "accounts": [
+     {
+      "username": "MrBeast",
+      "name": "MrBeast"
+     },
+     {
+      "username": "NICKIMINAJ",
+      "name": "Nicki Minaj"
+     },
+     {
+      "username": "joerogan",
+      "name": "Joe Rogan"
+     },
+     {
+      "username": "rickygervais",
+      "name": "Ricky Gervais"
+     },
+     {
+      "username": "jk_rowling",
+      "name": "J.K. Rowling"
+     },
+     {
+      "username": "50cent",
+      "name": "50cent"
+     },
+     {
+      "username": "rustyrockets",
+      "name": "Russell Brand"
+     },
+     {
+      "username": "RealJamesWoods",
+      "name": "James Woods"
+     }
+    ]
+   },
+   {
+    "id": "business",
+    "name": "Business & markets",
+    "count": 8,
+    "accounts": [
+     {
+      "username": "cvpayne",
+      "name": "Charles V Payne"
+     },
+     {
+      "username": "KimStrassel",
+      "name": "Kimberley Strassel"
+     },
+     {
+      "username": "RogerBernards",
+      "name": "🇺🇸Roger Bernards🍊"
+     },
+     {
+      "username": "MelissaLMRogers",
+      "name": "Melissa 🇨🇦"
+     },
+     {
+      "username": "nunchuk_io",
+      "name": "nunchuk_io"
+     },
+     {
+      "username": "newton_crypto",
+      "name": "Newton"
+     },
+     {
+      "username": "ErosVilleneuve",
+      "name": "TheRealDavid"
+     },
+     {
+      "username": "Caro_line1112",
+      "name": "Caroline 🇪🇺"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "name": "Science & tech",
+    "count": 3,
+    "accounts": [
+     {
+      "username": "elonmusk",
+      "name": "Elon Musk"
+     },
+     {
+      "username": "neuralink",
+      "name": "Neuralink"
+     },
+     {
+      "username": "CommunityNotes",
+      "name": "Community Notes"
+     }
+    ]
+   },
+   {
+    "id": "local",
+    "name": "Local, weather & travel",
+    "count": 6,
+    "accounts": [
+     {
+      "username": "DriveBC",
+      "name": "DriveBC"
+     },
+     {
+      "username": "EmergencyInfoBC",
+      "name": "EmergencyInfoBC"
+     },
+     {
+      "username": "tropicalupdate",
+      "name": "Mike's Weather Page"
+     },
+     {
+      "username": "AimRoads",
+      "name": "AIMRoads"
+     },
+     {
+      "username": "ppcnos",
+      "name": "Peoples Party of Canada North Okanagan Shuswap"
+     },
+     {
+      "username": "Shuswapland",
+      "name": "David L. Williams"
+     }
+    ]
+   },
+   {
+    "id": "other",
+    "name": "People & other accounts",
+    "count": 238,
+    "accounts": [
+     {
+      "username": "P_McCulloughMD",
+      "name": "Peter A. McCullough, MD, MPH®"
+     },
+     {
+      "username": "KatTimpf",
+      "name": "Kat Timpf"
+     },
+     {
+      "username": "adamcarolla",
+      "name": "Adam Carolla"
+     },
+     {
+      "username": "karolineleavitt",
+      "name": "Karoline Leavitt"
+     },
+     {
+      "username": "lindseyvonn",
+      "name": "lindsey vonn"
+     },
+     {
+      "username": "ScottBaio",
+      "name": "Scott Baio"
+     },
+     {
+      "username": "drsimonegold",
+      "name": "Dr. Simone Gold"
+     },
+     {
+      "username": "robbystarbuck",
+      "name": "Robby Starbuck"
+     }
+    ]
+   }
+  ]
+ }
+}
